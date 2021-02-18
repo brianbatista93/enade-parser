@@ -1,0 +1,48 @@
+<text_header>TEXTO 1</text_header>
+
+<paragraph>
+As empresas possuem diversas opções para efetivação de investimentos em Tecnologia da Informação
+(TI), tais como: comprar, alugar, desenvolver internamente ou terceirizar a aplicação. Os recursos básicos
+necessários às aplicações de TI podem ser encontrados em muitos pacotes comerciais. Comprar um
+pacote pronto pode ser uma estratégia econômica e rápida quando comparada ao desenvolvimento
+interno de uma aplicação. Entretanto, a opção da compra deve ser considerada e planejada com cuidado
+para garantir que o pacote escolhido inclua todos os recursos necessários para lidar com as necessidades
+atuais e futuras da organização.
+</paragraph>
+<source>
+    TURBAN, E.; RAINER, R. K.; POTTER, R. E. <bold>Introdução a sistemas de informação - uma abordagem gerencial.</bold>
+    Rio de Janeiro: Elsevier, 2007 (adaptado).
+</source>
+
+<text_header>TEXTO 2</text_header>
+
+<paragraph>
+    Uma empresa pode ser tanto a compradora quanto a vendedora dos produtos, serviços ou resultados de
+    um projeto. O gerenciamento das aquisições de projetos inclui os processos necessários para comprar
+    ou adquirir produtos, serviços ou resultados externos à equipe do projeto. Esse gerenciamento abrange
+    também os processos de contratos e controle de mudanças necessários para desenvolver e administrar
+    contratos ou pedidos de compra emitidos por membros autorizados da equipe do projeto.
+</paragraph>
+
+<source>
+    PROJECT MANAGEMENT INSTITUTE. <bold>Um guia do conhecimento e gerenciamento de projetos.</bold> 5. ed. [S.l.]: Saraiva, 2014 (adaptado).
+</source>
+
+<question>    
+    Tendo os textos acima como referência e considerando as opções de aquisição ou desenvolvimento
+    interno de aplicações de TI com ênfase nos Sistemas de Informações Gerenciais (SIGs), faça o que se pede
+    nos itens a seguir.
+</question>
+
+<answer_options>
+    <item>
+        Levando em conta a necessidade de decidir pela aquisição ou pelo desenvolvimento de um SIG, descreva
+        dois aspectos organizacionais a serem considerados nessa tomada de decisão.
+    </item>
+    <item>
+        Descreva duas vantagens de se optar pela aquisição de um SIG.
+    </item>
+    <item>
+        Descreva duas vantagens de se optar pelo desenvolvimento de um SIG.
+    </item>
+</answer_options>

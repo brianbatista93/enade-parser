@@ -1,0 +1,54 @@
+<paragraph>
+    O sistema de tarifação de energia elétrica funciona com base em três bandeiras. Na bandeira verde,
+    as condições de geração de energia são favoráveis e a tarifa não sofre acréscimo. Na bandeira amarela,
+    a tarifa sofre acréscimo de R$ 0,020 para cada kWh consumido, e na bandeira vermelha, condição de
+    maior custo de geração de energia, a tarifa sofre acréscimo de R$ 0,035 para cada kWh consumido. Assim,
+    para saber o quanto se gasta com o consumo de energia de cada aparelho, basta multiplicar o consumo
+    em kWh do aparelho pela tarifa em questão.
+</paragraph>
+<source>
+    Disponível em: <link>http://www.aneel.gov.br</link>. Acesso em: 17 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    Na tabela a seguir, são apresentadas a potência e o tempo de uso diário de alguns aparelhos
+    eletroeletrônicos usuais em residências.
+</paragraph>
+
+<table>
+    <image src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_3_0.png" />
+</table>
+
+<source>
+    Disponível em: <link>https://www.educandoseubolso.blog.br</link>. Acesso em: 17 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    Considerando as informações do texto, os dados apresentados na tabela, uma tarifa de R$ 0,50 por kWh
+    em bandeira verde e um mês de 30 dias, avalie as afirmações a seguir.
+</paragraph>
+<question_options>
+    <item>
+        Em bandeira amarela, o valor mensal da tarifa de energia elétrica para um chuveiro de 3 500 W
+        seria de R$ 1,05, e de R$ 1,65, para um chuveiro de 5 500 W.
+    </item>
+    <item>
+        Deixar um carregador de celular e um modem de internet em stand-by conectados na rede de
+        energia durante 24 horas representa um gasto mensal de R$ 5,40 na tarifa de energia elétrica em
+        bandeira verde, e de R$ 5,78, em bandeira amarela.
+    </item>
+    <item>
+        Em bandeira verde, o consumidor gastaria mensalmente R$ 3,90 a mais na tarifa de energia elétrica
+        em relação a cada lâmpada incandescente usada no lugar de uma lâmpada LED.
+    </item>
+</question_options>
+<question>
+    É correto o que se afirma eim
+</question>
+<answer_options>
+    <item>II, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>I e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

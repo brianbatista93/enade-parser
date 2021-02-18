@@ -1,0 +1,28 @@
+<paragraph>
+    Os serviços de computação em nuvem fornecem a Tecnologia da Informação (TI) como serviço
+    pela internet ou por uma rede dedicada, com entrega sob demanda e pagamento com base no uso.
+    Esses serviços variam de aplicativos completos e plataformas de desenvolvimento até servidores,
+    armazenamento e desktops virtuais.
+</paragraph>
+
+<paragraph>
+    Podem-se citar vários serviços de computação em nuvem, por exemplo, a Infraestrutura como Serviço
+    (Infrastructure as a Service - laaS), a Plataforma como Serviço (Platform as a Service - PaaS) e o Software
+    como Serviço (Software as a Service - SaaS).
+</paragraph>
+
+<source>
+    Disponível em: <https://www.brazil.emc.com>. Acesso em: 3 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    Considere que uma empresa planeja contratar um serviço de computação em nuvem (laaS, PaaS ou SaasS),
+    sob demanda, que forneça servidores virtuais e permita a configuração e administração dos sistemas
+    operacionais necessários via internet. Considere, ainda, que a empresa necessita do controle dos sistemas
+    operacionais, rede e sistemas a serem instalados nos servidores virtuais.
+</paragraph>
+
+<question>
+    Com base nessa situação, defina o serviço de computação em nuvem que mais se adequa a essa empresa
+    e explique o conceito desse serviço.
+</question>
