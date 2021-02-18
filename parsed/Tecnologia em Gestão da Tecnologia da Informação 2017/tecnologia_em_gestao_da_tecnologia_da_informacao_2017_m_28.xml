@@ -1,0 +1,66 @@
+<paragraph>
+    Ao terceirizarem o ambiente de Tecnologia da
+    Informação (TI), as empresas ficam livres da
+    complexidade operacional para se concentrarem
+    naquilo que sabem, ou seja nas ações voltadas à
+    consecução de sua atividade fim. Desse modo, a
+    terceirização desse ambiente permite que a equipe
+    de TI da instituição possa se dedicar à melhoria
+    e à inovação das ações típicas da instituição,
+    tornando-se parte importante do negócio, uma
+    vez que deixam de ter como principal atribuição a
+    manutenção da infraestrutura de TI.
+</paragraph>
+
+<source>
+    Disponível em: <link>http://www.exame.abril.com.br/tecnologia</link>.
+    Acesso em: 24 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    A partir do conceito de terceirização (<i>outsourcing</i>)
+    aplicável à área de TI, avalie as asserções a seguir e
+    a relação proposta entre elas.
+</paragraph>
+
+<porque>
+    <first>
+        A computação em nuvem é uma ferramenta
+        importante para o <i>outsourcing</i> de Tecnologia
+        da Informação.
+    </first>
+    <pq/>
+    <second>
+        O <i>outsourcing</i> de <i>cloud</i> coloca computadores
+        de ponta à disposição das empresas, O
+        que favorece a agilidade operacional e
+        garante que a área de TI promova inovações
+        estratégicas e transformadoras.
+    </second>
+</porque>
+
+<question>
+    A respeito dessas asserções, assinale a opção correta.
+</question>
+
+<answer_options>
+    <item>
+        As asserções I e II são proposições verdadeiras,
+        e a II é uma justificativa correta da I.
+    </item>
+    <item>
+        As asserções I e II são proposições verdadeiras,
+        mas a II não é uma justificativa correta da I.
+    </item>
+    <item>
+        A asserção I é uma proposição verdadeira, e a II
+        é uma proposição falsa.
+    </item>
+    <item>
+        A asserção I é uma proposição falsa, e a II é uma
+        proposição verdadeira.
+    </item>
+    <item>
+        As asserções I e II são proposições falsas.
+    </item>
+</answer_options>

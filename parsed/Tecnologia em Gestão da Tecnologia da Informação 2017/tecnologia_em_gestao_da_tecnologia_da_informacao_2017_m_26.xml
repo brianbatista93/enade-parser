@@ -1,0 +1,58 @@
+<paragraph>
+    Certamente, uma empresa com um volume de
+    10 000 notas fiscais por mês (e com vários itens
+    por nota fiscal) não usará cópias dessas notas
+    como meio de entrada de dados sobre receitas nos
+    subsistemas de contas a receber e de contabilidade.
+    Isso equivaleria a classificar e efetuar 10 000 ou
+    mais lançamentos, respectivamente, para cada
+    cliente, de acordo com o seu código contábil.
+    Por outro lado, de alguma forma, o sistema de
+    contas a receber deve "informar" ao sistema de
+    contabilidade os recebimentos de clientes. Da
+    mesma forma, pode ser inviável o registro contábil
+    de um por um dos comprovantes de recebimento.
+</paragraph>
+
+<source>
+    BIO, S. R. <b>Sistema de informação:</b> um enfoque gerencial. 2. ed.
+    São Paulo: Atlas, 2008 (adaptado).
+</source>
+
+<question>
+    A situação descrita no texto é um típico caso de
+    problema a ser resolvido com
+</question>
+
+<answer_options>
+    <item>
+        <i>datawarehouse</i>, um depósito de dados
+        orientado por assunto, integrado, não volátil,
+        variável com o tempo, para apoiar as decisões
+        gerenciais.
+    </item>
+    <item>
+        SOA (<i>Service Oriented Architecture</i>), uma
+        arquitetura proposta para interoperabilidade de
+        sistemas por meio de um conjunto de interfaces
+        de serviços.
+    </item>
+    <item>
+        ERP (<i>Enterprise Resource Planning</i>), um software
+        que integra todos os dados e processos de uma
+        organização em um único sistema.
+    </item>
+    <item>
+        GED (Gestão Eletrônica de Documentos), um
+        conjunto de tecnologias que permite a uma
+        empresa gerenciar seus documentos em forma
+        digital.
+    </item>
+    <item>
+        gestão do conhecimento, uma área de atuação
+        transversal relacionada, sobretudo, à gestão
+        estratégica, teoria das organizações, sistema
+        de informação, gestão da tecnologia, e às áreas
+        mais tradicionais.
+    </item>
+</answer_options>

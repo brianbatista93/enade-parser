@@ -1,0 +1,55 @@
+<paragraph>
+    Recentemente, variantes de  <i>ransomware</i>
+    provocaram uma onda de sequestros digitais, que
+    afetou hospitais, operadoras de telecomunicações
+    e usuários residenciais.
+</paragraph>
+<paragraph>
+    Os <i>ransomwares</i> são utilizados com o objetivo
+    de entrar nos sistemas corporativos por meio da
+    rede e criptografar todos os dados da empresa,
+    de modo que possam exigir um resgate financeiro
+    para liberá-los.
+</paragraph>
+<source>
+    Disponível em: <link>http://www.junipernetworks.com.br</link>.
+    Acesso em: 10 jul. 2017 (adaptado).
+</source>
+<paragraph>
+    Considerando as informações do texto, avalie
+    as afirmações a seguir, em relação às medidas
+    de prevenção que devem compor a política de
+    segurança corporativa contra esse tipo de <i>malware</i>.
+</paragraph>
+
+<question_options>
+    <item>
+        Deve-se manter o treinamento constante
+        dos usuários em relação ao uso de <i>e-mail</i> e
+        sítios seguros, suspeitos ou falsos.
+    </item>
+    <item>
+        Deve-se garantir a existência de uma boa
+        política de combate e recuperação contra
+        desastres em relação às cópias de segurança.
+    </item>
+    <item>
+        Deve-se prevenir a contaminação por meio
+    de ferramentas capazes de detectar ataques
+    de força bruta, característicos desses
+    <i>worms</i>, e cujo objetivo é contaminar os
+    computadores da rede.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

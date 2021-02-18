@@ -1,0 +1,64 @@
+<paragraph>
+    Um caso de uso é a descrição de sequências de ações
+    realizadas pelo sistema que proporciona resultados
+    observáveis de valor para um determinado ator,
+    é utilizado para estruturar o comportamento de
+    um sistema e é realizado por uma colaboração.
+    Diagramas de caso de uso abrangem a visão estática
+    do sistema. Esses diagramas são importantes
+    principalmente para a organização e a modelagem
+    de comportamentos do sistema.
+</paragraph>
+
+<source>
+    BOOCH, G. RUMBAUGH, M. JACOBSON, I. UML:
+    Guia do usuário (adaptado).
+</source>
+
+<question>
+    Nesse contexto, acerca da descrição de casos de
+    uso, avalie as afirmações a seguir.
+</question>
+
+<question_options>
+    <item>
+        Embora a descrição de casos de uso enfoque
+        requisitos funcionais, ela também pode
+        especificar requisitos não funcionais, de
+        forma a comunicar decisões que devem ser
+        consideradas no nível de projeto, no ciclo de
+        vida do <i>software</i>.
+    </item>
+    <item>
+        Na fase de elicitação de requisitos de um
+        processo de <i>software</i>, artefatos como
+        protótipos de interfaces gráficas e diagramas
+        de atividades UML podem ser usados
+        como suporte à escrita e à compreensão
+        da descrição de casos de uso em cenários
+        complexos, que envolvem muitas condições
+        e restrições.
+    </item>
+    <item>
+        A partir da descrição de casos de uso, que
+        estabelece o fluxo e as regras de interação
+        entre usuário e sistema por meio dos cenários
+        principal e alternativos, podem ser escritos
+        casos de teste caixa-preta para validação
+        funcional do <i>software</i>, antecipando-se o
+        planejamento de testes para antes das fases
+        de projeto e codificação.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>II, apenas.</item>
+    <item>I e III, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

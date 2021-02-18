@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../quiz.css">
+        
+    </head>
+    <body>
+        <p class="paragraph">
+            Considere um painel luminoso representado por uma matriz quadrada de ordem n, sendo n um
+        número inteiro ímpar. A cor de cada célula é definida pelo elemento cor [i, j] utilizado na posição
+        correspondente no painel. Considere, ainda, que a função <i>par (x)</i> devolve verdadeiro se o argumento x
+        for um número par. O trecho de código a seguir foi elaborado para produzir determinado padrão no painel.
+        </p>
+        <pre class="text">
+            ...
+            m = (n+1)/2
+            para i = 1 até n faça
+                para j = 1 até n faça
+                    se ((par(i) e par(j)) e ((i - j = 0) ou ((i + j) = (n + 1)) ou (i = m) ou (j = m)) então
+                        cor[i,j] = preto
+                    senão
+                        cor[i,j] = branco
+                    fim-se
+                fim-para
+            fim-para
+            ...
+        </pre>
+        
+        <p class="question" style="font-size: 24">
+            Nessa situação, se o valor de n for igual a 7, o padrão que será produzido no painel é
+        </p>
+        
+        <ol class="answer-options" type="A">
+            <pre class="text">
+                <li class="item">
+                    <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_21_0.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+                </li>
+            </pre>
+            <pre class="text">
+                <li class="item">
+                    <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_21_1.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+                </li>
+            </pre>
+            <pre class="text">
+                <li class="item">
+                    <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_21_2.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+                </li>
+            </pre>
+            <pre class="text">
+                <li class="item">
+                    <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_21_3.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+                </li>
+            </pre>
+            <pre class="text">
+                <li class="item">
+                    <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_21_4.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+                </li>
+            </pre>
+        </ol>
+    </body>
+</html>

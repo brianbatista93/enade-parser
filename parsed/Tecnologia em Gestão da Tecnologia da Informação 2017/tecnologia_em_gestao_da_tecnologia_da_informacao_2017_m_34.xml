@@ -1,0 +1,59 @@
+<paragraph>
+    A unidade de Tecnologia da Informação (TI) de uma determinada empresa é vista como ruim, pois não
+    produz níveis de serviço adequados. Há alguns meses, após a fusão dessa empresa com uma outra do
+    mesmo ramo, foi nomeado um novo executivo, que se sente preocupado com o desempenho da unidade
+    de Tl e pretende melhorá-lo. Uma questão contínua é que novos produtos da empresa são introduzidos
+    sem que a equipe de TI seja avisada, o que força situações que exigem construção de infraestrutura e
+    elaboração dos sistemas de suporte necessários. Pelo fato de os produtos da empresa acumularem muitos
+    dados e haver muitos clientes, um novo produto pode implicar em um aumento repentino da demanda
+    por serviços e infraestrutura de TI. É caro e difícil satisfazer essa demanda para esse fim específico e os
+    resultados alcançados têm gerado insatisfação contínua em relação à unidade de TI.
+</paragraph>
+
+<source>
+    HUNTER, R.; WESTERMAN, G. <b>O verdadeiro valor de TI</b>. São Paulo: M. Books, 2011 (adaptado).
+</source>
+
+<paragraph>
+    Com base nessa situação, avalie as asserções a seguir e a relação proposta entre elas.
+</paragraph>
+
+<porque>
+    <first>
+        A criação de um comitê composto exclusivamente pelo pessoa! da àrea de TI, com autonomia
+        para tomar as decisões que afetam as demandas por serviços e infraestrutura de Tl, seria uma
+        opção acertada.
+    </first>
+    <pq/>
+    <second>
+        A empresa possui um arranjo decisório Inadequado para suas expectativas; a pouca credibilidade
+        da área de Tl e a falta de envolvimento dessa área nas decisões compromete o alinhamento
+        estratégico entre a Tl e o negócio, problema relacionado à governança de TI.
+    </second>
+</porque>
+
+<question>
+    A respeito dessas asserções, assinale a opção correta.
+</question>
+
+<answer_options>
+    <item>
+        As asserções I e II são proposições verdadeiras, e a II é uma Justificativa correta da I.
+    </item>
+
+    <item>
+        As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    </item>
+    
+    <item>
+        A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+    </item>
+
+    <item>
+        A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    </item>
+
+    <item>
+        As asserções I e II são proposições falsas.
+    </item>
+</answer_options>

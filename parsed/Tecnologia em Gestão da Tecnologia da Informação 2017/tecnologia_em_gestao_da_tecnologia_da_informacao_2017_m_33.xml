@@ -1,0 +1,74 @@
+<paragraph>
+    Com o objetivo de facilitar o processo de
+    interconectividade em redes, considerando-se
+    os diversos tipos de dispositivos, máquinas e
+    fabricantes, foi desenvolvido um modelo de
+    arquitetura-padrão denominado modelo OSI, que
+    contém sete camadas, descritas a seguir:
+</paragraph>
+
+<list>
+    <item>
+        <b>física</b>-transmissão de bits; estabelecimento
+        de conexões físicas; modulação analógica
+        e digital;
+    </item>
+    <item>
+        <b>enlace de dados</b> - delineamento de quadros;
+        controle de acesso ao meio;
+    </item>
+    <item>
+        <b>rede</b> - controle de congestionamento;
+    </item>
+    <item>
+        <b>transporte</b> - detecção e correção de erros
+        fim a fim; controle de fluxo; multiplexação;
+    </item>
+    <item>
+        <b>sessão</b> - gerência de diálogo; sincronização;
+        gerência de atividade;
+    </item>
+    <item>
+        <b>apresentação</b> - conversão de formatos;
+        criptografia; compressão de dados;
+    </item>
+    <item>
+        <b>aplicação</b> - correio eletrônico; terminal
+        virtual; serviços diversos.
+    </item>
+</list>
+
+<paragraph>
+    Com base no modelo OSI descrito, avalie as
+    afirmações a seguir, em relação à camada em que
+    cada dispositivo de interconexão atua.
+</paragraph>
+
+<question_options>
+    <item>
+        O <i>gateway</i> atua nas camadas de aplicação,
+        apresentação, sessão e transporte.
+    </item>
+
+    <item>
+        O <i>switch</i> atua na camada de enlace de
+        dados.
+    </item>
+
+    <item>
+        O roteador atua na camada de enlace de
+        dados e na de rede.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

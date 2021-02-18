@@ -1,0 +1,45 @@
+<paragraph>
+    A virtualização permite que um unico computador
+hospede diversas máquinas virtuais, cada uma
+com seu próprio sistema operacional. Essa técnica
+ganhou importância e conhecimento público a
+partir da década de 1990 e, atualmente, vem sendo
+utilizada para resolver diversos tipos de problemas.
+</paragraph>
+
+<paragraph>
+    Considerando os diversos aspectos a serem
+    observados na utilização da virtualização, avalie as
+    afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        Um sistema operacional executado em uma
+        máquina virtual utiliza um subconjunto da
+        memória disponível na máquina real.
+    </item>
+    <item>
+        Uma das aplicações da virtualização é a
+        disponibilização de múltiplos sistemas
+        operacionais para teste de <i>software</i>.
+    </item>
+    <item>
+        Um sistema operacional executado em uma
+        máquina virtual apresenta um desempenho
+        superior ao que alcançaria quando executado
+        diretamente na mesma máquina real.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

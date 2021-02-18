@@ -1,0 +1,57 @@
+<paragraph>
+    O uso das técnicas de BPM (Business Process
+    Management) visam à melhoria contínua do
+    desempenho e à busca de resultados consistentes
+    e alinhados aos objetivos estratégicos da
+    empresa, sejam os processos automatizados ou
+    não, e seus benefícios incluem o aumento de
+    produtividade e a redução de erros, custos e
+    desperdício.
+</paragraph>
+
+<paragraph>
+    Considerando as ferramentas de TI que
+    contribuem para a eficácia da implementação
+    de BPM nas organizações, avalie as afirmações a
+    seguir, em relação às oportunidades de melhoria
+    nos processos de negócio.
+</paragraph>
+
+<question_options>
+    <item>
+        A utilização de SOA (<i>Service Oriented
+        Architecture</i>) contribui para a criação de
+        sistemas corporativos que se adaptam aos
+        requisitos de BPM.
+    </item>
+    <item>
+        Para a implementação de <i>softwares</i> que
+        respeitem a sintaxe BPM, deve-se ter acesso
+        ao código fonte para identificar o padrão de
+        armazenamento de dados.
+    </item>
+    <item>
+        A ferramenta de BPM chamada BAM
+        (<i>Business Activity Monitoring</i>) é utilizada
+        para a modelagem de processos e o
+        gerenciamento de dados.
+    </item>
+    <item>
+        A utilização de BPMS (<i>Business Process
+        Management Systems</i>) permite gerar
+        aplicações e fornecer suporte à execução de
+        operações de negócio.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>I e II.</item>
+    <item>I e IV.</item>
+    <item>III e IV.</item>
+    <item>I, II, e III.</item>
+    <item>II, III e IV.</item>
+</answer_options>
