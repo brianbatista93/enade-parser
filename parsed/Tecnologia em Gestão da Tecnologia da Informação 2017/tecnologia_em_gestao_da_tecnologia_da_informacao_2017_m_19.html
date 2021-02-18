@@ -1,0 +1,99 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../quiz.css">
+        
+    </head>
+    <body>
+        <p class="paragraph">
+            Considere o modelo de dados a seguir.
+        </p>
+        <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_19_0.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        
+        <p class="paragraph">
+            A empresa que se utilizou do modelo de dados apresentado desejava obter um relatório com a quantidade
+            e o total de vendas por vendedor, a cada ano, conforme a tabela a seguir.
+        </p>
+        
+        <div class="table">
+            <img src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_19_1.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        </div>
+        
+        <p class="question" style="font-size: 24">
+            Com base nessas informações, assinale a opção com a consulta SQL que gera corretamente os dados do
+            relatório solicitado pela empresa.
+        </p>
+        
+        <ol class="answer-options" type="A">
+            <li class="item">
+                <pre class="text">
+                    SELECT
+                        YEAR(p.dt_pedido) AS ano,
+                        v.ds_nome AS vendedor,
+                        COUNT(DISTINCT p.id_pedido) AS qtd_vendas,
+                        SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+                    FROM tb_vendedor v
+                    INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+                    INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+                    GROUP BY year(p.dt_pedido), v.ds_nome
+                    ORDER BY year(p.dt_pedido), v.ds_nome;
+                </pre>
+            </li>
+            <li class="item">
+                <pre class="text">
+                    SELECT
+                        YEAR(dt_pedido) AS ano,
+                        v.ds_nome AS vendedor,
+                        COUNT(DISTINCT p.id_pedido) AS qtd_vendas,
+                        SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+                    FROM tb_vendedor v
+                    INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+                    INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+                    GROUP BY dt_pedido, ds_nome
+                    ORDER BY year(p.dt_pedido), v.ds_nome;
+                </pre>
+            </li>
+            <li class="item">
+                <pre class="text">
+                    SELECT
+                        YEAR(dt_pedido) AS ano,
+                        v.ds_nome AS vendedor,
+                        AVG(p.id_pedido) AS qtd_vendas,
+                        SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+                    FROM tb_vendedor v
+                    OUTER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+                    OUTER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+                    GROUP BY year(p.dt_pedido), v.ds_nome
+                    ORDER BY year(p.dt_pedido), v.ds_nome;
+                </pre>
+            </li>
+            <li class="item">
+                <pre class="text">
+                    SELECT
+                        YEAR(p.dt_pedido) AS ano,
+                        v.ds_nome AS vendedor,
+                        COUNT(p.id_pedido) AS qtd_vendas,
+                        SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+                    FROM tb_vendedor v
+                    INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+                    INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+                    GROUP BY p.dt_pedido, v.ds_nome
+                    ORDER BY p.dt_pedido, v.ds_nome;
+                </pre>
+            </li>
+            <li class="item">
+                <pre class="text">
+                    SELECT
+                        YEAR(p.dt_pedido) AS ano,
+                        v.ds_nome AS vendedor,
+                        AVG(DISTINCT p.id_pedido) AS qtd_vendas,
+                        SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+                    FROM tb_pedido p
+                    INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+                    RIGHT JOIN tb_vendedor v ON p.id_vendedor = v.id_vendedor
+                    GROUP BY year(p.dt_pedido), v.ds_nome
+                    ORDER BY year(p.dt_pedido), v.ds_nome;
+                </pre>
+            </li>
+        </ol>
+    </body>
+</html>

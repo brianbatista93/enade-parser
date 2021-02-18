@@ -1,0 +1,55 @@
+<paragraph>
+    Nas organizações, as redes de computadores
+    e os equipamentos são soluções tecnológicas
+    planejadas e construídas com base em padrões.
+    Um dos padrões responsáveis pela comunicação e o
+    endereçamento em redes é o TCP/IP (<i>Transmission
+    Control Protocol/Internet Protocol</i>), que permite
+    a comunicação entre diferentes computadores,
+    sistemas operacionais e aplicativos que aceitam
+    esse protocolo.
+</paragraph>
+<source>
+    SOUSA, L. B. <b>Projetos e implementação de redes:</b> Fundamentos,
+    Soluções, Arquitetura e Planejamento.
+    São Paulo: Erica, 2013 (adaptado).
+</source>
+
+<paragraph>
+    Com base no protocolo de comunicação de dados
+    em rede TCP/IP, mencionado no texto acima, avalie
+    as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        Os programas que controlam a comunicação
+        dos dados entre equipamentos e aplicativos
+        em redes são chamados de protocolos de
+        armazenamento de dados.
+    </item>
+    <item>
+        Dois sistemas operacionais com plataforma
+        de <i>hardware</i> distintas comunicam-se entre si
+        por meio de um protocolo comum, o TCP/IP.
+    </item>
+    <item>
+        O nome TCP/IP se refere a dois protocolos:
+        o TCP, protocolo responsável pelo controle e
+        qualidade da comunicação entre a origem e
+        o destino final, e o IP, protocolo responsável
+        pelo endereçamento nas redes.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>II, apenas.</item>
+    <item>I e III, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

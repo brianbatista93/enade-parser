@@ -1,0 +1,71 @@
+<paragraph>
+    A arquitetura de distribuição diz respeito ao modo
+    como uma organização distribui fisicamente
+    entre os seus computadores, em uma rede, o
+    processamento dos dados e o seu banco de dados.
+    Essa arquitetura traz consequências importantes
+    para o desempenho e o uso do banco de dados. As
+    redes de computadores permitem que um Sistema
+    Gerenciador de Banco de Dados (SGBD), que é
+    executado em um computador, possa acessar
+    dados de outro computador.
+</paragraph>
+
+<source>
+    GORDON S.R.; GORDON !J.R. <b>Sistemas de Informação</b>:
+    uma abordagem gerencial. 3. ed. Rio de Janeiro:
+    LTC, 2013 (adaptado).
+</source>
+
+<paragraph>
+    Considerando esse contexto, avalie as descrições
+    a seguir, acerca de opções de arquiteturas de
+    dados utilizados por administradores e especialistas
+    em SGBD.
+</paragraph>
+
+<question_options>
+    <item>
+        Arquitetura descentralizada: não envolve
+        compartilhamento de dados.
+    </item>
+    <item>
+        Arquitetura centralizada: um único SGBD
+        é executado em um único computador e
+        mantém os dados de forma centralizada.
+    </item>
+    <item>
+        Arquitetura mista: permite, por meio do seu
+        SGBD, que se obtenha um processamento
+        consolidado, com dados distribuídos e
+        centralizados de forma simultânea sem
+        que haja redundância de dados e de
+        processamento.        
+    </item>
+    <item>
+        Arquitetura cliente/servidor: divide as
+        funções de um SGBD entre computadores
+        conectados em uma rede enquanto
+        centraliza o armazenamento permanente
+        para todos os dados em um servidor de
+        banco de dados.
+    </item>
+    <item>
+        Arquitetura distribuída: distribui tanto
+        dados como processamento e não dispõe,
+        necessariamente, de armazenamento
+        centralizado de dados.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se descreve em
+</question>
+
+<answer_options>
+    <item>III e IV.</item>
+    <item>I, II, e V.</item>
+    <item>I, III, e IV.</item>
+    <item>II, III e V.</item>
+    <item>I, II, IV e V</item>
+</answer_options>

@@ -1,0 +1,53 @@
+<paragraph>
+    Uma empresa da industria farmacêutica está
+    implantando um <i>datawarehouse</i> que servirá de
+    base para geração de suas informações gerenciais.
+    Durante o processo de análise, descobre-se
+    que dois sistemas transacionais adquiridos
+    de empresas diferentes armazenam dados
+    cadastrais de forma diversa: o primeiro utiliza
+    “m” e “Ff” para representar os sexos masculino e
+    feminino, respectivamente. Já o segundo sistema
+    representa os mesmos sexos como “1” e “2”,
+    respectivamente. Além disso, outros sistemas
+    transacionais da própria empresa alimentam-se
+    de dados desses sistemas.
+</paragraph>
+
+<paragraph>
+    Sabendo que os dados de ambos sistemas
+    transacionais alimentarão o <i>datawarehouse</i> que
+    está sendo implantado na referida empresa,
+    avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        A empresa deve definir um padrão e utilizar
+        uma solução de ETL (<i>Extract, Transform and
+        Load</i>) para adequar os dados de entrada
+        para o <i>datawarehouse</i> ao padrão definido.
+    </item>
+    <item>
+        A empresa deve armazenar, na tabela de
+        fatos do <i>datawarehouse</i>, a sigla do sistema
+        de origem para saber interpretar os dados.
+    </item>
+    <item>
+        A empresa deve solicitar aos fornecedores
+        dos aplicativos que a representação de seus
+        dados ocorra de forma padronizada.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>II, apenas.</item>
+    <item>I e III, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

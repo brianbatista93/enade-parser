@@ -1,0 +1,51 @@
+<paragraph>
+    O padrão internacional ISO/IEC 17799:2005,
+    define práticas para a análise e elaboração de um
+    projeto para a gestão da segurança da informação.
+    Os conceitos mais importantes consistem em
+    confiabilidade, integridade, disponibilidade e
+    autenticidade, entendidos também como práticas
+    essenciais para criar sistemas que evitam perda
+    de dados e deixam as informações mais seguras. À
+    aplicação dessas práticas garante a drástica redução
+    dos riscos de uma organização sofrer um ataque.
+</paragraph>
+<source>
+    LYRA, M. R. <b>Segurança e auditoria em sistemas de informação</b>.
+    São Paulo: Ciência Moderna, 2009 (adaptado).
+</source>
+
+<paragraph>
+    Com base no texto, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        A confidencialidade é a capacidade de um
+        sistema permitir que usuários autorizados
+        acessem determinadas informações e
+        impedir o acesso a elas aos demais usuários.
+    </item>
+    <item>
+        A autenticidade e a integridade garantem
+        que a informação esteja correta, seja
+        verdadeira e não esteja corrompida.
+    </item>
+    <item>
+        A disponibilidade garante que a informação
+        esteja disponível para todos os usuários que
+        precisarem dela, sempre que necessário.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>II, apenas.</item>
+    <item>I e III, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

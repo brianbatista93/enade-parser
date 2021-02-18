@@ -1,0 +1,48 @@
+<paragraph>
+    Sabendo-se que, na área de segurança da
+    informação, uma empresa pode apresentar
+    inúmeras fragilidades, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        A instabilidade dos sistemas corporativos
+        compromete a disponibilidade das
+        informações.        
+    </item>
+    <item>
+        Quando as informações presentes nas bases
+        de dados corporativas possuem referência
+        de sua fonte e/ou critério que permite sua
+        validação, ocorre comprometimento em
+        sua autenticidade.
+    </item>
+    <item>
+        Se a entrada de informações depende do
+        atendimento de critérios de validação
+        com base nos requisitos dos sistemas e
+        nas regras de negócio, a integridade das
+        informações é prejudicada.
+    </item>
+    <item>
+        Compromete-se a confidencialidade da
+        informação quando não há controle do
+        seu uso pelos usuários, possibilitando a
+        impressão e/ou cópia de informações do
+        ambiente corporativo sem a identificação
+        do usuário responsável ou da destinação de
+        tal ação.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>I e III.</item>
+    <item>I e IV.</item>
+    <item>II e III.</item>
+    <item>I, II e IV.</item>
+    <item>II, III e IV.</item>
+</answer_options>

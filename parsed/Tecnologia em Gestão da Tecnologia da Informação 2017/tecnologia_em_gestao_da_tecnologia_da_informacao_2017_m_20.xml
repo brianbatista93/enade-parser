@@ -1,0 +1,40 @@
+<image src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_20_0.png" />
+<source>
+    Disponível em: <link>http://wWww.projectcartoon.com</link>. Acesso em: 05 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    Conforme ilustrado na figura apresentada, se os requisitos não Torem levantados e documentados
+    adequadamente, o projeto não terá sucesso. A inclusão de boas práticas na execução das fases da
+    engenharia de requisitos (elicitação, análise e negociação, documentação, validação e gerenciamento)
+    pode contribuir significativamente para a obtenção de um <i>software</i> que atenda as expectativas e
+    necessidades do cliente.
+</paragraph>
+
+<source>
+    SOMMERVILLE, 1. A. N., RANSOM, J. <i>An Empirical Study of Industrial Requirements Engineering Process Assessment and Improvement.</i>
+    <b>Journal ACM Transactions on Software Engineering and Methodology</b>, 14(1), pg. 85—117, 2005 (adaptado).
+</source>
+
+<question>
+    Nesse contexto, as atividades referentes à fase de análise e negociação de requisitos são:
+</question>
+
+<answer_options>
+    <item>
+        priorizar requisitos; classificar requisitos; planejar conflitos e resolvê-lios.
+    </item>
+    <item>
+        criar um sumário de requisitos; definir termos especializados; rastrear requisitos.
+    </item>
+    <item>
+        registrar fonte de requisitos; procurar domínios de restrição; modelar casos de uso.
+    </item>
+    <item>
+        rastrear requisitos; definir políticas de mudança de requisitos; introduzir ferramentas de apoio.
+    </item>
+    <item>
+        escrever um manual de usuário; organizar inspeções de requisitos; desenvolver caso de teste
+        preliminar.
+    </item>
+</answer_options>

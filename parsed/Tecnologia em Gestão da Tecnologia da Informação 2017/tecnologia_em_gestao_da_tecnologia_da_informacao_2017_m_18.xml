@@ -1,0 +1,47 @@
+<paragraph>
+    O diagrama a seguir, em notação BPMN (<i>Business Process Management Notation</i>), representa graficamente
+    o processo de aquisição de matéria-prima de uma indústria, no qual apresenta-se o fluxo de trabalho entre
+    seus setores e fornecedores. Destaca-se que, para atender normas de responsabilidade socioambiental,
+    a indústria trabalha somente com fornecedores homologados, ou seja, que cumprem requisitos técnicos
+    e legais.
+</paragraph>
+<image src="images/tecnologia_em_gestao_da_tecnologia_da_informacao_2017_m_18_0.png" />
+<paragraph>
+    Com base nessa situação e no processo representado, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O abastecimento do estoque e a autorização do pagamento ao fornecedor dependem da aprovação
+        resultante da conferência do material entregue no depósito.
+    </item>
+    <item>
+        Somente depois de se distribuir a matéria-prima ao setor requisitante é que a autorização do
+        pagamento será realizada.
+    </item>
+    <item>
+        No diagrama, são representados cinco momentos de decisão que, conforme seu resultado,
+        estabelecem caminhos diferentes de prosseguimento do fluxo de atividades.
+    </item>
+    <item>
+        A nota fiscal será recebida pelo depósito junto com a matéria-prima e será repassada ao financeiro
+        somente depois da aprovação dessa matéria-prima.
+    </item>
+    <item>
+        O processo seria otimizado se fosse criado e mantido um cadastro de fornecedores homologados
+        para se evitar a repetição das tarefas a cada requisição; com isso, somente novos fornecedores
+        exigiriam a execução de atividades de homologação.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, II e III.</item>
+    <item>I, III e IV.</item>
+    <item>I, IV e V.</item>
+    <item>II, III e V</item>
+    <item>II, IV e V</item>
+</answer_options>

@@ -1,0 +1,72 @@
+<paragraph>
+    Teoricamente, o termo de abertura de projetos
+    (TAP) é atribuição do patrocinador. Nele, o gerente
+    de projetos deveria ser nomeado. Entretanto, a
+    realidade aponta para um cenário bem diferente:
+    os gerentes de projetos são comumente chamados
+    para participar da elaboração do termo, mesmo em
+    suas versões iniciais. Nesse momento, em boa parte
+    das metodologias implantadas, é preciso elaborar
+    um documento que sintetiza a visão do projeto,
+    contendo, total ou parcialmente, as seguintes
+    sessões: justificativa; objetivos; requisitos (visão);
+    riscos (visão inicial); cronograma de marcos;
+    orçamento resumido; designação do gerente de
+    projetos e do patrocinador; premissas e restrições.
+</paragraph>
+<source>
+    Disponível em: <link>http://www.p4pro.com.br</link>.
+    Acesso em: 12 jul. 2017 (adaptado).
+</source>
+
+<paragraph>
+    Um patrocinador deseja apresentar um projeto de
+    melhoria de processos de um <i>datacenter</i> voltado
+    para a recuperação de desastres. Nessa fase, o TAP
+    está sendo finalizado. As reuniões para aprovação
+    do orçamento, que só será apreciado no fim do
+    planejamento, ocorrerão nos dois meses seguintes
+    e, geralmente, duram dois dias consecutivos, dado
+    o grande número de projetos a serem apreciados.
+    A diretoria já definiu que não será aprovado um
+    orçamento acima de R$ 5 milhões para nenhum
+    projeto isolado. A equipe de projetos espera
+    receber todas as especificações até o fim do mês
+    em curso para entregar o planejamento no prazo
+    combinado.
+</paragraph>
+
+<paragraph>
+    Com base nessa situação e considerando a
+    necessidade de ajustar o TAP, avalie as afirmações
+    a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O valor de R$ 5 milhões representa uma
+        restrição para o projeto.
+    </item>
+    <item>
+        A aprovação do orçamento é um marco
+        importante para esse projeto.
+    </item>
+    <item>
+        A aprovação do orçamento deverá ser
+        declarada no cronograma de marcos,
+        informando-se um marco com duração de
+        dois dias.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>
