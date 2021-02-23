@@ -1,0 +1,60 @@
+<paragraph>
+    O quadro a seguir apresenta a proporção (%)
+    de trabalhadores por faixa de tempo gasto no
+    deslocamento casa-trabalho, no Brasil e em três
+    cidades brasileiras.
+</paragraph>
+
+<table>
+    <image src="images/educacao_fisica_2014_m_7_0.png" />
+</table>
+
+<source>
+    CENSO 2010/IBGE (adaptado).
+</source>
+
+<paragraph>
+    Com base nos dados apresentados e considerando a
+    distribuição da população trabalhadora nas cidades e
+    as políticas públicas direcionadas à mobilidade urbana,
+    avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        A distribuição das pessoas por faixa de tempo
+        de deslocamento casa-trabalho na região
+        metropolitana do Rio de Janeiro é próxima à que
+        se verifica em São Paulo, mas não em Curitiba e
+        na média brasileira.
+    </item>
+
+    <item>
+        Nas metrópoles, em geral, a maioria dos postos
+        de trabalho está localizada nas áreas urbanas
+        centrais, e as residências da população de baixa
+        renda estão concentradas em áreas irregulares
+        ou na periferia, o que aumenta o tempo gasto por
+        esta população no deslocamento casa-trabalho e
+        o custo do transporte.
+    </item>
+
+    <item>
+        As políticas públicas referentes a transportes
+        urbanos, como, por exemplo, Bilhete Único
+        e Veículo Leve sobre Trilhos (VLT), ao serem
+        implementadas, contribuem para redução do
+        tempo gasto no deslocamento casa-trabalho e
+        do custo do transporte.
+    </item>
+</question_options>
+
+<question>É correto o que se afirma em</question>
+
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>
