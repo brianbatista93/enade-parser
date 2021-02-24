@@ -1,0 +1,88 @@
+<paragraph>
+    O transporte de um fluido entre dois pontos no interior
+    de um tubo ocorre simultaneamente, com perda de
+    energia, devido ao atrito do fluido com a parede e ao
+    escoamento turbulento. Portanto, quanto maior for
+    a rugosidade da parede da tubulação ou mais viscoso
+    for o fluido, maior será a perda de energia. A forma
+    de determinação do fator de atrito foi estabelecida
+    em 1939, por intermédio da equação de Colebrook-
+    White, apresentada a seguir.
+</paragraph>
+
+<centered_text>
+    <formula id="b17d9075-dc54-4cff-a564-866464c84112">\frac{1}{\sqrt{f}} = -2\log_{10}(\frac{k}{3, 7D} + \frac{2, 51}{R_e\sqrt{f}})</formula>
+</centered_text>
+
+<paragraph>
+    em que
+    <formula id="2add5585-2e1b-47b3-8f41-234fa4d5b0d0">f</formula> é o fator de atrito de Darcy-Weisbach (adimensional);
+    <formula id="ec3bf58c-531b-4cbb-87c9-44a570617dd7">k</formula> é a rugosidade equivalente da parede do tubo (m);
+    <formula id="bdaa4e7a-c2c7-4d09-bdb0-408d2fc9b923">D</formula> é o diâmetro interno do tubo (m);
+    <formula id="fe4cd63a-895e-4a19-9ade-13deb4124f9b">R_e</formula> é o número de Reynolds (adimensional).
+</paragraph>
+
+<paragraph>
+    A resolução dessa equação requer um processo
+    iterativo, pois a função é implícita em relação ao fator
+    de atrito (presente nos dois membros da equação).
+    Em 1939, a resolução de equações por procedimentos
+    iterativos demandava excesso de tempo, mas,
+    com o desenvolvimento dos conhecimentos de
+    computação, esse problema foi solucionado.
+</paragraph>
+
+<paragraph>
+    As etapas de um algoritmo que soluciona a equação,
+    sem ordenação lógica, assim como seu fluxograma
+    são apresentados a seguir.
+</paragraph>
+
+<list>
+    <item>A) <formula id="c5535c9e-f2c9-49d0-9737-c1e09187b1fa">D = 1</formula></item>
+    <item>B) <formula id="b7d88afb-4d39-4e1e-a40f-a1d6d3aba531">f_0 = 0,03</formula></item>
+    <item>C) Início</item>
+    <item>D) Cálculo de <formula id="12257a03-9b7f-444e-a484-2f14b0b4d9c7">f_1</formula> através da equação de Colebrook-White</item>
+    <item>E) <formula id="61b2f9fc-997e-47a8-ab3b-eb7cfadae224">|f_0 - f_1] &lt; 0,00001</formula></item>
+    <item>F) Término</item>
+    <item>G) <formula id="77ec18ee-dbfc-446c-a875-fd9abcd611ce">R_e = 10000</formula></item>
+    <item>H) <formula id="5d8d3699-20e4-4220-8e0e-f8d8ef4bab72">k=0,0001</formula></item>
+    <item>I) <formula id="de53820a-6b94-48f4-a209-16901de6f6e9">f_0 = f_1</formula></item>
+    <item>J) Visualização do resultado</item>
+</list>
+
+<image src="images/engenharia_ambiental_2014_m_14_0.png" />
+
+<question>
+    Com base nessas informações, verifica-se que a
+    solução da equação é obtida pela seguinte associação
+    das etapas do algoritmo com o fluxograma
+</question>
+
+<answer_options>
+	<item>
+        <table>
+            <image src="images/engenharia_ambiental_2014_m_14_1.png" />
+        </table>
+	</item>
+	<item>
+        <table>
+            <image src="images/engenharia_ambiental_2014_m_14_2.png" />
+        </table>
+	</item>
+	<item>
+        <table>
+            <image src="images/engenharia_ambiental_2014_m_14_3.png" />
+        </table>
+	</item>
+	<item>
+        <table>
+            <image src="images/engenharia_ambiental_2014_m_14_4.png" />
+        </table>
+	</item>
+	<item>
+        <table>
+            <image src="images/engenharia_ambiental_2014_m_14_5.png" />
+        </table>
+	</item>
+</answer_options>

@@ -1,0 +1,64 @@
+<paragraph>
+    Suponha que a distância percorrida por um ciclista
+    que pedala regularmente pode ser inferida pela
+    variável aleatória <formula id="a7530ff3-fb65-451f-aaaf-9773e6c47b7b">x</formula>, com densidade de probabilidade
+    normal,
+</paragraph>
+
+<centered_text>
+    <formula id="05bc717e-7406-4dd6-9773-c2f53179a93f">f(x;\mu,\sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}}e^{\frac{(x-\mu)^2}{2\sigma^2}}</formula>
+</centered_text>
+
+<paragraph>
+    com <formula id="3f1be907-7b04-4ceb-97bf-781164f15a6d">\mu = 25km</formula> e <formula id="b9d96bcb-243f-4bd7-99d7-b4244ab2cacd">\sigma^2 = 25km^2</formula>. A duração média do
+    seu treino é de 1h15min.
+</paragraph>
+
+<paragraph>
+    Com base nesses dados, avalie as afirmações abaixo.
+</paragraph>
+
+<question_options>
+	<item>
+        A velocidade média de cada treino é de
+        21,7 km/h.
+	</item>
+	<item>
+        A distância média percorrida em cada treino
+        é de 25 km.
+	</item>
+	<item>
+        A área média percorrida em cada treino é de
+        25 km?.
+	</item>
+    <item>
+        A distância percorrida de cada treino, em um
+        desvio-padrão, está entre 20 km e 30 km.
+    </item>
+    <item>
+        A velocidade média de cada treino, em um
+        desvio-padrão, está entre 16 km/h e 24 km/h.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+	<item>
+        I.
+	</item>
+	<item>
+        I e IV.
+	</item>
+	<item>
+        II e III.
+	</item>
+	<item>
+        III e V.
+	</item>
+	<item>
+        II, IV e V.
+	</item>
+</answer_options>

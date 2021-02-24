@@ -1,0 +1,34 @@
+<paragraph>
+    Na modelagem da qualidade do ar, consideram-se os fenômenos de grande escala que ocorrem na atmosfera
+    terrestre. Uma das aplicações possíveis deste modelo é estimar o campo de concentração de poluentes e
+    possibilitar a avaliação do impacto ambiental em determinada região. Os modelos de estimativa de fontes
+    correlacionam parâmetros operacionais como, por exemplo, tipo de combustível e volume de produção, com
+    dados de emissão.
+</paragraph>
+
+<question>
+    Considerando os fatores da modelagem para o controle da poluição, assinale a opção correta.
+</question>
+    
+<answer_options>
+	<item>
+        O formato da pluma de dispersão de poluentes lançados por uma chaminé depende apenas da altura.
+	</item>
+	<item>
+        Os principais poluentes ambientais medidos são <formula id="77939b80-eec2-493f-bec9-adf78c5af412">CO</formula>, <formula id="68075e46-4c40-4bc7-811d-8497a527b1e1">CO_2</formula>, <formula id="6a69834f-45c9-4eb8-a296-a32e97f504de">SO_2</formula>, <formula id="6d1a2ae3-e31f-47bc-8c6f-a1d02644cc68">CH_4</formula>, <formula id="2db77e98-ead8-40bd-836c-4d7eff8650ff">O_3</formula>, <formula id="6353d9c2-1c12-45fb-85bc-625e028854f3">NO_2</formula> e Mercaptanas, excetuados
+        materiais particulados.
+	</item>
+	<item>
+        O NOx participa na atmosfera de uma série de complexas reações, alternando-se nos diferentes estágios
+        de oxidação e contribuindo para o acréscimo, na atmosfera, de poluentes primários, como o ozônio (<formula id="2db77e98-ead8-40bd-836c-4d7eff8650ff">O_3</formula>).
+	</item>
+	<item>
+        O fator de emissão relaciona a quantidade de poluentes emitidos para a atmosfera por unidade de tempo
+        para uma atividade potencialmente poluidora, podendo ser expresso em kg/h (massa/tempo).
+	</item>
+	<item>
+        A modelagem da dispersão de poluentes atmosféricos, aliada ao inventário de fontes e medidas de
+        concentração de poluentes, serve de subsídio ao controle da poluição do ar, podendo ser utilizada para o
+        planejamento do assentamento de núcleos urbanos e industriais e do sistema viário.
+	</item>
+</answer_options>

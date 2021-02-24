@@ -1,0 +1,61 @@
+<paragraph>
+    Um sistema de abastecimento de água é formado por diversas partes constituintes, tais como: tomada de
+    água bruta, estação elevatória de água bruta, estação de tratamento de água, estação elevatória de água
+    tratada, um ou mais reservatórios e rede de distribuição de água, conforme ilustrado abaixo. De acordo
+    com a Norma ABNT NBR 12211 (2012), existem distintas alternativas de concepção para o sistema de
+    abastecimento, cuja melhor escolha considera aspectos técnicos, econômicos, financeiros e sociais.
+</paragraph>
+
+<image src="images/engenharia_ambiental_2014_m_34_0.png" />
+
+<paragraph>
+    Em relação às particularidades dos diferentes constituintes de sistema de abastecimento de água, avalie as
+    afirmações a seguir.
+</paragraph>
+
+<question_options>
+	<item>
+        A captação da água bruta através de torre de tomada é indicada em reservatório de acumulação
+        com limitações na qualidade da água reservada, em função da estratificação térmica ao longo da
+        profundidade líquida.
+	</item>
+	<item>
+        No dimensionamento do sistema elevatório, leva-se em consideração o desnível entre os reservatórios
+        inferior e superior e a perda de carga distribuída no recalque; para o desnível fixo entre os reservatórios,
+        considera-se escoamento não permanente.
+	</item>
+	<item>
+        No dimensionamento de uma adutora por gravidade, o desnível entre os reservatórios superior e
+        inferior representa a perda de carga total ao longo da adutora.
+	</item>
+    <item>
+        Na análise da sobrepressão máxima em adutora de água bruta, em função da interrupção no
+        fornecimento de energia elétrica, considera-se o escoamento permanente e uniforme.
+	</item>
+    <item>
+        Para atender à pressão estática máxima de 500 kPa e à pressão dinâmica mínima de 100 kPa nas
+        tubulações distribuidoras, a rede de distribuição deve ser subdividida em zonas de pressão.
+	</item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+	<item>
+        I, II e IV.
+	</item>
+	<item>
+        I, III e V.
+	</item>
+	<item>
+        I, IV e V.
+	</item>
+	<item>
+        II, III e IV.
+	</item>
+	<item>
+        II, III e V.
+	</item>
+</answer_options>
