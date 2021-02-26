@@ -1,0 +1,53 @@
+<paragraph>
+    Observe a ilustração abaixo.
+</paragraph>
+<image src="images/pedagogia_2008_m_27_0.png" />
+<paragraph>
+    A fala do menino permite os comentários a seguir.
+</paragraph>
+
+<question_options>
+	<item>
+        I - Quando o menino diz “e vão quatro”, utiliza-se de um mecanismo
+        que não reflete o valor posicional do algarismo,
+        realizando a operação de forma mecânica.
+	</item>
+	<item>
+        Expressões como “e vão quatro” ou “desce um” estão
+        relacionadas à “troca” que ocorre na base 10, no sistema
+        de numeração decimal, no entendimento de sua estrutura
+        lógico-matemática.
+	</item>
+	<item>
+        O ensino de regras destituídas de significados pode estar
+        na origem das dificuldades apresentadas por crianças, ao
+        tentarem utilizar os algoritmos na resolução de problemas.
+	</item>
+    <item>
+        A compreensão do valor posicional de um algarismo é
+        favorecida quando a criança opera com materiais concretos
+        em que pode agrupar elementos de dez em dez ou de
+        cem em cem, por exemplo.
+    </item>
+</question_options>
+<question>
+    São corretos os comentários
+</question>
+
+<answer_options>
+    <item>
+        I e II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        II, III e IV, apenas.
+    </item>
+    <item>
+        I, II, III e IV.
+    </item>
+</answer_options>
