@@ -1,0 +1,52 @@
+<paragraph>
+    O estado nutricional de um indivíduo depende, entre
+    outros fatores, da energia e do consumo de nutrientes,
+    analisados segundo a ingestão dietética de referência
+    (IDR). Considerando a figura abaixo, analise as
+    asserções apresentadas a seguir.
+</paragraph>
+<image src="images/nutricao_2007_m_23_0.png" />
+<source>
+    Dietary Reference Intake (IOM, 2000) (com adaptações).
+</source>
+<porque>
+    <first>
+        O nutricionista, ao avaliar se um indivíduo ingere
+        quantidades adequadas de um nutriente, deve comparar
+        os dados de consumo com a cota diária recomendada
+        (RDA) do nutriente, exceto para a ingestão de energia,
+    </first>
+    <pq/>
+    <second>
+        a avaliação da necessidade de energia deve ser
+        embasada na necessidade média estimada (EAR), pois
+        a ingestão de energia embasada na RDA pode ser
+        excessiva e resultar no ganho de peso corpóreo.
+    </second>
+</porque>
+<question>
+    Com referência a essas asserções, assinale a opção
+    correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são verdadeiras, e a segunda é uma
+        justificativa correta para a primeira.
+    </item>
+    <item>
+        As duas asserções são verdadeiras, mas a segunda
+        não é uma justificativa correta para a primeira.
+    </item>
+    <item>
+        Tanto a primeira quanto a segunda asserções são
+        proposições falsas.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+</answer_options>

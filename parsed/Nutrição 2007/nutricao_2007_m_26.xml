@@ -1,0 +1,47 @@
+<paragraph>
+    Com relação aos instrumentos utilizados na avaliação do
+    consumo alimentar das pessoas, julgue os itens a seguir.
+</paragraph>
+<question_options>
+	<item>
+        O questionário de frequência alimentar é um método
+        retrospectivo de avaliação da ingestão de alimentos em
+        determinado período.
+	</item>
+	<item>
+        O recordatório de 24 horas é um método de avaliação
+        de consumo alimentar que permite inferir acerca do
+        grau de adequação do consumo de macronutrientes.
+	</item>
+	<item>
+        A importância da avaliação do consumo alimentar em
+        crianças reside no fato de que deficiências quantitativas
+        e(ou) qualitativas do consumo acarretam, no curto
+        prazo, atrasos pôndero-estaturais.
+	</item>
+    <item>
+        A relação cintura-quadril é um indicador que possibilita
+        uma estimativa do consumo de gordura total a partir dos
+        10 anos de idade.
+	</item>
+</question_options>
+<question>
+    Estão certos apenas os itens
+</question>
+<answer_options>
+    <item>
+        I e II.
+    </item>
+    <item>
+        I e IV.
+    </item>
+    <item>
+        II e III.
+    </item>
+    <item>
+        I, III e IV.
+    </item>
+    <item>
+        II, III e IV.
+    </item>
+</answer_options>

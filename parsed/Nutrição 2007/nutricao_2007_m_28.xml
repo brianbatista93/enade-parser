@@ -1,0 +1,45 @@
+<paragraph>
+    Resultados de avaliação nutricional em pacientes
+    internados com câncer mostram que grande parte deles
+    apresentam-se desnutridos ou em risco nutricional.
+    Acerca da relação entre desnutrição e câncer, analise as
+    asserções a seguir.
+</paragraph>
+<porque>
+    <first>
+        Fatores anoréticos do tumor ou hospedeiro, dor,
+        depressão, obstruções gastrointestinais e agressões
+        terapêuticas provocam a diminuição da ingestão
+        alimentar realizada por pacientes oncológicos
+    </first>
+    <pq/>
+    <second>
+        os pacientes com câncer em estágio avançado
+        costumam apresentar intolerância à glicose, balanço
+        nitrogrenado negativo e aumento da lipólise.
+    </second>
+</porque><question>
+    Assinale a opção correta a respeito dessas asserções.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, mas
+        a segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        Tanto a primeira quanto a segunda asserções são
+        proposições falsas.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+</answer_options>

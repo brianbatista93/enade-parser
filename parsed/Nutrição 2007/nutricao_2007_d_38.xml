@@ -1,0 +1,29 @@
+<text>
+        Uma fábrica de peças eletrônicas possui uma UAN que serve diariamente almoço com
+    cardápio de padrão médio para os seus 100 empregados. O serviço de alimentação é de gestão
+    própria, cujo responsável é também o chefe de cozinha, com larga experiência em restaurante
+    comercial. Entretanto, em recente auditoria, verificou-se que a UAN apresentava custo elevado.
+        Para sanar essa situação, contratou-se nutricionista para, entre outras tarefas, elaborar a
+    lista de compras de gêneros alimentícios necessários ao funcionamento dessa UAN. Na elaboração
+    dessa lista, vários fatores devem ser considerados, tais como o consumo per capita de cada
+    alimento pronto (PC), o peso líquido (PL) e o peso bruto (PB) dos alimentos, o fator de correção
+    (FC) e o fator de conversão ou índice de cocção (IC), para o cálculo da quantidade de cada gênero
+    alimentício a ser adquirido, visando a uma melhor relação entre custo e benefício.
+</text>
+<question>
+    A partir dessas informações e na condição de nutricionista contratado para trabalhar na referida UAN, faça o que se pede
+    a seguir.
+    <list>
+        <item>
+            A partir de PC, PL e PB, defina FC e IC e explique a importância e a utilidade desses fatores no planejamento do
+            cardápio de uma UAN.
+        </item>
+        <item>
+            Considere que a referida UAN, da qual você é nutricionista, sirva, uma vez por semana, a preparação de bife de
+            alcatra na chapa, com FC = 1,1, IC = 0,7 e PC = 100 g. Nesse caso, determine, <b>em quilogramas</b>, a quantidade de
+            alcatra a ser adquirida para quatro semanas de funcionamento da UAN. Apresente, necessariamente, o passo a passo
+            para a determinação da quantidade solicitada e apresente o seu resultado na forma de inteiro, arredondando para
+            cima o valor encontrado.
+        </item>
+    </list>
+</question>

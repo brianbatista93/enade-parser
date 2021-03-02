@@ -1,0 +1,45 @@
+<paragraph>
+    Avalie as asserções a seguir.
+</paragraph>
+<porque>
+    <first>
+        A análise microbiológica de alimentos realizada em UANs
+        tem, isoladamente, eficácia limitada para a garantia da
+        qualidade do alimento
+    </first>
+    <pq/>
+    <second>
+        a segurança dos alimentos é garantida principalmente pelo
+        controle de sua origem e de seu processo e pela aplicação
+        de boas práticas de higiene durante a produção, o
+        processamento, a manipulação, a distribuição, o
+        armazenamento, a comercialização, a preparação e o uso,
+        em combinação com a aplicação do sistema de análise de
+        perigos e pontos críticos de controle (APPCC).
+    </second>
+</porque>
+<question>
+    A respeito dessas assertivas, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, mas
+        a segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        Tanto a primeira quanto a segunda asserções são
+        proposições falsas.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+</answer_options>

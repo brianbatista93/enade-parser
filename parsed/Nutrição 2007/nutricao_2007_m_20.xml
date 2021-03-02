@@ -1,0 +1,75 @@
+<paragraph>
+    <b>Descrição</b>: pizza de calabresa,
+    muçarela e champignon, 460 g.
+    <b>Ingredientes</b>: farinha de trigo
+    enriquecida com ferro e ácido fólico,
+    calabresa, queijo muçarela, polpa de
+    tomate, champignon, azeitonas
+    pretas, gordura vegetal hidrogenada,
+    fermento biológico, sal, açúcar, azeite
+    de oliva e orégano. <b>Contém glúten</b>.
+</paragraph>
+<table>
+    <image src="images/nutricao_2007_m_20_0.png" />
+</table>
+<caption>
+    (*) valores diários de referência com base em uma dieta
+    de 2.000 calorias
+    (**) valor não-estabelecido
+</caption>
+<paragraph>
+    As informações acima foram retiradas do rótulo de um
+    produto semipronto para o consumo, comercializado no
+    mercado de alimentação. A partir dessas informações e
+    considerando as funções nutricionais atribuídas aos
+    ingredientes do produto, julgue os itens a seguir.
+</paragraph>
+<question_options>
+	<item>
+        O consumo de glúten, proteína de alta digestibilidade
+        encontrada na farinha de trigo, é recomendado para
+        dieta de indivíduos portadores de doença celíaca.
+	</item>
+	<item>
+        A farinha de trigo enriquecida com ferro e ácido fólico
+        atende à regulamentação brasileira que visa ao
+        combate à anemia.
+	</item>
+	<item>
+        A gordura vegetal hidrogenada presente nos
+        ingredientes indica que esse produto possui gordura
+        <i>trans</i>, considerada fator de risco para doença
+        coronariana.
+	</item>
+    <item>
+        O consumo de uma porção do referido produto
+        representa 8% das necessidades energéticas diárias
+        de um indivíduo adulto, portanto, trata-se de alimento
+        de baixa densidade energética.
+    </item>
+    <item>
+        Esse produto contém elevada densidade de sódio,
+        nutriente de fácil absorção pelo organismo e deve ser
+        consumido com moderação.
+    </item>
+</question_options>
+<question>
+    Estão certos apenas os itens
+</question>
+<answer_options>
+    <item>
+        I, II e III.
+    </item>
+    <item>
+        I, II e IV.
+    </item>
+    <item>
+        I, IV e V.
+    </item>
+    <item>
+        II, III e V.
+    </item>
+    <item>
+        III, IV e V.
+    </item>
+</answer_options>
