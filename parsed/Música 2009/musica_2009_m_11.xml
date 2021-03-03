@@ -1,0 +1,26 @@
+<paragraph>
+    <b>Considere o ritmo a seguir:</b>
+</paragraph>
+<image src="images/musica_2009_m_11_0.png" />
+<question>
+    Esse ritmo caracteriza qual gênero musical
+    brasileiro?
+</question>
+
+<answer_options>
+    <item>
+        Bailão.
+    </item>
+    <item>
+        Coco de roda.
+    </item>
+    <item>
+        Frevo.
+    </item>
+    <item>
+        Maracatu.
+    </item>
+    <item>
+        Samba.
+    </item>
+</answer_options>

@@ -1,0 +1,24 @@
+<paragraph>
+    <b>Considere este trecho musical, da Fantasia KV 397, de Mozart:</b>
+</paragraph>
+<image src="images/musica_2009_m_14_0.png" />
+<question>
+    Os números indicados sob os compassos representam a progressão harmônica
+</question>
+<answer_options>
+	<item>
+        I - II - <formula id="8652f995-9613-4e5b-8494-f9e498280d2e">V_3^4</formula> - I
+	</item>
+	<item>
+        i - iv - <formula id="5e0798c6-931c-469b-9836-63e1dda6acce">V_6^5</formula> - i
+	</item>
+	<item>
+        i - <formula id="8652f995-9613-4e5b-8494-f9e498280d2e">V_3^4</formula> - <formula id="5e0798c6-931c-469b-9836-63e1dda6acce">V_6^5</formula> - i
+	</item>
+	<item>
+        i - V - <formula id="c9624d92-1e2d-40ff-a032-864af9c2bb6f">vii_6</formula> - i
+	</item>
+	<item>
+        <formula id="487c8ecf-3a48-4bd7-8687-bdf79dc31b87">I_6</formula> - V - V - <formula id="487c8ecf-3a48-4bd7-8687-bdf79dc31b87">I_6</formula>
+	</item>
+</answer_options>

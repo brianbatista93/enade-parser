@@ -1,0 +1,50 @@
+<paragraph>
+    O Ministério da Educação (MEC) criou o Índice Geral de Cursos — IGC, que é o resultado das notas
+    atribuídas a cada instituição de Ensino Superior pelo MEC, considerando-se a qualidade dos cursos de
+    graduação de cada uma delas. O IGC tem como função orientar o público sobre a qualidade do ensino
+    oferecido em cada instituição.    
+</paragraph>
+<paragraph>
+    <b>
+        Segundo o sítio do Ministério da Educação, as instituições recebem uma nota de 1 a 5,
+        considerando:
+    </b>
+</paragraph>
+
+<question_options>
+	<item>
+        o resultado dos estudantes no Enade; e
+	</item>
+	<item>
+        variáveis de insumo, tais como:
+        - corpo docente (formação acadêmica, jornada e condições de trabalho);
+        - infraestrutura da instituição (instalações físicas, biblioteca, salas de aula, laboratórios);
+        - programa pedagógico.
+	</item>
+</question_options>
+<question>
+    Com base nessas Informações, considere a situação a seguir e faça o que se pede:
+    <text>
+        Um universitário que frequenta um curso de graduação em uma escola <b>Y</b> consulta o sitio do
+        MEC e verifica que seu curso recebeu IGC 2,0. No mesmo endereço, ele consulta os critérios
+        empregados pelo Ministério para o cálculo desse índice.
+    </text>
+    <list>
+        <item>
+            <b>A) Leia esta afirmativa:</b>
+            <paragraph>
+                O critério corpo docente é o que contribuiu de forma determinante para a obtenção do IGC 2,0, da escola <b>Y</b>.
+                Assinale com um <b>X</b>, no espaço indicado, se você <b>concorda</b> ou <b>não</b> com essa afirmativa.
+            </paragraph>
+            <image src="images/musica_2009_m_9_0.png" />
+            <paragraph>
+                <b>Apresente dois argumentos que deem suporte à sua resposta.</b>
+            </paragraph>
+        </item>
+        <item>
+            <b>B) Proponha duas ações para que os atores envolvidos no curso de graduação da escola Y
+            devem empreender com vistas à melhoria da qualidade de ensino e consequente elevação do
+            IGC na próxima avaliação a ser realizada pelo MEC.</b>
+        </item>
+    </list>
+</question>
