@@ -1,0 +1,41 @@
+<paragraph>
+    <b>Observe os exemplos a seguir:</b>
+</paragraph>
+
+<list>
+    <item>
+        <paragraph>EXEMPLO 1</paragraph>
+    </item>
+    <item>
+        <paragraph>EXEMPLO 2</paragraph>
+    </item>
+    <item>
+        <paragraph>EXEMPLO 3</paragraph>
+    </item>
+    <item>
+        <paragraph>EXEMPLO 4</paragraph>
+    </item>
+</list>
+
+<question>
+    Assinale a alternativa em que é apresentada a classificação dos tipos de notas melódicas
+    presentes nos exemplos dados.
+</question>
+
+<answer_options>
+    <item>
+        antecipação — bordadura — apogiatura — nota de passagem
+    </item>
+    <item>
+        bordadura — nota de passagem — antecipação — apogiatura
+    </item>
+    <item>
+        bordadura — antecipação — apogiatura — nota de passagem
+    </item>
+    <item>
+        nota de passagem — antecipação — apogiatura — bordadura
+    </item>
+    <item>
+        nota de passagem — bordadura — apogiatura — antecipação
+    </item>
+</answer_options>

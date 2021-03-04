@@ -1,0 +1,47 @@
+<paragraph>
+    Considere os cinco trechos musicais a seguir
+</paragraph>
+<list>
+    <item>
+        <paragraph>TRECHO I</paragraph>
+        <image src="images/musica_2009_m_21_0.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO II</paragraph>
+        <image src="images/musica_2009_m_21_1.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO III</paragraph>
+        <image src="images/musica_2009_m_21_2.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO IV</paragraph>
+        <image src="images/musica_2009_m_21_3.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO V</paragraph>
+        <image src="images/musica_2009_m_21_4.png" />
+    </item>
+</list>
+
+<question>
+    Com relação a esses trechos musicais, é CORRETO afirmar que
+</question>    
+
+<answer_options>
+    <item>
+        em pelo menos dois trechos, a tonalidade é menor.
+    </item>
+    <item>
+        em pelo menos dois trechos, não é possível determinar se a tonalidade é maior ou menor.
+    </item>
+    <item>
+        pelo menos dois trechos correspondem a clássicos da música popular.
+    </item>
+    <item>
+        pelo menos dois trechos são modais.
+    </item>
+    <item>
+        pelo menos três trechos correspondem a melodias folclóricas.
+    </item>
+</answer_options>

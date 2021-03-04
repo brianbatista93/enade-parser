@@ -1,0 +1,40 @@
+<paragraph>
+    <b>Considere esses três trechos de obras musicais:</b>
+</paragraph>
+<list>
+    <item>
+        <paragraph>TRECHO I</paragraph>
+        <image src="images/musica_2009_m_34_0.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO II</paragraph>
+        <image src="images/musica_2009_m_34_1.png" />
+    </item>
+    <item>
+        <paragraph>TRECHO III</paragraph>
+        <image src="images/musica_2009_m_34_2.png" />
+    </item>
+</list>
+
+<question>
+    Com base nesses trechos, é CORRETO afirmar que essas obras pertencem, respectivamente,
+    aos períodos
+</question>
+
+<answer_options>
+    <item>
+        Barroco, Renascentista e Romântico.
+    </item>
+    <item>
+        Clássico, Barroco e Romântico.
+    </item>
+    <item>
+        Clássico, Renascentista e Barroco.
+    </item>
+    <item>
+        Clássico, Romântico e Barroco.
+    </item>
+    <item>
+        Romântico, Clássico e Romântico.
+    </item>
+</answer_options>
