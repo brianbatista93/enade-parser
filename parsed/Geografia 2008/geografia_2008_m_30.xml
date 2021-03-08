@@ -1,0 +1,42 @@
+<paragraph>
+    Analise as asserções a seguir.
+</paragraph>
+
+<porque>
+    <first>
+        Planejamento ambiental corresponde ao processo que leva ao
+        estabelecimento de um conjunto coordenado de ações,
+        visando à consecução de determinados objetivos, através de
+        uma linha ética de desenvolvimento,
+    </first>
+    <pq/>
+    <second>   
+        envolve, como política pública, estudo detalhado e preciso do
+        meio físico, biótico e socioeconômico de uma dada região, não
+        constituindo, pois, uma simples planificação de ações.
+    </second>
+</porque>
+<question>
+    Acerca dessas asserções, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a segunda
+        é uma proposição verdadeira.
+    </item>
+    <item>
+        As duas asserções são proposições falsas.
+    </item>
+</answer_options>

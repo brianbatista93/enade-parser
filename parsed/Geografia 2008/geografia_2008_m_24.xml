@@ -1,0 +1,46 @@
+<paragraph>
+    Analise as asserções a seguir.
+</paragraph>
+
+<porque>
+    <first>
+        No mundo, estima-se que metade da população viva em
+        aglomerados urbanos, em um processo de incremento
+        contínuo, no qual já são contabilizadas 17 megacidades
+        com mais de 10 milhões de habitantes. As características
+        da urbanização brasileira fazem que esse processo seja
+        não só um gerador de problemas ambientais, mas também
+        um problema ambiental em si
+    </first>
+    <pq/>
+    <second>
+        a urbanização cria não apenas novas paisagens, mas
+        também novos ecossistemas, dependendo de grandes
+        áreas externas para obtenção de energia, alimentos, água
+        e outros materiais.
+    </second>
+</porque>
+<question>
+    A respeito dessas asserções, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+    <item>
+        As duas asserções são proposições falsas.
+    </item>
+</answer_options>

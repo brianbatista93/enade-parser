@@ -1,0 +1,43 @@
+<paragraph>
+    Com relação ao fenômeno da desertificação, analise as
+    asserções a seguir.
+</paragraph>
+
+<porque>
+    <first>
+        Embora a desertificação seja concebida como um
+        fenômeno climático, pode-se distinguir outro tipo desse
+        mesmo fenômeno, o ecológico,
+    </first>
+    <pq/>
+    <second>
+        a desertificação, do ponto de vista ecológico, pode
+        desenvolver-se até mesmo em ambiente úmido, podendo
+        o elemento clima não sofrer variação tão perceptível
+        quanto aquela do manto vegetal e do solo.
+    </second>
+</porque>
+<question>
+    Acerca dessas asserções, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+    <item>
+        As duas asserções são proposições falsas.
+    </item>
+</answer_options>

@@ -1,0 +1,43 @@
+<paragraph>
+    Analise as asserções a seguir.
+</paragraph>
+<porque>
+    <first>
+        No século XX, os anos 70, no Brasil, foram marcados pela
+        modernização da agricultura, influenciados pelo
+        desenvolvimento do capitalismo agrário, pela expansão das
+        fronteiras agrícolas para o Centro-Oeste e pela
+        intensificação dos movimentos sociais no campo,
+    </first>
+    <pq/>
+    <second>
+        houve, nessa época, a inserção de tecnologias para a
+        agricultura de precisão, ampliação do acesso ao crédito
+        agrícola e a forte mecanização em substituição à mão-deobra
+        tradicional.
+    </second>
+</porque>
+<question>
+    Acerca dessas asserções, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda é uma justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a
+        segunda não é uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a
+        segunda é uma proposição falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a
+        segunda é uma proposição verdadeira.
+    </item>
+    <item>
+        As duas asserções são proposições falsas.
+    </item>
+</answer_options>
