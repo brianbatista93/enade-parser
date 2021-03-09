@@ -1,0 +1,35 @@
+<paragraph>
+    Quando uma partícula desloca-se ao longo de uma curva <i>C</i>
+    parametrizada por <formula id="fb14b3e0-27ed-44d4-93a9-31afa7dbf313">r(t) = (x(t), y(t), z(t)), t \epsilon [a, b]</formula>, sob a ação de um
+    campo de força <formula id="45e44438-443a-41d6-83c9-f0de6594d917">\vec{F}</formula> em <formula id="2b156bf6-5cb4-45a0-ad6c-42618c565c3f">\mathbb{R}^3</formula>, o trabalho realizado pelo campo ao longo
+    de <i>C</i> é dado por
+</paragraph>
+<centered_text>
+    <formula id="c9eca96e-deeb-48e9-a65d-d21c3b09b718">\int_{C} \vec{F} .dr = \int_{a}^{b} \vec{F} (r(t)).\frac{\mathrm{d} r }{\mathrm{d} x}(t) dt</formula>
+</centered_text>
+
+<paragraph>
+    Se <formula id="e56dbe14-a3c3-460e-ac2c-db2941ba3eb3">\vec{F} (r) = f(|r|)\frac{r}{|r|}</formula>, em que <formula id="438e5074-f766-44fe-9779-5d4dd1aad338">f: \mathbb{R}\rightarrow \mathbb{R}</formula> é uma função contínua e
+    <formula id="ec61ad05-fedd-4f33-8f59-d6aee115dde9">|r|=\sqrt{x^2+y^2+z^2}</formula>, então <formula id="a251a050-5d51-4958-bcaa-7b087b9064ff">\vec{F}= grad(g(|r|))</formula>, em que <i>g</i> é uma primitiva de
+    <i>f</i>. Considerando essas informações, conclui-se que o trabalho
+    realizado pelo campo <formula id="90af15c2-3224-4eae-83c1-ad8fefb69eca">\vec{F} = \frac{2\pi}{|r|^2} r</formula> ao longo da hélice <i>C</i> dada por
+    <formula id="c4322297-6c85-4bf0-99b0-5a9e5a464290">r(t) = (cos t, sen t, t), t \epsilon [0, 2\pi]</formula>, é
+</paragraph>
+
+<answer_options>
+    <item>
+        <formula id="0cbfde14-ea08-4628-9b69-f33a2192261a">-2\pi ln(1+4\pi ^2)</formula>.
+    </item>
+    <item>
+        <formula id="606e8d11-e8ef-4c1d-8337-3871361ef64d">-6\pi(\frac{1}{\sqrt{[1+4\pi^2]^3}}-1)</formula>.
+    </item>
+    <item>
+        <formula id="0c2596f0-443a-40d4-8d13-3fb2a83785a5">2\pi (1-\frac{1}{\sqrt{1+4\pi ^2}})</formula>.
+    </item>
+    <item>
+        <formula id="b0485026-2203-408d-bc89-c797d78339b7">4\pi ln{\sqrt{1+4\pi ^2}}</formula>.
+    </item>
+    <item>
+        <formula id="7450ebd9-08fc-45a8-b11c-ef579607a915">2\pi ln{\sqrt{1+4\pi ^2}}</formula>.
+    </item>
+</answer_options>

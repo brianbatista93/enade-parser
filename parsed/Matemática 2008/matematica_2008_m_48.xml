@@ -1,0 +1,32 @@
+<paragraph>
+    No plano \mathbb{R}^2, considere que o conjunto <i>Q</i> consiste dos lados de
+    um quadrado de lado unitário. Nesse conjunto, pode-se
+    definir uma métrica d da seguinte maneira: dados dois pontos
+    distintos, <formula id="5471b63d-72bc-4f91-a408-329415d87228">A, B \epsilon Q, d(A, B)</formula> é definida como o comprimento
+    euclidiano da menor poligonal contida em Q e com extremidades
+    A e B, e <formula id="85623d27-808c-4dd5-b7a7-74b12fe6c115">d(A, B) = 0</formula>, se A = B, conforme ilustra a figura abaixo.
+</paragraph>
+<image src="images/matematica_2008_m_48_0.png" />
+<question>
+    O espaço métrico <i>Q</i>, munido da métrica <i>d</i>,
+</question>
+<answer_options>
+    <item>
+        tem diâmetro igual a <formula id="90df1fe7-72e3-4c5d-ac8b-c691c0f3fa6b">\sqrt{2}</formula>.
+    </item>
+    <item>
+        possui um par de pontos tais que <formula id="c323bac6-49d7-41af-9414-5df8ca1b2338">d(x, y) \neq d(y, x)</formula>.
+    </item>
+    <item>
+        é um subespaço métrico do plano \mathbb{R}^2 munido da métrica
+        euclidiana.
+    </item>
+    <item>
+        coincide com uma bola aberta de centro em um dos vértices
+        de <i>Q</i> e de raio 3 na métrica <i>d</i>.
+    </item>
+    <item>
+        é igual à união de duas bolas abertas de centros em vértices
+        distintos de <i>Q</i> e de raio 1 na métrica <i>d</i>.
+    </item>
+</answer_options>

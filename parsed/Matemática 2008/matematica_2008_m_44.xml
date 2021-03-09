@@ -1,0 +1,42 @@
+<paragraph>
+    Para cada número real k, a equação diferencial <formula id="7d905d4c-d616-4e8e-8e90-36f6676c6940">{y}&#x27;&#x27;(x) + 2y&#x27;(x)+ky(x)=0</formula>
+    possui uma única solução <formula id="3b4078c4-a152-430e-a09f-c75adf1acc37">y_k(x)</formula> que satisfaz às condições iniciais
+    <formula id="1ed8c0f9-2739-4d9a-8408-39b116a8ff23">y_k(0) = 0</formula> e <formula id="92976639-3e53-4e85-b79e-ce28cb085c18">{y_k}&#x27;(0)=1</formula>
+</paragraph>
+
+<paragraph>
+    Considere o limite <formula id="b4f3eff1-a54a-4299-a0fe-22db9c5aa92c">L_k=\lim_{x \to \infty } y_k(x)</formula> e analise as seguintes asserções a respeito
+    desse limite.
+</paragraph>
+
+<porque>
+    <first>
+        Para qualquer <formula id="2c4d09c7-e841-49f1-b2e3-82a80009939f">k \epsilon (0, 1)</formula>, o valor de <formula id="90a08ef7-7231-4dad-ae54-dfe25d48b0b0">L_k</formula> é zero
+    </first>
+    <pq/>
+    <second>    
+        a equação diferencial dada é não-linear.
+    </second>
+</porque>
+<question>
+    A respeito dessa afirmação, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda é uma
+        justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda não é uma
+        justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a segunda é falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a segunda é verdadeira.
+    </item>
+    <item>
+        Ambas as asserções são proposições falsas.
+    </item>
+</answer_options>

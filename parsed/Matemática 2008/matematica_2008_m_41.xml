@@ -1,0 +1,26 @@
+<paragraph>
+    O cilindro e o catenóide, representados nas figuras I e II, são
+    superfícies regulares de rotação geradas, respectivamente, pelas
+    curvas <formula id="75b46a8c-90f9-428e-887f-05ef7a9e53b8">\alpha_1(t)=(1,0,t)</formula> e <formula id="f5a46300-e503-4c2a-9059-25f2c3f62a64">\alpha_2(t)=(cosht,0,t)</formula>, com <formula id="6a16380d-e473-48f8-a2bb-d65171310ab9">t\epsilon \mathbb{R}</formula>
+</paragraph>
+<question>
+    Considerando essas informações, conclui-se que
+</question>
+<answer_options>
+    <item>
+        a curvatura gaussiana do catenóide é negativa.
+    </item>
+    <item>
+        as duas superfícies são localmente isométricas.
+    </item>
+    <item>
+        as únicas geodésicas do cilindro são as retas.
+    </item>
+    <item>
+        a curvatura gaussiana do cilindro é constante e positiva.
+    </item>
+    <item>
+        as curvas <formula id="a77fe0e4-3ba7-4782-8213-128981d621aa">\alpha_1(t)</formula> e <formula id="7ffc1ef0-f4bb-491a-acd9-d384aad766fb">\alpha_2(t)</formula> são os paralelos das respectivas
+        superfícies de rotação.
+    </item>
+</answer_options>

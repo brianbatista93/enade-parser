@@ -1,0 +1,29 @@
+<paragraph>
+    Efetuando-se o produto das séries de Taylor, em torno da origem, das
+    funções reais <formula id="717b8c3b-a90e-4fc1-866f-6c1de1d584d8">f(x)=\frac{1}{1+x}</formula> e <formula id="82d13098-eaa7-4e43-a540-07b94278ee02">g(x) = ln(1+x)</formula>, obtém-se, para <formula id="0577cd7f-3755-4bed-b6e5-f29332634efc">|x| &lt; 1</formula>, o
+    desenvolvimento em série de potências da seguinte função:
+</paragraph>
+<centered_text>
+    <formula id="f7cfdaa3-e379-4d33-b6c4-8ce5b92dae61">\varphi (x) = \frac{ln(1+x)}{1+x}=x-(1+\frac{1}{2})x^2+(1+\frac{1}{2}+\frac{1}{3})x^3-(1+\frac{1}{2})x^2+(1+\frac{1}{2}+\frac{1}{3}+\frac{1}{4})x^4+...</formula>
+</centered_text><question>
+    O coeficiente de <formula id="5c20a39d-b26a-4828-a738-e7f227ebe1f6">x^n</formula> na série de potências de <formula id="7566be61-c901-47e0-800e-e1fdbf0f76cb">{\varphi}&#x27;</formula>, a derivada de
+    primeira ordem da função <formula id="a378de17-2c34-4704-a40d-56919174e9cb">\varphi</formula>, é igual a
+</question>
+
+<answer_options>
+    <item>
+        <formula id="ae67a940-9b56-4281-8dc7-c4a60cf058fd">1 + \frac{1}{2} + ... + \frac{1}{n}</formula>.
+    </item>
+    <item>
+        <formula id="a3b90b36-45ce-4cff-9c5f-803cfafa9dcb">(-1)^n n(1+\frac{1}{2} + ... + \frac{1}{n})</formula>
+    </item>
+    <item>
+        <formula id="069e9e00-eefb-40ac-87b7-9d9fb562fe19">(-1)^n (n+1)(1+\frac{1}{2} + ... + \frac{1}{n+1})</formula>.
+    </item>
+    <item>
+        <formula id="0b0f8947-5747-4932-a5a3-697e6bf5ab19">(n+1)(1+\frac{1}{2} + ... + \frac{1}{n+1} + \frac{1}{n+2}</formula>.
+    </item>
+    <item>
+        <formula id="f63e7f5c-649d-408c-8339-74d8ad958e98">(-1)^n n(1+ \frac{1}{2} + ... + \frac{1}{n})(1+ \frac{1}{2} + ... + \frac{1}{n+1})</formula>.
+    </item>
+</answer_options>

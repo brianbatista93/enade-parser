@@ -1,0 +1,39 @@
+<paragraph>
+    Um domínio de integridade é um domínio principal quando todo
+    ideal é principal, isto é, pode ser gerado por um único elemento.
+    Com base nesse conceito, avalie as seguintes afirmações.
+</paragraph>
+
+<question_options>
+    <item>
+        O anel <formula id="1095be87-8c8e-4b22-be9c-0fc6e8229ea8">\mathbb{Z}[x]</formula> — de polinômios sobre <formula id="1052e4ca-2531-459a-a8b6-184bfbc3a512">\mathbb{Z}</formula> na variável x — é um
+        domínio principal, em que <formula id="1052e4ca-2531-459a-a8b6-184bfbc3a512">\mathbb{Z}</formula> é o anel dos inteiros.
+    </item>
+    <item>
+        Se K é um corpo, <formula id="e8edb0b2-421f-432d-8c6a-d954254d482b">K[x]</formula> — o anel de polinômios sobre K na
+        variável x — é um domínio principal.
+    </item>
+    <item>
+        O anel dos inteiros gaussianos <formula id="035bf1b1-aba6-4d8e-820d-4b36d5618b61">\mathbb{Z}[i]</formula> é um domínio principal.
+    </item>
+</question_options>
+<question>
+    É correto o que se afirma em
+</question>
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

@@ -1,0 +1,25 @@
+<paragraph>
+    Considere as integrais complexas
+</paragraph>
+<centered_text>
+    <formula id="aa0e440d-d292-45a1-9aed-7deaaea38fb2">I_1=\int_{|z|=\frac{1}{2}} \frac{cos\pi z}{z(z-1)^2} dz</formula> e <formula id="c527f06c-acb4-465d-9f35-a5d775813395">I_2=\int_{|z+1|=\frac{1}{2}} \frac{cos\pi z}{z(z-1)^2} dz</formula>
+</centered_text><question>
+    A soma <formula id="3a6db140-3c08-4550-a8d8-73619268d2fb">I_1 + I_2</formula> é igual a
+</question>
+<answer_options>
+    <item>
+        <formula id="42a4186f-23c5-4263-91f3-e29862db6010">4\pi i</formula>.
+    </item>
+    <item>
+        <formula id="b2437031-1056-4ede-8c15-a473974faa40">2\pi i</formula>.
+    </item>
+    <item>
+        0.
+    </item>
+    <item>
+        <formula id="4c0fc559-271c-4781-8e88-d2c4e7d38ae3">-2\pi i</formula>.
+    </item>
+    <item>
+        <formula id="b1ed5028-9585-42fe-8349-4b62fc0f7a3e">-4\pi i</formula>.
+    </item>
+</answer_options>

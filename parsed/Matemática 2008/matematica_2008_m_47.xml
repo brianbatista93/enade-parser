@@ -1,0 +1,25 @@
+<paragraph>
+    Considere o grupo <i>G</i> das raízes 6-ésimas da unidade, isto é, o
+    grupo formado pelos números complexos <i>z</i>, tais que <formula id="56a4b698-525d-4910-8bfa-d14f0b144054">z^6 = 1</formula>.
+</paragraph>
+<question>
+    Com relação ao grupo <i>G</i>, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        O grupo <i>G</i> é cíclico.
+    </item>
+    <item>
+        <i>G</i> é um grupo de ordem 3.
+    </item>
+    <item>
+        O número complexo <formula id="a81f1c07-0161-4329-8c0d-f3a2492c47f3">e^{\frac{2\pi i}{5}}</formula> um elemento primitivo de <i>G</i>.
+    </item>
+    <item>
+        Existe um subgrupo de <i>G</i> que não é cíclico.
+    </item>
+    <item>
+        Se z é um elemento primitivo de <i>G</i>, então <formula id="6e73d5f9-244a-457d-a68c-c6f2f2bc768d">z^2</formula> também é um
+        elemento primitivo de <i>G</i>.
+    </item>
+</answer_options>

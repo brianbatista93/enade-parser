@@ -1,0 +1,42 @@
+<paragraph>
+    Considere uma função <formula id="1b837b4b-2382-4473-8a77-3b83ab0ecaf3">f: \mathbb{R} \rightarrow \mathbb{R}</formula> que possui segunda derivada em todo
+    ponto e que satisfaz à seguinte propriedade:
+</paragraph>
+
+<centered_text>
+    <formula id="9a064c8d-fd4a-4078-8989-a9a8c935882b">\lim_{h \to 0} \frac{f(2+h)+f(2-h)-2f(2)}{h^2}=1</formula>
+</centered_text>
+<paragraph>
+    Um estudante de cálculo diferencial, ao deparar-se com essa situação,
+    escreveu a afirmação seguinte.
+</paragraph>
+<porque>
+    <first>
+        A segunda derivada <formula id="3010810f-7c45-45a7-b7c3-3a81a4e95b15">{f}&#x27;&#x27;(2) = 1</formula>
+    </first>
+    <pq/>
+    <second>   
+        <formula id="56b25d96-a636-4c6c-b316-64a441175b24">\lim_{h \to 0} \frac{f(2+h)+f(2-h)-2f(2)}{h^2}={g}&#x27;&#x27;(x)</formula>, qualquer que seja a função g.
+    </second>
+</porque><question>
+    Com relação ao afirmado pelo estudante, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda é uma
+        justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, mas a segunda não é
+        uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a segunda é falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a segunda é verdadeira.
+    </item>
+    <item>
+        Ambas as asserções são proposições falsas.
+    </item>
+</answer_options>

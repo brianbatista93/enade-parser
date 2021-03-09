@@ -1,0 +1,30 @@
+<paragraph>
+    Considere o espaço vetorial <formula id="856dfdb1-0f35-4077-86b9-8aad9395fa38">V = (\mathbb{R}^2, &lt; , &gt;_1)</formula> munido do
+    seguinte produto interno: <formula id="cf438bfa-7b72-48db-ba3a-00bb3ad475d6">&lt;u, v&gt;_1 = x_1x_2 - y_1x_2 -x_1y_2 + 4y_1y_2</formula>,
+    em que <formula id="00c63a35-86ac-4166-98bb-3d37bd8134da">v = (x_1, y_1)</formula> e <formula id="0f1fb4a9-7ced-4a01-a14f-3068f268d415">u = (x_2, y_2)</formula> são vetores de <formula id="e8a8d90d-a091-449a-ac2b-cae7fc15aa47">\mathbb{R}^2</formula>. Considere
+    <formula id="9792ac79-19e8-438f-93a1-11965c377bf0">T : V \rightarrow V</formula> o operador linear dado por <formula id="65bd2f6a-b65c-4503-9262-7b5ae7d154b3">T(x,y)=(2y, \frac{x}{2})</formula>.
+</paragraph>
+<question>
+    Com relação ao produto interno <formula id="c4666492-a17f-4e8e-bd48-59878b153a6c">&lt; , &gt;_1</formula> e ao operador <i>T</i>, assinale a
+    opção correta.
+</question>
+<answer_options>
+    <item>
+        Os vetores <formula id="be6b6e61-9fe1-4f08-a48a-5a7a8a47f574">e_1 = (1, 0)</formula> e <formula id="fb8d56a9-a3db-4ca0-b850-9fb4c02c3aad">e_2 = (0, 1)</formula> são ortogonais em
+        relação ao produto interno <formula id="171ac12d-5318-4a23-b1b8-167bba8ac975">&lt; , &gt;_1</formula>.
+    </item>
+    <item>
+        O operador <i>T</i> preserva o produto interno, isto é,
+        <centered_text><formula id="ce6c44a5-a7fd-4a47-959b-33ea464afc99">&lt;T(u), T(v) &gt;_1 = &lt; u, v &gt;_1</formula></centered_text>.
+    </item>
+    <item>
+        <formula id="8dd09c4c-5d47-47a1-9eef-c57a2b4ce3ef">T(x, y) = T(y, x)</formula>, para todo <formula id="d6dbbc49-25c9-4112-b16e-ccadc97ca2de">(x, y)</formula> de \mathbb{R}^2.
+    </item>
+    <item>
+        O vetor <formula id="97535671-275b-4b45-b2ce-8fc50a744d98">u = (2, 0)</formula> pertence ao núcleo de <i>T</i>.
+    </item>
+    <item>
+        Existe um vetor <formula id="4e830a5d-df91-4eb3-af27-9f85074fd77e">v = (x, y) \epsilon \mathbb{R}^2</formula> tal que <formula id="956a36b0-ebc0-4942-9f6b-5707b56407de">x^2 + y^2 = 1</formula> e
+        <formula id="e39ced4b-54dc-41f1-b21a-2f9ca535d6ee">&lt;v, v&gt;_1 = 0</formula>.
+    </item>
+</answer_options>
