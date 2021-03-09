@@ -1,0 +1,26 @@
+<paragraph>
+    Uma transformação linear <formula id="9cb0cd56-de21-43d7-b9af-b50143847560">T: \mathbb{R}^2 \rightarrow R^2</formula> faz uma reflexão em
+    relação ao eixo horizontal, conforme mostrado na figura a
+    seguir.
+</paragraph>
+<image src="images/matematica_2008_m_22_0.png" />
+<question>
+    Essa transformação <i>T</i>
+</question>
+<answer_options>
+    <item>
+        é dada por <formula id="5f4f40be-cec3-4639-be26-14b7d2a8a9e0">T(x, y) = (-x, y)</formula>.
+    </item>
+    <item>
+        tem autovetor (0, -1) com autovalor associado igual a 2.
+    </item>
+    <item>
+        tem autovetor (2, 0) com autovalor associado igual a 1.
+    </item>
+    <item>
+        tem autovalor de multiplicidade 2.
+    </item>
+    <item>
+        não é inversível.
+    </item>
+</answer_options>

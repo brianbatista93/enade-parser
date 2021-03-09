@@ -1,0 +1,73 @@
+<paragraph>
+    Algumas civilizações utilizavam diferentes métodos para multiplicar
+    dois números inteiros positivos. Por volta de 1400 a.C., os egípcios
+    utilizavam uma estratégia para multiplicar dois números que consistia
+    em dobrar e somar. Por exemplo, para calcular 47 × 33, o método pode
+    ser descrito do seguinte modo:
+</paragraph>
+<list>
+    <item>
+        escolha um dos fatores; por exemplo, 47;
+    </item>
+    <item>
+        na 1.ª linha de uma tabela, escreva o número 1 na 1.ª coluna e o
+        fator escolhido, na 2.ª coluna;
+    </item>
+    <item>
+        em cada linha seguinte da tabela, escreva o dobro dos números
+        da linha anterior, até encontrar, na 1.ª coluna, o menor número
+        cujo dobro seja maior ou igual ao outro fator, no caso, 33;
+        <table>
+            <image src="images/matematica_2008_m_35_0.png" />
+        </table>
+    </item>
+    <item>
+        selecione os números da 1.ª coluna cuja soma seja igual a 33,
+        conforme indicado na tabela, ou seja, 1 + 32 = 33;
+    </item>
+    <item>
+        adicione os números correspondentes da 2.ª coluna, ou seja,
+        47 + 1.504 = 1.551;
+    </item>
+    <item>
+        tome como resultado da multiplicação o valor 1.551.
+    </item>
+</list>
+<paragraph>
+    Com base nessas informações, analise as asserções a seguir.
+</paragraph>
+
+<porque>
+    <first>
+        Utilizando o método egípcio, é possível multiplicar quaisquer dois
+        números inteiros positivos,
+    </first>
+    <pq/>
+    <second>
+        todo número inteiro positivo pode ser escrito como uma soma de
+        potências de 2.
+    </second>
+</porque><question>
+    A respeito dessa afirmação, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda é uma
+        justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, mas a segunda não
+        é uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a segunda
+        é falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a segunda
+        é verdadeira.
+    </item>
+    <item>
+        Ambas as asserções são proposições falsas.
+    </item>
+</answer_options>

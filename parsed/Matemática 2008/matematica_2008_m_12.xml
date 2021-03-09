@@ -1,0 +1,26 @@
+<paragraph>
+    No plano cartesiano <formula id="138b1813-43b7-4bb8-b080-516c1353e380">xOy</formula>, as equações <formula id="64599145-4059-4d06-9ed5-ce117de5a45f">x^2 + y^2 + y = 0</formula> e
+    <formula id="f9f2bead-d6e7-4b70-87ab-5740fa99766e">x^2 - y - 1 = 0</formula> representam uma circunferência Γ e uma parábola
+    P, respectivamente.
+</paragraph>
+<question>
+    Nesse caso,
+</question>
+<answer_options>
+    <item>
+        a reta de equação <formula id="87f2ee1c-4709-4bc6-b862-a3ceb79fd63c">y = -1</formula> é tangente às curvas Γ e P.
+    </item>
+    <item>
+        as curvas Γ e P têm mais de um ponto em comum.
+    </item>
+    <item>
+        existe uma reta que passa pelo centro de Γ e que não
+        intercepta a parábola P.
+    </item>
+    <item>
+        o raio da circunferência Γ é igual a 1.
+    </item>
+    <item>
+        a parábola P tem concavidade voltada para baixo.
+    </item>
+</answer_options>

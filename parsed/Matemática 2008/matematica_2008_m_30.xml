@@ -1,0 +1,61 @@
+<paragraph>
+    As potencialidades pedagógicas da história no ensino de
+    matemática têm sido bastante discutidas. Entre as justificativas para
+    o uso da história no ensino de matemática, inclui-se o fato de ela
+    suscitar oportunidades para a investigação. Considerando essa
+    justificativa, um professor propôs uma atividade a partir da
+    informação histórica de que o famoso matemático Pierre Fermat
+    [1601-1665], que se interessava por números primos, percebeu
+    algumas relações entre números primos ímpares e quadrados
+    perfeitos.
+</paragraph>
+<paragraph>
+    Para que os alunos também descobrissem essa relação, pediu
+    que eles completassem a tabela a seguir, verificando quais números
+    primos ímpares podem ser escritos como soma de dois quadrados
+    perfeitos. Além disso, solicitou que observassem alguma
+    propriedade comum a esses números.
+</paragraph>
+<table>
+    <image src="images/matematica_2008_d_30_0.png" />
+</table>
+<paragraph>
+    A partir da atividade de investigação proposta pelo professor,
+    analise as afirmações seguintes.
+</paragraph>
+
+<question_options>
+    <item>
+        Todo número primo da forma <formula id="805ae280-41f9-470d-a63a-f31145db6bf2">4n + 1</formula> pode ser escrito como a
+        soma de dois quadrados perfeitos.
+    </item>
+    <item>
+        Todo número primo da forma <formula id="29bf5835-3096-4ad0-b464-12c8841fa2e6">4n + 3</formula> pode ser escrito como a
+        soma de dois quadrados perfeitos.
+    </item>
+    <item>
+        Todo número primo da forma <formula id="097ee27d-6bba-4aa5-b7a9-65b15b80661b">2n + 1</formula> pode ser escrito como a
+        soma de dois quadrados perfeitos.
+    </item>
+</question_options>
+<question>
+    Está correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

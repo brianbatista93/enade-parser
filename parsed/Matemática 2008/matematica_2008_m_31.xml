@@ -1,0 +1,42 @@
+<paragraph>
+    Na discussão relativa a funções exponenciais, um professor
+    propôs a seguinte questão:
+</paragraph>
+<paragraph>
+    Para que valores não-nulos de <i>k</i> e <i>m</i> a função <formula id="198abea6-e361-4acc-ab2f-184b91b9be1f">f(x)=me^{kx}</formula> é uma
+    função crescente?
+</paragraph>
+<question>
+    Como estratégia de trabalho para que os alunos respondam à
+    questão proposta, é adequado e suficiente o professor sugerir
+    que os alunos
+</question>
+<answer_options>
+    <item>
+        considerem <i>m</i> = 1 e <i>k</i> = 1, utilizem uma planilha
+        eletrônica para calcular valores da função f em muitos
+        pontos e comparem os valores obtidos.
+    </item>
+    <item>
+        considerem <i>m</i> = 1 e <i>k</i> = 1, <i>m</i> = -1 e <i>k</i> = 1, esbocem os
+        gráficos da função f e, em seguida, comparem esses dois
+        gráficos.
+    </item>
+    <item>
+        formem pequenos grupos, sendo que cada grupo deve
+        esboçar o gráfico de uma das funções <formula id="d6a2a445-cb60-4023-81f6-16104b0bdb72">y=me^x</formula>, para <i>m</i> = 1,
+        2, 3, 4 ou 5, e comparem, em seguida, os gráficos
+        encontrados.
+    </item>
+    <item>
+        esbocem os gráficos das funções <formula id="9014efc9-a721-491b-b3d2-26cb6809e4b5">y = e^x</formula> e <formula id="31342775-cad2-4218-8afb-e59ac16e05b3">y = e^{-x}</formula> e
+        analisem o que acontece com esses gráficos quando a
+        variável e a função forem multiplicadas por constantes
+        positivas ou negativas.
+    </item>
+    <item>
+        construam uma tabela com os valores de f para x número
+        inteiro variando de -5 a 5, fixando <i>m</i> = 1 e k = 1 e, em
+        seguida, comparem os valores encontrados.
+    </item>
+</answer_options>

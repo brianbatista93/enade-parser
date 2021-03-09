@@ -1,0 +1,48 @@
+<paragraph>
+    Observe a seguinte atividade de construções geométricas.
+</paragraph>
+<list>
+    <item>
+        Construir um triângulo ABC qualquer.
+    </item>
+    <item>
+        Traçar a bissetriz do ângulo <formula id="231afee1-4a24-4608-a0fc-166a97373063">\widehat{BAC}</formula> e, em seguida, a
+        bissetriz do ângulo <formula id="bf2e5e98-d533-4fd4-891c-2b410ebc3638">\widehat{ABC}</formula>.
+    </item>
+    <item>
+        Marcar o ponto de encontro dessas duas
+        bissetrizes.
+    </item>
+    <item>
+        Traçar a bissetriz do ângulo <formula id="6cd1a1a6-c9cd-4122-92bc-9b18d9472a0a">\widehat{ACB}</formula>.
+        O que você observa?
+        Será que, se você recomeçar a construção a partir
+        de outro triângulo, chegará à mesma observação?
+    </item>
+</list>
+<question>
+    O uso de um <i>software</i> de geometria dinâmica na
+    execução dessa atividade e de outras similares
+</question>
+<answer_options>
+    <item>
+        pode mostrar que o estudo das construções com
+        régua e compasso é desnecessário.
+    </item>
+    <item>
+        dispensa a demonstração dos resultados encontrados
+        pelos alunos.
+    </item>
+    <item>
+        prejudica o desenvolvimento do raciocínio
+        lógico-dedutivo.
+    </item>
+    <item>
+        dificulta o desenvolvimento do pensamento
+        geométrico.
+    </item>
+    <item>
+        pode contribuir para a elaboração de conjecturas
+        pelos alunos.
+    </item>
+</answer_options>

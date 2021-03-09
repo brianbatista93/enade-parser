@@ -1,0 +1,56 @@
+<paragraph>
+    Uma professora do ensino fundamental resolveu
+    utilizar, em suas aulas, a construção de um avião
+    de papel para explorar alguns conceitos
+    e propriedades da geometria plana. Utilizando uma
+    folha de papel retangular, os estudantes deveriam
+    começar fazendo as dobras na folha ao longo dos
+    segmentos de reta indicados na figura ao lado.
+</paragraph>
+<image src="images/matematica_2008_m_15_0.png" />
+<paragraph>
+    As seguintes condições, segundo instruções da
+    professora, devem ser satisfeitas:
+</paragraph>
+
+<list>
+    <item>a reta determinada por M e U é a mediatriz do segmento AB;</item>
+    <item>AC, BD e AB são segmentos congruentes;</item>
+    <item>PT e TQ são segmentos congruentes;</item>
+    <item>PD e BD são segmentos congruentes.</item>
+</list>
+
+<porque>
+    <first>
+        A partir da análise da figura, um estudante afirmou o seguinte:
+        O triângulo PQD é obtusângulo
+    </first>
+    <pq/>
+    <second>
+        o triângulo PQT é equilátero.
+    </second>
+</porque>
+<question>
+    Com relação ao que foi afirmado pelo estudante, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda é uma
+        justificativa correta da primeira.
+    </item>
+    <item>
+        As duas asserções são proposições verdadeiras, e a segunda não é
+        uma justificativa correta da primeira.
+    </item>
+    <item>
+        A primeira asserção é uma proposição verdadeira, e a segunda é
+        falsa.
+    </item>
+    <item>
+        A primeira asserção é uma proposição falsa, e a segunda é
+        verdadeira.
+    </item>
+    <item>
+        Ambas as asserções são proposições falsas.
+    </item>
+</answer_options>

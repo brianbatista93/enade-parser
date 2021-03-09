@@ -1,0 +1,40 @@
+<paragraph>
+    Considere <formula id="0de8bf99-33c0-4f7f-a155-247b1be6a857">g : \mathbb{R} \rightarrow \mathbb{R}</formula> uma função com derivada 
+    contínua e a <formula id="9909e082-b049-4b76-9cfd-42214d08eb2d">f</formula> a função definida por <formula id="a85147a3-499d-44dc-995a-c0de4e2dc130">\int_{0}^{x}\frac{dg}{dt}(t)dt</formula> para
+    todo <formula id="a9ae164f-236e-4d91-be40-1eea83d0ee08">x\epsilon \mathbb{R}</formula>
+</paragraph><paragraph>
+    Nessas condições, avalie as afirmações que se seguem.
+</paragraph>
+
+<question_options>
+    <item>
+        A função <formula id="bfb59a95-a5b0-4c6b-a11e-a59d2e03c624">f</formula> é integrável em todo intervalo <formula id="1c8b4da1-febc-4308-9226-782be85cd582">[a, b]</formula>,
+        <formula id="e477be4a-af3d-4480-bb3f-364db5b056d0">a, b\epsilon \mathbb{R}, a&lt;b</formula>.
+    </item>
+    <item>
+        A função f é derivável e sua derivada é a função <formula id="1d2b852b-a6c1-424d-8d78-e800b69e59e8">g</formula>.
+    </item>
+    <item>
+        A função diferença <formula id="8d8454de-cc2a-4e5d-a6bf-13579177ce8d">f - g</formula> é uma função constante.
+    </item>
+</question_options>
+<question>
+    É correto o que se afirma em
+</question>
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

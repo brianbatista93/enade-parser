@@ -1,0 +1,27 @@
+<paragraph>
+    Há 10 postos de gasolina em uma cidade. Desses 10, exatamente
+    dois vendem gasolina adulterada. Foram sorteados aleatoriamente
+    dois desses 10 postos para serem fiscalizados.
+</paragraph>
+<question>
+    Qual é a
+    probabilidade de que os dois postos infratores sejam sorteados?
+</question>
+
+<answer_options>
+    <item>
+        <formula id="8e1629ad-ec16-4450-b7b5-af42fddbfbd1">\frac{1}{45}</formula>
+    </item>
+    <item>
+        <formula id="62c234e9-16b8-407f-a8e8-9f8ece3adbee">\frac{1}{20}</formula>
+    </item>
+    <item>
+        <formula id="44007ab3-29a3-4335-a514-22e6a5a17bc4">\frac{1}{10}</formula>
+    </item>
+    <item>
+        <formula id="5f30b493-4d6b-4dca-a536-30706dbcee85">\frac{1}{5}</formula>
+    </item>
+    <item>
+        <formula id="e54743e0-e8ff-47ac-8b89-2a9e56937dad">\frac{1}{2}</formula>
+    </item>
+</answer_options>

@@ -1,0 +1,21 @@
+<question>
+    No anel dos inteiros módulo 12, <formula id="2744f22e-2de0-4a2e-b08a-53835585235e">R = \mathbb{Z} /12\mathbb{Z}</formula>
+</question>
+<answer_options>
+    <item>
+        não há divisores de zero.
+    </item>
+    <item>
+        todo elemento não-nulo é inversível.
+    </item>
+    <item>
+        o subconjunto dos elementos inversíveis forma um
+        subanel de R.
+    </item>
+    <item>
+        a multiplicação não é comutativa.
+    </item>
+    <item>
+        há exatamente 4 elementos inversíveis.
+    </item>
+</answer_options>

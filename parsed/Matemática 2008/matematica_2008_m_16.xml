@@ -1,0 +1,28 @@
+<paragraph>
+    A concentração de certo fármaco no sangue, <formula id="6ba68b8b-c5d7-4cfb-8950-2b07c577afa5">t</formula> horas após sua
+    administração, é dada pela fórmula:
+</paragraph>
+<centered_text>
+    <formula id="f8cc1928-7360-4ce3-b180-7d9f60ca5522">y(t) = \frac{10t}{(t+1)^2}, t\geq 0</formula>
+</centered_text>
+<question>
+    Em qual intervalo essa função é crescente?
+</question>
+
+<answer_options>
+    <item>
+        <formula id="81158056-b108-48ee-b835-076b7f3aca7f">t\geq 0</formula>
+    </item>
+    <item>
+        <formula id="526380f6-d791-4f3e-ac09-40edf75b7cc8">t &gt; 10</formula>
+    </item>
+    <item>
+        <formula id="1b411b25-61e1-4f84-83af-9c4bba2cc6d8">t&gt; 1</formula>
+    </item>
+    <item>
+        <formula id="4bbf8509-1ef9-4228-ad6f-80688018d828">0\leq t &lt; 1</formula>
+    </item>
+    <item>
+        <formula id="9fe1c6ad-43e8-4272-a3d3-4274e2603430">\frac{1}{2} &lt; t &lt; 10</formula>
+    </item>
+</answer_options>

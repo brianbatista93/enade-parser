@@ -1,0 +1,47 @@
+<paragraph>
+    O projeto de construção de uma peça de artesanato foi realizado
+    utilizando-se um <i>software</i> geométrico que permite interceptar
+    um tetraedro regular com planos. A figura a seguir mostra o
+    tetraedro RSTU e três pontos M, N e P do plano <formula id="cd1e8dbc-6d22-46df-9bc5-b39d3d94403a">\alpha</formula> de
+    interseção.
+</paragraph>
+<image src="images/matematica_2008_m_25_0.png" />
+<paragraph>
+    Sabendo que M, N e P são pontos médios de SR, SU e ST,
+    respectivamente, e que o tetraedro RSTU tem volume igual a 1,
+    avalie as seguintes afirmações.
+</paragraph>
+
+<question_options>
+    <item>
+        O volume da pirâmide SMNP é igual . <formula id="6d0ae849-b4bb-4658-89fa-a6fff3291564">\frac{1}{2}</formula>
+    </item>
+    <item>
+        A interseção do plano a com o tetraedro é um
+        paralelogramo.
+    </item>
+    <item>
+        As retas que contêm as arestas MP e RU são reversas.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        III, apenas.
+    </item>
+    <item>
+        I e II, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

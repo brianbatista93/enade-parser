@@ -1,0 +1,21 @@
+<paragraph>
+    Para que valores de <i>k</i> e <i>m</i> o polinômio <formula id="5f2176a0-55f1-429c-8d06-d4da093b7567">P(x) = x^3 - 3x^2 + kx + m</formula>
+    é múltiplo de <formula id="cb722d8b-5f27-4395-890c-f5c89c9735c7">Q(x) = x^2 - 4</formula>?
+</paragraph>
+<answer_options>
+    <item>
+        <i>k</i> = -4 e <i>m</i> = 12
+    </item>
+    <item>
+        <i>k</i> = -3 e <i>m</i> = -4
+    </item>
+    <item>
+        <i>k</i> = -3 e <i>m</i> = -12
+    </item>
+    <item>
+        <i>k</i> = -4 e <i>m</i> = -3
+    </item>
+    <item>
+        <i>k</i> = -2 e <i>m</i> = 2
+    </item>
+</answer_options>

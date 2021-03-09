@@ -1,0 +1,26 @@
+<paragraph>
+    Para cada número real x, considere o conjunto <formula id="b611a8fe-99cd-4180-bb3b-4c47c25f341c">C_x</formula> formado por
+    todos os números obtidos somando-se a x um número racional,
+    isto é,
+</paragraph>
+<question>
+    Sob essas condições, conclui-se que
+</question>
+
+<answer_options>
+    <item>
+        o número <formula id="abb317c7-9daa-40f2-9619-1c4b185f75f4">\pi</formula> pertence ao conjunto <formula id="f733f125-a1b2-4367-89f3-7f1fde4f2375">C_1</formula>.
+    </item>
+    <item>
+        o conjunto <formula id="a5761db5-abd9-45fb-b326-1fa3501a2d18">C_4\cap C_5</formula> possui um único elemento.
+    </item>
+    <item>
+        o número <formula id="c76c31c1-479e-4db2-8708-393c463d7b62">\sqrt{2}</formula> pertence ao conjunto <formula id="868f0b0a-19a3-4cda-84e7-976ca50cac4e">C_{\sqrt{3}}</formula>.
+    </item>
+    <item>
+        os conjuntos <formula id="1eaa18ab-6638-4b3c-9b6c-1fd3f79e613d">C_3</formula> e <formula id="c30544b0-4deb-4c5f-822f-9b747208aa16">C_{1/3}</formula> são iguais.
+    </item>
+    <item>
+        o número zero pertence ao conjunto <formula id="161f6635-37b5-4f08-9510-eaa434df1037">C_{\pi}\cup C_{-\pi}</formula>.
+    </item>
+</answer_options>

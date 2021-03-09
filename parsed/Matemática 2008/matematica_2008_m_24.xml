@@ -1,0 +1,25 @@
+<paragraph>
+    Considere que seja uma enumeração de
+    todos os números racionais pertencentes ao intervalo <formula id="491dcc3f-5d76-41fd-896d-e31c0aee5a75">[0,1]</formula> e
+    que, para cada número inteiro <formula id="2045cb87-b29f-49d6-ade0-2ae1680f38a4">i \geq 1, I_i</formula> denote o intervalo aberto
+    <formula id="d8efd264-9569-4fa2-85f1-b351c3f81122">(r_i - \frac{1}{2^{i+2}}, r_i+\frac{1}{2^{i+2}})</formula>, cujo comprimento é <formula id="897afbef-1e5e-4888-9b52-9b03bd362484">l_i</formula>. Qual é a soma da 
+    série <formula id="80600092-b3b3-4195-8d90-10d359bf3d76">\sum_{i=1}^{\infty}l_i</formula>
+</paragraph>
+
+<answer_options>
+    <item>
+        <formula id="f5f8c550-f98a-46a8-abb4-c416a327ddf3">\frac{1}{3}</formula>
+    </item>
+    <item>
+        <formula id="b74fe295-a1ec-434b-a2b7-1c6202000cb8">\frac{1}{2}</formula>
+    </item>
+    <item>
+        <formula id="a1d7e871-8ba7-4168-9b5b-3f1e7b950193">\frac{2}{3}</formula>
+    </item>
+    <item>
+        <formula id="25257adc-5689-42ba-a0b0-d28610a7b47f">\frac{3}{4}</formula>
+    </item>
+    <item>
+        <formula id="adfcaf0e-5a23-47cf-ae39-249ef04aaf4f">\frac{5}{4}</formula>
+    </item>
+</answer_options>

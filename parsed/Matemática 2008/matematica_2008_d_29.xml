@@ -1,0 +1,35 @@
+<paragraph>
+    Considere a seqüência numérica definida por
+</paragraph>
+<centered_text>
+    <text>
+        <formula id="2fe70b3d-c5f1-4819-93f5-b9d3bb7962bb">a_1 = \sqrt{a}</formula>
+    </text>
+    <text>
+        <formula id="149e0b87-8759-4d03-8c91-0581da708a8e">a_{n+1} = \sqrt{a + \sqrt{a_n}}</formula>, para n = 1,2,3,...
+    </text>
+</centered_text><paragraph>
+    Usando o princípio de indução finita, mostre que <formula id="a957a3c7-c4a9-4973-af21-3d72039ebfe3">a_n &lt; a</formula> para todo <formula id="af96637a-0ec6-4831-a68e-f73094f6ac8e">n\geq 1</formula> e <formula id="f3bb4724-1f5b-4337-b59e-bfbc971713ca">a\geq 2</formula>. Para isso, resolva o que se pede
+    nos itens a seguir e transcreva suas respostas para o Caderno de Respostas, nos locais devidamente indicados.
+</paragraph>
+
+<list>
+    <item>
+        a) Escreva a hipótese e a tese da propriedade a ser demonstrada.
+    </item>
+    <item>
+        b) Prove que <formula id="d1adb096-99b1-4372-b357-1e380a20b841">a(a - 1) > 0</formula> para <formula id="c02c8bed-c38e-415a-b63d-959563fccefa">a \geq 2</formula>.
+    </item>
+    <item>
+        c) Mostre que <formula id="2614a6ac-2b5d-4a1c-9c18-cca2a7ad8fba">\sqrt{a} &lt; a</formula> para todo <formula id="e2bd1960-8bec-4568-90a5-5ce6d82aeb5a">a \geq 2</formula>.
+    </item>
+    <item>
+        Supondo que <formula id="eca4d3d2-b9c9-47f0-82d4-f8126592083c">a_n &lt; a</formula>, prove que <formula id="9b444646-85e8-425b-a8f3-50a0fe44706f">a_{n+1}&lt;\sqrt{2a}</formula>.
+    </item>
+    <item>
+        Mostre que <formula id="29834d4d-2b23-4316-902f-ab8e5a8977f3">a_{n+1}&lt;a</formula>.
+    </item>
+    <item>
+        A partir dos passos anteriores, conclua a prova por indução.
+    </item>
+</list>

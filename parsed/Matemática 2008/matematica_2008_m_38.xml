@@ -1,0 +1,35 @@
+<paragraph>
+    Entre os procedimentos envolvidos na modelagem de uma
+    situação-problema, estão sua tradução para a linguagem
+    matemática e a resolução do problema, utilizando-se
+    conhecimentos matemáticos. Nessa perspectiva, um professor
+    propôs a seguinte situação-problema para seus alunos:
+</paragraph>
+<paragraph>
+    Escolha o nome para uma empresa que possa ser lido da mesma
+    forma de qualquer um dos lados de uma porta de vidro
+    transparente.
+</paragraph>
+<question>
+    A solução desse problema pressupõe encontrar
+</question>
+<answer_options>
+    <item>
+        letras do alfabeto que sejam simétricas em relação a um ponto.
+    </item>
+    <item>
+        letras do alfabeto que tenham simetria em relação a um eixo
+        horizontal.
+    </item>
+    <item>
+        letras do alfabeto que tenham simetria em relação a um eixo
+        vertical.
+    </item>
+    <item>
+        palavras que sejam simétricas em relação a um ponto.
+    </item>
+    <item>
+        palavras que sejam simétricas em relação a um eixo
+        horizontal.
+    </item>
+</answer_options>

@@ -1,0 +1,69 @@
+<paragraph>
+    A professora Clara propôs a seus alunos que encontrassem a
+    solução da seguinte equação do segundo grau:
+</paragraph>
+<centered_text>
+    <formula id="629de3cf-b434-4c04-afe7-86a6d719edc8">x^2-1=(2x+3)(x-1)</formula>
+</centered_text>
+
+<paragraph>
+    Pedro e João resolveram o exercício da seguinte maneira.
+</paragraph>
+
+<centered_text>
+    <text>
+        Resolução de Pedro:
+        <formula id="a7b17098-da0b-41bb-b848-15195a040c1b">x^2-1=(2x+3)(x-1)</formula>
+        <formula id="83e06fb7-d3be-45b0-81c5-08d0bbc312e2">x^2-1=2x^2+x-3</formula>
+        <formula id="f7089d0f-42cc-45a8-afd9-ac18ba835dff">2-x=x^2</formula>
+        Como 1 é solução dessa equação, então S = {1}
+    </text>
+</centered_text>
+
+<centered_text>
+    <text>
+        Resolução de João:
+        <formula id="6fed6f6c-413d-42f6-9dc1-9b1bbf719715">x^2 - 1 = (2x+3)(x-1)</formula>
+        <formula id="28324957-c75c-4357-bc56-3cb25c264f6a">(x-1)(x+1)=(2x+3)(x-1)</formula>
+        <formula id="29ddc13d-4614-415f-ac5e-a229477b2c63">x+1=2x+3</formula>
+        <formula id="8a1b227f-3d20-4c41-b940-52e01dea8db8">x=-2</formula>
+    </text>
+</centered_text>
+<paragraph>
+    Pedro e João perguntaram à professora por que encontraram soluções
+    diferentes. A professora observou que outros alunos haviam apresentado
+    soluções parecidas com as deles.
+</paragraph>
+<paragraph>
+    Entre as estratégias apresentadas nas opções a seguir, escolha a mais
+    adequada a ser adotada por Clara visando à aprendizagem significativa
+    por parte dos alunos.
+</paragraph>
+<answer_options>
+    <item>
+        Indicar individualmente, para cada aluno que apresentou uma
+        resolução incorreta, onde está o erro e como corrigi-lo, a partir da
+        estratégia inicial escolhida pelo aluno.
+    </item>
+    <item>
+        Resolver individualmente o exercício para cada aluno, usando a
+        fórmula da resolução da equação do 2.º grau, mostrando que esse é
+        o método que fornece a resposta correta.
+    </item>
+    <item>
+        Pedir a Pedro e João que apresentem à classe suas soluções para
+        discussão e estimular os alunos a tentarem compreender onde está a
+        falha nas soluções apresentadas e como devem fazer para corrigi-las.
+    </item>
+    <item>
+        Escrever a solução do exercício no quadro, usando a fórmula da
+        resolução da equação do 2.º grau, para que os alunos percebam que
+        esse é o método que fornece a resposta correta.
+    </item>
+    <item>
+        Pedir que cada um deles comunique à classe como resolveu o
+        exercício e, em seguida, explicar no quadro para a turma onde está a
+        falha na resolução de cada um e como eles devem fazer para
+        corrigi-la.
+    </item>
+</answer_options>

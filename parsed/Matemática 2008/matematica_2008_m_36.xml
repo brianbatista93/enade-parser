@@ -1,0 +1,33 @@
+<paragraph>
+    A figura abaixo mostra alguns segmentos construídos em
+    um geoplano por um estudante, de acordo com a orientação
+    dada pela professora.
+</paragraph>
+<image src="images/matematica_2008_m_36_0.png" />
+<question>
+    Acerca do uso do geoplano retangular nessa atividade,
+    assinale a opção <b>incorreta</b>.
+</question>
+<answer_options>
+    <item>
+        O geoplano auxilia na compreensão de que
+        <formula id="8eeb3ff9-3990-40fb-a8b9-bb45e495b2dd">\sqrt{a} + \sqrt{b} \neq \sqrt{a+b}</formula>.
+    </item>
+    <item>
+        O geoplano auxilia na compreensão de que
+        <formula id="936fc29c-1cb8-4d08-ad3c-12f2b9b92a66">\sqrt{ab}=\sqrt{a} \sqrt{b}</formula>.
+    </item>
+    <item>
+        O geoplano auxilia na representação geométrica de
+        números irracionais da forma <formula id="feaea979-9158-471f-ac6d-fb0dd95eda84">\sqrt{a}</formula>.
+    </item>
+    <item>
+        O geoplano auxilia na obtenção da relação entre o
+        comprimento de uma circunferência e seu diâmetro.
+    </item>
+    <item>
+        O geoplano auxilia na simplificação de expressões
+        com irracionais algébricos, como, por exemplo,
+        <formula id="b015da12-5ebf-43fb-973e-fbf55aff49a0">\sqrt{20} + \sqrt{5}=3\sqrt{5}</formula>.
+    </item>
+</answer_options>
