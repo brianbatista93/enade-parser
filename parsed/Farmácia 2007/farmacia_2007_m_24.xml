@@ -1,0 +1,57 @@
+<paragraph>
+    A linezolida (1) é um agente antibacteriano inibidor da
+    biossíntese de proteínas, pertecente à classe química das
+    oxazolidinonas. A equipe de desenvolvimento de fármacos de
+    uma grande empresa farmacêutica, visando a desenvolver
+    novos análogos dessa família de compostos, propôs as
+    estruturas 2-4 para desenvolvimento. A rota de síntese
+    desses compostos encontra-se descrita abaixo.
+</paragraph>
+<image src="images/farmacia_2007_m_24_0.png" />
+<text>
+    1 (Linezolida): X = C-F, Y = O
+    2: X = C-OCH3, Y = O
+    3: X = C-F, Y = S
+    4: X = N, Y = O
+</text>
+<paragraph>
+    Com base nessas informações, pode-se afirmar que são
+    candidatos promissores a análogos da linezolida o composto:
+</paragraph>
+<question_options>
+    <item>
+        <b>2</b>, já que o grupo metoxila irá mimetizar as propriedades
+        eletrônicas do átomo de flúor de 1, favorecendo também
+        a etapa de síntese de substituição nucleofílica aromática;
+    </item>
+    <item>
+        <b>3</b>, sendo que o átomo de enxofre, devido à sua maior
+        lipofilicidade, deverá proporcionar maior absorção entérica
+        de 3 em relação a 1;
+    </item>
+    <item>
+        <b>4</b>, já que o anel piridínico irá mimetizar as propriedades
+        eletrônicas do anel benzênico de 1, favorecendo também
+        a etapa de síntese de substituição nucleofílica aromática.
+    </item>
+</question_options>
+<question>
+    Está(ão) correta(s), apenas, a(s) afirmação(ões)
+</question>
+<answer_options>
+    <item>
+        I.
+    </item>
+    <item>
+        II.
+    </item>
+    <item>
+        III.
+    </item>
+    <item>
+        I e II.
+    </item>
+    <item>
+        II e III.
+    </item>
+</answer_options>

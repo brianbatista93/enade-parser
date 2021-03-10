@@ -1,0 +1,40 @@
+<paragraph>
+    Analise as informações apresentadas no gráfico abaixo,
+    sobre a cinética plasmática do diazepam na mulher obesa e
+    na de peso normal.
+</paragraph>
+<image src="images/farmacia_2007_m_28_0.png" />
+<image src="images/farmacia_2007_m_28_1.png" />
+<question>
+    Pode-se observar no gráfico que a meia-vida de eliminação do
+    diazepam na mulher obesa, quando comparada à meia-vida
+    de eliminação do mesmo medicamento na mulher de peso
+    normal, é cerca de
+</question>
+<answer_options>
+    <item>
+        duas vezes menor, o que demonstra que o medicamento
+        tende a acumular-se mais no indivíduo com peso normal.
+    </item>
+    <item>
+        duas vezes maior, pois esse medicamento é altamente
+        hidrossolúvel, apresentando afinidade maior pela água,
+        sendo eliminado mais rápido pelos rins.
+    </item>
+    <item>
+        duas vezes maior, pois esse medicamento é altamente
+        lipossolúvel e tende a acumular-se no tecido adiposo,
+        aumentando a distribuição do medicamento e, conseqüentemente,
+        a meia-vida de eliminação no indivíduo obeso.
+    </item>
+    <item>
+        quatro vezes menor, pois o diazepam, por ser lipossolúvel,
+        demanda maior tempo de metabolização hepática.
+    </item>
+    <item>
+        quatro vezes maior, pois esse medicamento é altamente
+        lipossolúvel e tende a acumular-se no tecido adiposo,
+        aumentando a distribuição do medicamento e, conseqüentemente,
+        a meia-vida de eliminação no indivíduo obeso.
+    </item>
+</answer_options>

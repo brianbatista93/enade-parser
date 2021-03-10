@@ -1,0 +1,72 @@
+<paragraph>
+    Um Farmacêutico hospitalar, que acumula a função de gestor
+    da Assistência Farmacêutica do Hospital, tem autonomia para
+    padronizar, em conjunto com a Comissão de Farmácia &
+    Terapêutica do hospital, o medicamento que considerar mais
+    eficaz para determinado tratamento. O processo de seleção
+    dos medicamentos deverá basear-se em estudos científicos
+    de eficácia clínica e segurança, bem como em levantamentos
+    epidemiológicos e econômicos, ponderando sobre o
+    custo final do tratamento farmacológico a ser padronizado e
+    considerando, inclusive, a dispensação e a administração do
+    medicamento. Nesse contexto, analise a tabela abaixo que
+    apresenta um estudo de seleção de dois antibióticos.
+</paragraph>
+
+<table>
+    <image src="images/farmacia_2007_m_15_0.png" />
+</table>
+<paragraph>
+    Tendo em vista os dados apresentados na tabela acima, pode-se
+    concluir que:
+</paragraph>
+<question_options>
+    <item>
+        o medicamento a ser padronizado deve ser o antibiótico
+        A, pois apresenta menor custo da ampola e menor
+        tempo de tratamento e de internação, proporcionando
+        um custo final inferior, quando comparado ao antibiótico B;
+    </item>
+    <item>
+        apesar de o custo da ampola do antibiótico B ser maior
+        que o do antibiótico A, o Farmacêutico hospitalar pode
+        optar por padronizá-lo, pois ele representará, no custo
+        final do tratamento, uma economia de R$ 460,00 por
+        paciente para o hospital;
+    </item>
+    <item>
+        embora a opção mais econômica seja a padronização
+        do antibiótico B, para utilizar esse medicamento o paciente
+        deve permanecer internado por sete dias, o que pode
+        ser problemático num município que apresenta problema
+        de número de leitos, fazendo com que o Farmacêutico
+        opte corretamente pela padronização do antibiótico A;
+    </item>
+    <item>
+        o antibiótico A deveria ser padronizado nesse hospital,
+        pois a eficácia do tratamento e o custo do medicamento
+        são semelhantes entre as opções disponíveis, porém o
+        custo unitário da ampola do antibiótico A é menor que o
+        do antibiótico B.
+    </item>
+</question_options>
+<question>
+    Estão corretas, somente, as afirmações
+</question>
+<answer_options>
+    <item>
+        I e II.
+    </item>
+    <item>
+        I e IV.
+    </item>
+    <item>
+        II e III.
+    </item>
+    <item>
+        II e IV.
+    </item>
+    <item>
+        III e IV.
+    </item>
+</answer_options>

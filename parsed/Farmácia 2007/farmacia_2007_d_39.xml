@@ -1,0 +1,53 @@
+<paragraph>
+    Um usuário do sexo masculino, com 46 anos, 1,60 m e 89,6 kg, foi atendido por um Médico endocrinologista numa
+    Unidade Básica Distrital de Saúde do SUS. Durante a consulta médica, o profissional analisou e interpretou os exames
+    laboratoriais, fornecendo o diagnóstico de diabetes <i>mellitus</i> tipo 2 ao paciente. Nesse momento, o Médico solicitou a presença
+    do Farmacêutico para discutirem sobre a melhor opção terapêutica para esse usuário. Dessa forma, analise os dados laboratoriais
+    abaixo e auxilie na escolha do fármaco.
+</paragraph>
+<list>
+    <item>
+        Glicemia de jejum: 198 mg/dL (valor de referência até 100 mg/dL).
+    </item>
+    <item>
+        Hemoglobina glicosilada: 11% (valor de referência até 7%).
+    </item>
+    <item>
+        Insulina: 45 μUI/mL (valor de referência até 26 μUI/mL).
+    </item>
+</list>
+<paragraph>
+    Sabe-se que o cálculo do valor de HOMA (resistência à insulina) e do IMC (índice de massa corporal) são fundamentais para
+    a escolha do tratamento farmacológico mais apropriado. O IMC pode ser calculado pela razão do peso (kg) sobre o quadrado
+    da altura, e a resistência à insulina é avaliada através da seguinte fórmula:
+</paragraph>
+<centered_text>
+    HOMA = glicemia de jejum (mg/dL) / 18 x insulina (μUI/mL) / 22,5
+</centered_text><paragraph>
+    Para interpretação dos cálculos de IMC e HOMA, você deve utilizar os seguintes parâmetros:
+</paragraph>
+<list>
+    <item>
+        HOMA: > 3,5 diagnóstico de resistência à insulina.
+    </item>
+    <item>
+        IMC: > 30 kg/m2 paciente considerado obeso.
+    </item>
+</list>
+<question>
+    A partir dos dados acima,
+    <list>
+        <item>
+            a) calcule os valores de IMC e HOMA do indivíduo, realizando uma interpretação dos resultados encontrados;
+        </item>
+        <item>
+            b) indique, dentre os medicamentos disponíveis no município (insulina, glibenclamida e metformina), aquele que constitui a
+            escolha mais racional para esse usuário. Justifique a escolha baseando-se no mecanismo de ação do medicamento e nas
+            características clínicas, laboratoriais e antropométricas do paciente;
+        </item>
+        <item>
+            c) relacione as principais orientações que devem ser fornecidas ao paciente para a utilização correta do fármaco, durante a
+            dispensação.
+        </item>
+    </list>
+</question>

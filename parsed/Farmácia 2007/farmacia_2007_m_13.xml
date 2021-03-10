@@ -1,0 +1,40 @@
+<paragraph>
+    As endonucleases de restrição são enzimas que reconhecem
+    uma seqüência específica de nucleotídeos do DNA e o
+    digerem (cortam) num ponto determinado. O emprego
+    dessas enzimas no diagnóstico de doenças infecciosas,
+    neoplásicas e hereditárias vem crescendo dia a dia, e está
+    preconizado em alguns programas de saúde pública do
+    Governo Federal.
+</paragraph>
+<paragraph>
+    O esquema abaixo mostra a seqüência de bases reconhecida
+    pela enzima Dde I, seu ponto de corte (representado pela
+    seta) e dois fragmentos de DNA a serem examinados.
+</paragraph>
+<image src="images/farmacia_2007_m_13_0.png" />
+<question>
+    Considerando a especificidade da enzima e os fragmentos
+    em estudo, e sabendo que o fragmento “A” é o normal e o
+    fragmento “S” representa uma mutação, qual a representação
+    do resultado da corrida eletroforética dos fragmentos resultantes
+    da digestão do DNA de um indivíduo normal e de um
+    homozigoto doente?
+</question>
+<answer_options>
+    <item>
+        Normal = 1 banda; doente = 1 banda.
+    </item>
+    <item>
+        Normal = 1 banda; doente = 2 bandas.
+    </item>
+    <item>
+        Normal = 2 bandas; doente = 1 banda.
+    </item>
+    <item>
+        Normal = 2 bandas; doente = 2 bandas.
+    </item>
+    <item>
+        Não é possível diferenciar a mutação nestes fragmentos.
+    </item>
+</answer_options>

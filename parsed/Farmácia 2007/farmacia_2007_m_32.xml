@@ -1,0 +1,44 @@
+<paragraph>
+    A reologia consiste no estudo do escoamento ou deformação
+    de um material quando submetido a uma tensão. Estudos
+    reológicos são importantes na pesquisa, no desenvolvimento,
+    na seleção, na produção e no controle de qualidade de
+    produtos farmacêuticos. Nesse sentido, considere os dois
+    reogramas a seguir.
+</paragraph>
+<image src="images/farmacia_2007_m_32_0.png" />
+<image src="images/farmacia_2007_m_32_1.png" />
+<question>
+    Em relação ao comportamento de fluxo, é correto interpretar
+    que o material representado, no primeiro reograma, pela
+</question>
+<answer_options>
+    <item>
+        curva A tem comportamento de fluxo pseudoplástico,
+        desejável em preparações injetáveis, estando relacionado
+        com a viscosidade representada pela curva 3 do segundo
+        reograma.
+    </item>
+    <item>
+        curva B tem comportamento de fluxo dilatante, estando
+        relacionado com a viscosidade representada pela
+        curva 1 do segundo reograma.
+    </item>
+    <item>
+        curva B tem comportamento de fluxo dilatante, importante
+        em xampus e condicionadores, estando relacionado
+        com a viscosidade representada pela curva 1 do segundo
+        reograma.
+    </item>
+    <item>
+        curva C tem comportamento de fluxo pseudoplástico,
+        característico em suspensões farmacêuticas, estando
+        relacionado com a viscosidade representada pela
+        curva 2 do segundo reograma.
+    </item>
+    <item>
+        curva C tem comportamento de fluxo dilatante, desejável
+        em pomadas, estando relacionado com a viscosidade
+        representada pela curva 3 do segundo reograma.
+    </item>
+</answer_options>

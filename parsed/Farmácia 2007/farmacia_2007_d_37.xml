@@ -1,0 +1,26 @@
+<paragraph>
+    A RDC 67, de 08/10/2007, no item Controle de Qualidade dos Medicamentos Manipulados, diz que: “A farmácia pode manipular
+    e manter estoque mínimo de preparações oficinais (...), desde que garanta a qualidade das preparações”. Desta forma, a
+    Farmácia Joãozinho produz 6.000 cápsulas de minoxidil de 5mg. Seu teor é determinado por espectrofotometria no ultravioleta,
+    utilizando a curva de calibração abaixo, cujo coeficiente de correlação determinado foi r=0,99265. Após uma cápsula ser diluída
+    em balão volumétrico de 100,0ml, deste foi retirada uma alíquota de 3,0ml para balão volumétrico de 10,0ml e, deste último, foi
+    realizada a leitura no espectrofotômetro, obtendo-se 0,602 de absorbância.
+</paragraph>
+<image src="images/farmacia_2007_m_37_0.png" />
+<question>
+    Responda às perguntas a seguir, considerando a forma farmacêutica, sua dosagem e a Resolução em vigor.
+    <list>
+        <item>
+            a) Qual a principal análise requerida para esta cápsula? Por quê?
+        </item>
+        <item>
+            b) Qual a melhor concentração a ser escolhida para a amostra, analisando o gráfico da curva de calibração?
+        </item>
+        <item>
+            c) O coeficiente de correlação obtido está apropriado para a utilização da curva? Explique.
+        </item>
+        <item>
+            d) Qual a massa de minoxidil presente em uma cápsula? (Apresente todos os passos para chegar à resposta)
+        </item>
+    </list>
+</question>

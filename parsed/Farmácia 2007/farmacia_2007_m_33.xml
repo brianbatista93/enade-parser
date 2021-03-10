@@ -1,0 +1,57 @@
+<paragraph>
+    O gráfico apresenta a correlação entre concentração
+    plasmática (ug/mL) e dose prescrita de lamotrigina (mg/kg/dia),
+    medicamento antiepiléptico de segunda geração utilizado para
+    o tratamento de crises convulsivas em pacientes portadores
+    de epilepsia refratária. Por apresentar intervalo terapêutico
+    estreito, situado entre 1 e 4 ug/mL, os indivíduos que utilizam
+    esse fármaco devem ser monitorados constantemente, para
+    impedir possíveis episódios de reações adversas e intoxicações
+    que interferem negativamente no controle da patologia.
+    Atualmente, alguns hospitais da rede pública desenvolvem a
+    monitorização terapêutica de usuários que utilizam essa
+    classe de medicamentos, obtendo resultados como os do
+    gráfico.
+</paragraph>
+<image src="images/farmacia_2007_m_33_0.png" />
+<question>
+    Observando tais dados, qual a conclusão correta?
+</question>
+<answer_options>
+    <item>
+        Só um indivíduo usa dose de lamotrigina inferior a 1,0 mg/
+        kg/dia, no qual a concentração plasmática do fármaco
+        também é a menor, situando-se abaixo do intervalo
+        terapêutico, o que deve levar o Farmacêutico a sugerir
+        aumento de dose para racionalizar a terapêutica.
+    </item>
+    <item>
+        Três pacientes usam doses situadas entre 3,5 e 4,0 mg/
+        kg/dia, nos quais a concentração plasmática do fármaco
+        apresenta diferença significativa, o que pode ser explicado
+        pelo fato de a meia-vida de eliminação da lamotrigina
+        ser menor em indivíduos obesos e idosos.
+    </item>
+    <item>
+        Quatro usuários têm concentração plasmática de
+        lamotrigina abaixo do intervalo terapêutico, o que faz crer
+        que não são aderentes ou são pessoas idosas, com
+        alterações fisiológicas que modificam a metabolização e
+        a eliminação dos fármacos.
+    </item>
+    <item>
+        Alguns pacientes que recebem doses bastante
+        próximas (entre 3,5 e 4,0 mg/kg/dia) têm concentrações
+        plasmáticas distintas, o que pode ser explicado por
+        problemas de adesão ao tratamento ou variações
+        fisiopatológicas individuais, como a obesidade, que
+        aumenta a meia-vida de eliminação da lamotrigina.
+    </item>
+    <item>
+        Os nove pacientes apresentam linearidade, quando
+        observada a correlação entre concentração plasmática e
+        dose do medicamento, demonstrando que, quanto maior
+        a dose prescrita de lamotrigina, maior a concentração
+        plasmática do fármaco.
+    </item>
+</answer_options>
