@@ -1,0 +1,35 @@
+<paragraph>
+    Um laboratório está avaliando a compra de
+    uma estufa de certa marca, que possui
+    temperatura média de operação igual a 200
+    graus Fahrenheit, com desvio-padrão de 10
+    graus Fahrenheit. Para elaborar um manual
+    de operação, a temperatura deve ser medida
+    em graus Celsius. Usando a expressão
+    simplificada C = 0,6 F — 18 para converter
+    graus Fahrenheit em graus Celsius,
+</paragraph>
+
+<question>
+    O Estatístico responsável encontrou que a
+    média e o desvio-padrão da temperatura de
+    operação da estufa são, respectivamente:
+</question>
+
+<answer_options>
+    <item>
+        102 graus Celsius e 6 graus Celsius.
+    </item>
+    <item>
+        102 graus Celsius e 36 graus Celsius.
+    </item>
+    <item>
+        120 graus Celsius e 6 graus Celsius.
+    </item>
+    <item>
+        120 graus Celsius e 36 graus Celsius.
+    </item>
+    <item>
+        182 graus Celsius e 6 graus Celsius.
+    </item>
+</answer_options>

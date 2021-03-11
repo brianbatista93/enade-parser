@@ -1,0 +1,43 @@
+<paragraph>
+    A urbanização no Brasil registrou marco histórico na década de 1970, quando o numero de pessoas que
+    viviam nas cidades ultrapassou o número daquelas que viviam no campo. No início deste século, em
+    2000, segundo dados do IBGE, mais de 80% da população brasileira já era urbana.
+</paragraph>
+<text_header>
+    Considerando essas informações, estabeleça a relação entre as charges:
+</text_header>
+
+<porque>
+    <first>
+        <image src="images/estatistica_2009_m_1_0.png" />
+    </first>
+    <pq/>
+    <second>
+        <image src="images/estatistica_2009_m_1_1.png" />
+    </second>
+</porque>
+<source>
+    BARALDI, Márcio. <link>http://www.marciobarald1.com.br/barald12/component/joomgallery/?funce=detail&amp;id=178</link>.
+    (Acessado em 5 out. 2009)
+</source>
+<question>
+    Com base nas informações dadas e na relação proposta entre essas charges, é CORRETO
+    afirmar que
+</question>
+<answer_options>
+	<item>
+        a primeira charge é falsa, e a segunda é verdadeira.
+	</item>
+	<item>
+        a primeira charge é verdadeira, e a segunda é falsa.
+	</item>
+	<item>
+        as duas charges são falsas.
+	</item>
+	<item>
+        as duas charges são verdadeiras, e a segunda explica a primeira.
+	</item>
+	<item>
+        as duas charges são verdadeiras, mas a segunda não explica a primeira.
+	</item>
+</answer_options>

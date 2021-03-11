@@ -1,0 +1,45 @@
+<paragraph>
+    A pesquisadora encontrou, na literatura, dois
+    estimadores para a proporção p de besouros
+    que morrem após uma hora de exposição ao
+    inseticida:
+</paragraph>
+
+<list>
+    <item>
+        <formula id="a346a5d4-5bb4-43b6-ab93-15c9caf1c01b">\hat{p_1}</formula> é a proporção amostral de besouros mortos; e
+    </item>
+    <item>
+        <formula id="0c24f43a-0aed-459a-86ff-70b74007e581">\hat{p_2}=1</formula>, se o primeiro besouro estava morto, e <formula id="df521327-3aaa-4a96-8e99-043f9d12db9e">\hat{p_2}=0</formula>, caso contrário.
+    </item>
+</list>
+
+<question>
+    Os estimadores <formula id="a346a5d4-5bb4-43b6-ab93-15c9caf1c01b">\hat{p_1}</formula> e <formula id="f970fd47-16db-4b1f-872b-cee851f1645e">\hat{p_2}</formula> de <i>p</i> são
+</question>
+
+<answer_options>
+    <item>
+        não viciados, e o erro quadrático medio de
+        <formula id="a346a5d4-5bb4-43b6-ab93-15c9caf1c01b">\hat{p_1}</formula>, é menor do que o erro quadrático médio
+        de <formula id="f970fd47-16db-4b1f-872b-cee851f1645e">\hat{p_2}</formula>.
+    </item>
+    <item>
+        não viciados, e seus erros quadráticos
+        médios são iguais.
+    </item>
+    <item>
+        não viciados, e o erro quadrático médio de
+        <formula id="a346a5d4-5bb4-43b6-ab93-15c9caf1c01b">\hat{p_1}</formula>, é maior do que o erro quadrático médio
+        de <formula id="f970fd47-16db-4b1f-872b-cee851f1645e">\hat{p_2}</formula>.
+    </item>
+    <item>
+        respectivamente, não viciado e viciado, e
+        seus erros quadráticos médios são iguais.
+    </item>
+    <item>
+        respectivamente, viciado e não viciado, e o
+        erro quadrático médio de <formula id="a346a5d4-5bb4-43b6-ab93-15c9caf1c01b">\hat{p_1}</formula>, é menor do
+        que o erro quadrático médio de <formula id="f970fd47-16db-4b1f-872b-cee851f1645e">\hat{p_2}</formula>.
+    </item>
+</answer_options>

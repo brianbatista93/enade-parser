@@ -1,0 +1,11 @@
+<paragraph>
+    Seja Z o consumo de combustível medido em litros por quilômetro rodado. Assuma que £Z tem a
+função de densidade de probabilidade dada por
+</paragraph>
+
+<centered_text>
+    <formula id="f4c7148f-6ed8-4d42-a053-bdaf6592ac62">f(z)=\frac{(30)^3}{2} z^2 e^{-30z} I_{[0, \infty [} (z)</formula>
+</centered_text>
+
+Encontre a função de densidade de probabilidade do consumo medido em quilômetros rodados
+por litro de combustível, dado <formula id="4e15366f-fb77-404e-9dc7-66655e1a860f">C = \frac{1}{Z}</formula>.

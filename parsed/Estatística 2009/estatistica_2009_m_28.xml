@@ -1,0 +1,41 @@
+<paragraph>
+    Considere as seguintes funções de densidade de probabilidade conjuntas ou funções de
+    probabilidade conjuntas:
+</paragraph>
+
+<question_options>
+    <item>
+        <image src="images/estatistica_2009_m_28_0.png" />
+    </item>
+    <item>
+        <image src="images/estatistica_2009_m_28_1.png" />
+    </item>
+    <item>
+        <image src="images/estatistica_2009_m_28_2.png" />
+    </item>
+    <item>
+        <image src="images/estatistica_2009_m_28_3.png" />
+    </item>
+</question_options>
+
+<question>
+    Entre essas funções, aquelas que caracterizam um par de variáveis aleatórias independentes são
+</question>
+
+<answer_options>
+    <item>
+        I e III.
+    </item>
+    <item>
+        I e IV.
+    </item>
+    <item>
+        II e III.
+    </item>
+    <item>
+        II e IV.
+    </item>
+    <item>
+        III e IV.
+    </item>
+</answer_options>

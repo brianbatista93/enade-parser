@@ -1,0 +1,31 @@
+<paragraph>
+    A taxa X de gordura corporal (massa de gordura dividida pela massa total) de mulheres adultas tem distribuição Beta com parâmetros 1 e 0, com 0 > O, cuja função de densidade de
+    probabilidade é
+</paragraph>
+
+<centered_text>
+    <formula id="c4196b48-b5ad-47c0-95d4-a9079e06ca09">f(x \mid \theta) = \left\{\begin{matrix} \theta (1-x)^{\theta -1}, &amp; 0&lt;x&lt;1 \\ 0, &amp; {caso\, contrario} \end{matrix}\right.</formula>
+</centered_text>
+
+<question>
+    Seja <formula id="e17e94d1-c879-41be-afcc-e8f5b6ba05b2">X_1,X_2,...,X_n</formula>, uma amostra aleatória simples de mulheres adultas dessa região.
+    O estimador de máxima verossimilhança de 0 é
+</question>
+
+<answer_options>
+    <item>
+        <formula id="07482604-1594-43bc-95cc-c78fecef63e7">-\frac{\sum_{i=1}^{n} ln(1-X_i)}{n}</formula>.
+    </item>
+    <item>
+        <formula id="3fe5dc9d-a617-4cfb-8ec8-ab7037145f94">\frac{\sum_{i=1}^{n} X_i }{n}</formula>.
+    </item>
+    <item>
+        <formula id="d9617c7a-5f2f-4dd2-824c-9c12f6e9bd71">-\frac{n}{\sum_{i=1}^{n} ln(1-X_i)}</formula>.
+    </item>
+    <item>
+        <formula id="d05d3fbd-ea9f-41f5-ab15-7b74cbe08f84">\frac{\sum_{i=1}^{n} ln(1-X_i)}{n}</formula>.
+    </item>
+    <item>
+        <formula id="17ed5bf5-15f3-4a8d-b92c-b9660f3d5b1b">\frac{n}{\sum_{i=1}^{n} ln(1-X_i)}</formula>.
+    </item>
+</answer_options>

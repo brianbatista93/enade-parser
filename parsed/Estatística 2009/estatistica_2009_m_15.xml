@@ -1,0 +1,33 @@
+<paragraph>
+    O dono de uma <i>lan house</i> (loja que aluga computadores para acesso à Internet) quer saber se o
+    tempo de uso da internet por sessão é diferente entre seus clientes jovens e adultos. Para isso,
+    ele contratou um Estatístico, que coletou uma amostra aleatória de clientes nos dois grupos e
+    mediu o tempo, em minutos, que cada cliente gastou em sua sessão. Os dados coletados estão
+    resumidos nas duas ogivas (dois polígonos de frequências acumuladas) mostradas na figura:
+</paragraph>
+<title>
+    Ogivas do tempo de uso da internet a cada sessão, para jovens e adultos
+</title>
+<image src="images/estatistica_2009_m_15_0.png" />
+
+<question>
+    Com base no gráfico, o Estatístico pode concluir que
+</question>
+
+<answer_options>
+    <item>
+        cerca de 80% por cento dos clientes jovens utilizam a internet por 70 minutos a cada sessão.
+    </item>
+    <item>
+        mais de 50% dos clientes adultos utilizam a internet por mais de 30 minutos a cada sessão.
+    </item>
+    <item>
+        menos de 5% dos clientes jovens utilizam a internet por mais de 80 minutos a cada sessão.
+    </item>
+    <item>
+        menos de 10% dos clientes adultos utilizam a internet por até 10 minutos a cada sessão.
+    </item>
+    <item>
+        menos de 30% dos clientes adultos utilizam a internet de 30 a 60 minutos a cada sessão.
+    </item>
+</answer_options>

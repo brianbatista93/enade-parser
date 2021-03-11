@@ -1,0 +1,41 @@
+<paragraph>
+    Uma pesquisadora esta estudando a
+    resistência de um novo material e sabe que
+    essa variável é normalmente distribuída com
+    média yu e variância conhecida. Com base em
+    uma amostra de 20 valores dessa variável, a
+    pesquisadora obteve o seguinte intervalo de    
+    95% confiança para <formula id="e76fa69e-bb57-4408-bdaf-a184051f55a6">\mu: \bar{x} \pm 2</formula>, em que <formula id="e4647345-e1d2-45f1-adae-7adb6d25ea9a">\bar{x}</formula> é o
+    valor da média das resistências na amostra
+    coletada. 
+</paragraph>
+
+<question>
+    Escolha a interpretação <b>CORRETA</b> desse intervalo:
+</question>
+<answer_options>
+    <item>
+        A probabilidade da resistência assumir um
+        valor dentro do intervalo calculado é 0,95.
+    </item>
+    <item>
+        A probabilidade de o intervalo calculado
+        conter o valor de <formula id="0fc33320-829a-45c5-9d27-9fb775198873">\mu</formula> é 0,95.
+    </item>
+    <item>
+        A probabilidade do valor de u estar dentro
+        do intervalo calculado é próxima de 0,95.
+    </item>
+    <item>
+        Se um grande número de tais intervalos é
+        construído, cada um resultante de uma
+        amostra aleatória de tamanho 20, então
+        95% deles irão conter o valor <formula id="9b24ffca-49b4-4b6a-9520-98e62754b651">\bar{x}</formula>.
+    </item>
+    <item>
+        Se um grande número de tais intervalos é
+        construído, cada um resultante de uma
+        amostra aleatória de tamanho 20, então
+        95% deles irão conter o valor de <formula id="074107e6-19c9-4df8-b7b0-bc957ef1537a">\mu</formula>.
+    </item>
+</answer_options>

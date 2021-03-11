@@ -1,0 +1,31 @@
+<paragraph>
+    Um estudante de Estatística gasta muito tempo no ponto de ônibus. Sendo assim, ele registrou
+    seu tempo de espera durante seis meses. O gráfico mostra o histograma construído a partir
+    desses dados.
+</paragraph>
+<title>
+    Histograma dos tempos de espera no ponto de ônibus
+</title>
+<image src="images/estatistica_2009_m_27_0.png" />
+<question>
+    Dentre os modelos probabilísticos a seguir, o que NÃO é adequado para explicar esses dados,
+    sem o uso de transformação, é
+</question>
+
+<answer_options>
+    <item>
+        Exponencial.
+    </item>
+    <item>
+        F de Snedecor.
+    </item>
+    <item>
+        Log-normal.
+    </item>
+    <item>
+        Normal.
+    </item>
+    <item>
+        Weibull|.
+    </item>
+</answer_options>

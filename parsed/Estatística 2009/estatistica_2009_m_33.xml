@@ -1,0 +1,51 @@
+<paragraph>
+    O gerente de uma rede de concessionarias de automóveis novos deseja estudar a relação entre
+    o gasto com acessórios no ato da compra do automóvel (Y, em reais) em função do valor do
+    automóvel (<formula id="9af2b155-d350-4b1f-af0f-09014e18246a">X_1</formula>, em reais), do sexo do comprador (<formula id="07881891-9a8f-4890-bdaa-46ede1ce0016">X_2 = 0</formula>, se feminino; <formula id="18d01bb8-ecf5-411c-9d61-eb41781db95a">X_2 = 1</formula>, se masculino) e da
+    idade do comprador (<formula id="0de341af-bd4b-4c6f-9aca-f8fa3ce224ba">X_3</formula>, em anos completos). O Estatístico consultado para resolver esse
+    problema selecionou uma amostra aleatória de vendas, ajustou um modelo de regressão linear
+    usando essas variáveis e apresentou ao gerente as conclusões:
+</paragraph>
+
+<question_options>
+    <item>
+        O gasto com acessórios cresce linearmente com o valor do automóvel.
+    </item>
+    <item>
+        As mulheres gastam menos com acessórios do que os homens.
+    </item>
+    <item>
+        O gasto com acessórios decresce linearmente com a idade do comprador.
+    </item>
+    <item>
+        O efeito linear do valor do automóvel no gasto com acessórios não é o mesmo nos dois sexos.
+    </item>
+    <item>
+        O efeito linear do valor do automóvel no gasto com acessórios não é o mesmo para qualquer idade
+        do comprador (e vice-versa).
+    </item>
+    <item>
+        O efeito linear da idade do comprador no gasto com acessórios é o mesmo nos dois sexos.
+    </item>
+</question_options>
+<question>
+    Considerando-se essas conclusões, o modelo final apresentado ao gerente foi do tipo
+</question>
+
+<answer_options>
+    <item>
+        <formula id="d7f1939e-a21b-4f04-b6c3-dd112013d68c">Y = \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + erro</formula>
+    </item>
+    <item>
+        <formula id="14d9dabc-7aec-47f4-ae89-2bff1c0d94e7">Y = \beta_1 X_1 + \beta_2 X_2 + \beta_{12} X_1 X_2 + erro</formula>
+    </item>
+    <item>
+        <formula id="04333b04-bb63-455d-8730-c128761bd5b3">Y = \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \beta_{23} X_2 X_3 + erro</formula>
+    </item>
+    <item>
+        <formula id="e653ef2c-870a-438a-bbf4-62ab93ae8cd4">Y = \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \beta_{12} X_1 X_2 + \beta_{13} X_1 X_3 + erro</formula>
+    </item>
+    <item>
+        <formula id="abe84b00-3e8d-4a0a-bd7d-a12df3a5066e">Y = \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \beta_{12} X_1 X_2 + \beta_{13} X_1 X_3 + \beta_{2}{3} X_2 X_3 + erro</formula>
+    </item>
+</answer_options>

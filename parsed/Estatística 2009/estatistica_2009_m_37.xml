@@ -1,0 +1,62 @@
+<paragraph>
+    Uma empresa de refrigerantes enche garrafas especificadas para conter dois litros da bebida. O
+    processo de envasamento é mecanizado. Sendo assim, existe uma variação no volume que é
+    dispensado pela máquina. Para evitar desperdício da bebida ou garrafas com volume muito
+    abaixo do especificado, o Estatístico responsável pelo controle de qualidade da empresa
+    acompanha, diariamente, esse processo de produção. Para tanto, a cada dia, ele seleciona uma
+    amostra aleatória de 50 garrafas envasadas e mede o volume de seu conteúdo. A figura a seguir
+    mostra os resultados das amostras de sete dias consecutivos, resumidos em <i>boxplots</i>
+    (diagramas de caixa ou desenhos esquemáticos). Os resultados do 1º dia mostram um processo
+    de envasamento satisfatório. Ao final do 4º dia foi feito um ajuste nas máquinas envasadoras.
+</paragraph>
+
+<title>
+    <i>Boxplots</i> do volume dispensado
+</title>
+<image src="images/estatistica_2009_m_37_0.png" />
+
+<paragraph>
+    Considere as seguintes afirmativas baseadas na figura:
+</paragraph>
+
+<text>
+    <b>A1</b>. O volume mediano manteve-se próximo do valor nominal até o 4º dia.
+    <b>A2</b>. O processo do 2º ao 4º dias não pode ser considerado satisfatório.
+    <b>A3</b>. O ajuste feito nas máquinas ao final do 4º dia teve o efeito de retornar a variabilidade do processo
+            ao nível considerado satisfatório.
+    <b>A4</b>. O processo no 5º e no 6º dias não pode ser considerado satisfatório.
+</text>
+
+<paragraph>
+    Considere as possíveis justificativas para as afirmativas acima (não necessariamente na mesma
+    ordem):
+</paragraph>
+
+<text>
+    <b>R1</b>. porque a distância interquartílica dos volumes está próxima ao valor considerado satisfatório.
+    <b>R2</b>. porque o traço horizontal dentro das caixas dos <i>boxplots</i> está próximo ao valor de 2000 ml.
+    <b>R3</b>. porque o valor mediano dos volumes está abaixo do especificado.
+    <b>R4</b>. porque a variabilidade dos volumes despendidos cresceu.
+</text>
+
+<question>
+    Escolha a alternativa que associa as afirmativas com suas Justificativas corretas:
+</question>
+
+<answer_options>
+    <item>
+        A1 com R2; A2 com R3.
+    </item>
+    <item>
+        A1 com R2; A3 com R1.
+    </item>
+    <item>
+        A1 com R4; A3 com R1.
+    </item>
+    <item>
+        A2 com R2; A4 com R3.
+    </item>
+    <item>
+        A2 com R4; A4 com R4.
+    </item>
+</answer_options>

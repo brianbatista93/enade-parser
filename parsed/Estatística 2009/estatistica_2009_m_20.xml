@@ -1,0 +1,30 @@
+<paragraph>
+    De acordo com um princípio genético simples, se os pais de uma criança têm o genótipo Aa,
+    então há uma probabilidade de 0,25 de que a criança tenha genótipo AA; uma probabilidade de
+    0,50 de que tenha o genótipo Aa; e de 0,25 de que tenha o genótipo aa.
+</paragraph>
+
+<question>
+    Uma amostra aleatória de 40 crianças, tendo pais com o genótipo Aa, revelou que 15 crianças
+    tinham o genótipo Aa e 15 tinham o genótipo AA.
+</question>
+<table>
+    <image src="images/estatistica_2009_m_20_0.png" />
+</table>
+<answer_options>
+    <item>
+        é menor que 0,017.
+    </item>
+    <item>
+        é maior do que 0,10.
+    </item>
+    <item>
+        está entre 0,025 e 0,05.
+    </item>
+    <item>
+        está entre 0,01 e 0,025.
+    </item>
+    <item>
+        está entre 0,05 e 0,10.
+    </item>
+</answer_options>

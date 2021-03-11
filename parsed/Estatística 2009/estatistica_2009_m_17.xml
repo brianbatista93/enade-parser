@@ -1,0 +1,38 @@
+<paragraph>
+    Clientes chegam a um balcão de
+    atendimento no horário comercial, segundo
+    um processo de Poisson com média de 6
+    clientes por hora. Definindo <formula id="30e3dcf1-890b-4534-9ca6-1b4c36ef3772">T_j</formula>, como o
+    
+    tempo de chegada do j-ésimo cliente, a
+    diferença entre dois tempos de chegadas
+    consecutivas, <formula id="45444401-ee24-4c6d-b880-1097c7e00153">D_j = T_j-T_{j-i},j=1,2,3,., T_0 =0</formula>,
+    representa o tempo decorrido entre duas
+    chegadas.
+</paragraph>
+
+<question>
+    Logo, as variáveis aleatórias <formula id="ccc883fb-6375-4316-8add-51388c7cc578">D_1,D_2,D_3,...,</formula> são
+</question>
+<answer_options>
+    <item>
+        identicamente — distribuídas, mas não
+        independentes.
+    </item>
+    <item>
+        independentes e identicamente distribuídas
+        segundo uma Exponencial.
+    </item>
+    <item>
+        independentes e identicamente distribuídas
+        segundo uma Normal.
+    </item>
+    <item>
+        independentes e identicamente distribuídas
+        segundo uma Poisson.
+    </item>
+    <item>
+        independentes, mas não identicamente
+        distribuídas.
+    </item>
+</answer_options>

@@ -1,0 +1,34 @@
+<paragraph>
+    Um secretário de uma escola, tendo por base uma planilha de 48 notas de uma avaliação de uma
+    turma, com duas casas decimais, resolveu arredondar as notas para o valor inteiro. Suponha que
+    as diferenças entre a nota original e a arredondada sejam independentes, com distribuição
+    uniforme entre —0,50 e 0,50, cuja variância é igual a 1/12.
+</paragraph>
+
+<paragraph>
+    A turma, preocupada com um possível prejuízo devido ao arredondamento, resolveu calcular a
+    probabilidade de que o erro total de arredondamento seja inferior a -3 pontos ou superior a 3
+    pontos. O valor aproximado obtido para essa probabilidade foi <formula id="3190a835-281b-49bc-b780-a606e231e71f">2(1- \Phi (3))</formula>, em que <formula id="5bfc45b0-6b51-47ee-ac5c-e015f9e1bf89">\Phi (.)</formula>
+    representa a função de distribuição acumulada da Normal Padrão.
+</paragraph>
+<question>
+    A teoria utilizada pela turma, para calcular essa probabilidade aproximada foi
+</question>
+
+<answer_options>
+    <item>
+        a Desigualdade de Chebyshev, mas ela errou o cálculo do quantil da Normal Padrão.
+    </item>
+    <item>
+        a Lei dos Grandes Números e ela acertou o cálculo do quantil da Normal Padrão.
+    </item>
+    <item>
+        a Lei dos Grandes Números, mas ela errou o cálculo do quantil da Normal Padrão.
+    </item>
+    <item>
+        o Teorema Central do Limite e ela acertou o cálculo do quantil da Normal Padrão.
+    </item>
+    <item>
+        o Teorema Central do Limite, mas ela errou o cálculo do quantil da Normal Padrão.
+    </item>
+</answer_options>

@@ -1,0 +1,32 @@
+<paragraph>
+    Com base no histórico de vendas de um
+    certo produto, o Estatístico de uma empresa
+    determinou que a comercialização desse
+    item contribuirá para o lucro da empresa
+    com um ganho de 30 mil reais, com
+    probabilidade de 0,3; com um ganho de 8 mil
+    reais, com probabilidade 0,5; e com uma
+    perda de 5 mil reais, com probabilidade 0,2.
+</paragraph>
+
+<question>
+    O lucro esperado da empresa com esse
+    produto é
+</question>
+<answer_options>
+    <item>
+        10 mil reais.
+    </item>
+    <item>
+        11 mil reais.
+    </item>
+    <item>
+        12 mil reais.
+    </item>
+    <item>
+        13 mil reais.
+    </item>
+    <item>
+        14 mil reais.
+    </item>
+</answer_options>

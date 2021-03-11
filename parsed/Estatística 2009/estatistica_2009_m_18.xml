@@ -1,0 +1,31 @@
+<paragraph>
+    No hemocentro de uma grande cidade, esta havendo falta do sangue tipo AB. Uma pesquisa
+    nessa cidade revelou as seguintes proporções de pessoas em cada tipo sanguíneo:
+</paragraph>
+<table>
+    <image src="images/estatistica_2009_m_18_0.png" />
+</table>
+
+<question>
+    Se, em um certo dia, dez pessoas, independentemente, se apresentam para doar sangue, a
+    probabilidade de que três doem sangue do tipo A, duas do tipo B, três do tipo AB e duas do tipo
+    O é
+</question>
+
+<answer_options>
+    <item>
+        <formula id="4a4853e1-3d7c-452c-97ed-3d31c09fb886">(0,36)^3(0,12)^2(0,04)^3(0,48)^2</formula>
+    </item>
+    <item>
+        <formula id="c7de165e-efc1-45e7-aeb8-0b9c8087c3e9">\binom{10}{3} (0,36)^3(0,64)^7\binom{10}{2} (0,12)^2(0,88)^8\binom{10}{3} (0,48)^2(0,52)^8</formula>
+    </item>
+    <item>
+        <formula id="0e7deb9e-6b78-47e1-bbde-3bc6ab2ad41a">\frac{10!}{3!2!3!2!} (0,36)^3(0,12)^2(0,04)^3(0,48)^2</formula>
+    </item>
+    <item>
+        <formula id="d403e9fd-4fd3-48c7-8aec-37ebbee3fc74">\binom{10}{3} (0,36)^3(0,64)^7\binom{7}{2} (0,12)^2(0,88)^5\binom{5}{3} (0,04)^3(0,96)^2\binom{2}{2} (0,48)^2(0,52)^0</formula>
+    </item>
+    <item>
+        <formula id="d5ce2002-900e-4f8f-81f3-2e6efaa7d603">\binom{10}{3} (0,36)^3(0,64)^7</formula>
+    </item>
+</answer_options>

@@ -1,0 +1,34 @@
+<paragraph>
+    Sejam Y o numero de pessoas que esta na fila de uma Agência dos Correios em um dado
+    minuto, e X o número de pessoas na fila que irá postar uma encomenda expressa. A distribuição
+    conjunta de X e Y é dada na tabela:
+</paragraph>
+
+<title>
+    Distribuição de probabilidade conjunta de X e Y
+</title>
+<table>
+    <image src="images/estatistica_2009_m_13_0.png" />
+</table>
+<question>
+    Em certo minuto, dado que haá seis clientes na fila, a probabilidade de que quatro deles postem
+    uma encomenda expressa é
+</question>
+
+<answer_options>
+    <item>
+        0,006.
+    </item>
+    <item>
+        0,028.
+    </item>
+    <item>
+        0,140.
+    </item>
+    <item>
+        0,192.
+    </item>
+    <item>
+        0,200.
+    </item>
+</answer_options>

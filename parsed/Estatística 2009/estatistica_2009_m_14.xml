@@ -1,0 +1,27 @@
+<paragraph>
+    Na tabela a seguir, apresenta-se a distribuição conjunta da renda anual de casais. Nela, Y
+    representa a renda da esposa (em dez mil reais) e X, a renda do esposo (em dez mil reais).
+</paragraph>
+<table>
+    <image src="images/estatistica_2009_m_14_0.png" />
+</table>
+<question>
+    A probabilidade da renda anual do casal ser maior do que 8 mil reais é
+</question>
+<answer_options>
+    <item>
+        1/8.
+    </item>
+    <item>
+        1/4.
+    </item>
+    <item>
+        3/8.
+    </item>
+    <item>
+        1/2.
+    </item>
+    <item>
+        3/4.
+    </item>
+</answer_options>

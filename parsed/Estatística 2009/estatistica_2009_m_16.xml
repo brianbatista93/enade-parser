@@ -1,0 +1,34 @@
+<paragraph>
+    Em uma turma de estudantes de Estatística,
+    um professor alega que possui uma moeda
+    viciada, cuja probabilidade, ao jogar cara ou
+    coroa, de sair cara é igual a 0,70. Os
+    estudantes planejaram o seguinte
+    experimento para verificar a veracidade da
+    afirmação do professor: jogaram a moeda
+    dez mil vezes, anotaram o número de caras e
+    usaram a frequência relativa de caras como
+    uma aproximação para a probabilidade de
+    sair cara nessa moeda. 
+</paragraph>
+
+<question>
+    Esse procedimento é uma aplicação
+</question>
+<answer_options>
+    <item>
+        da Lei dos Grandes Números.
+    </item>
+    <item>
+        da Regra da Multiplicação.
+    </item>
+    <item>
+        do Lema de Borel-Canitelli.
+    </item>
+    <item>
+        do Teorema Central do Limite.
+    </item>
+    <item>
+        do Teorema de Bayes.
+    </item>
+</answer_options>

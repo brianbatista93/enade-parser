@@ -1,0 +1,55 @@
+<paragraph>
+    Um Estatístico está construindo um modelo para previsão de risco de crédito para um banco.
+    Esse modelo será utilizado para conceder ou negar crédito a um cliente correntista. A base de
+    dados históricos da carteira de clientes revelou que 40.000 contratos foram pagos em dia ou
+    com atraso de até 30 dias (adimplentes) e 10.000 contratos tiveram atraso superior a 30 dias
+    (inadimplentes).
+</paragraph>
+
+<paragraph>
+    Por questões de custo de computação, o Estatístico poderá trabalhar somente com 5.000
+    contratos. Assim, ele considera todos os 50.000 contratos como a população alvo. Os contratos
+    estão numerados sequencialmente de 1 a 50.000, sendo que os primeiros 40.000 correspondem
+    aos adimplentes. Ele quer estimar a média da idade do financiado. Da experiência prévia, ele
+    sabe que os inadimplentes são, em geral, mais jovens do que os adimplentes.
+</paragraph>
+<question>
+    Com o objetivo de reduzir o erro-padrão do estimador da média da idade do financiado, o
+    procedimento adequado para selecionar a amostra é
+</question>
+
+<answer_options>
+    <item>
+        <text>
+        i) Sorteie 5.000 números Inteiros de 1 a 50.000, via amostragem aleatória simples com reposição.
+        ii) Tome como amostra os contratos correspondentes aos números sorteados.
+        </text>
+    </item>
+    <item>
+        <text>
+        i) Sorteie 5.000 números Inteiros de 1 a 50.000, via amostragem aleatória simples sem reposição.
+        ii) Tome como amostra os contratos correspondentes aos números sorteados.
+        </text>
+    </item>
+    <item>
+        <text>
+        i) Sorteie um número Inteiro entre 1 e 10.
+        ii) A partir do número sorteado, selecione os contratos num intervalo sequencial de 10 em 10, até
+        completar 5.000 contratos selecionados.
+        </text>
+    </item>
+    <item>
+        <text>
+        i) Sorteie 2.500 números inteiros de 1 a 40.000 e outros 2.500 números inteiros de 40.001 a
+        50.000, via amostragem aleatória simples sem reposição.
+        ii) Tome como amostra os contratos correspondentes aos números sorteados.
+        </text>
+    </item>
+    <item>
+        <text>
+        i) Sorteie 4.000 números Inteiros de 1 a 40.000 e outros 1.000 números inteiros de 40.001 a
+        50.000, via amostragem aleatória simples sem reposição.
+        ii) Tome como amostra os contratos correspondentes aos números sorteados.
+        </text>
+    </item>
+</answer_options>
