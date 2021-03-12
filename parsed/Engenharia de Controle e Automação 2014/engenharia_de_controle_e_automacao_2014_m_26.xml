@@ -1,0 +1,64 @@
+
+<paragraph>
+    Os sistemas integrados de manufatura (SIM)
+    apresentam uma abordagem estratégica embasada
+    em tecnologia, que respondem aos desafios
+    competi ti vos de fabricação. Uma forma de
+    caracterizar esses sistemas é a partir da matriz de
+    variedade (de partes/peças diferentes) e volume
+    (da quantidade de partes/peças produzidas) da
+    manufatura, conforme ilustra a figura abaixo.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_26_0.png" />
+<paragraph>
+    Considerando a matriz de variedade x volume
+    representada na figura, avalie as afirmações a seguir.
+</paragraph>
+<question_options>
+    <item>
+        Si stemas totalmente dedicados são
+        adequados para produzir uma variedade
+        limitada de configurações de partes/peças,
+        no entanto, podem trabalhar com volumes
+        muito altos de produção, ocupando a faixa A3
+        da matriz.
+    </item>
+    <item>
+        Sistemas flexíveis de manufatura (FMS)
+        podem ocupar o nível mais alto da matriz
+        de volume e variedade, ocupando a faixa
+        C3, ou seja, são capazes de se adequar a alta
+        variedade de partes/peças e alto volume de
+        produção de partes/peças.
+    </item>
+    <item>
+        Sistemas que utilizam máquinas baseadas
+        em CNC (computador numericamente
+        controlado) podem trabalhar com alta
+        variedade de programação de partes/peças,
+        ocupando a faixa Cl da matriz, mas podem
+        ser inviáveis economicamente se os volumes
+        não forem baixos.
+    </item>
+</question_options>
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

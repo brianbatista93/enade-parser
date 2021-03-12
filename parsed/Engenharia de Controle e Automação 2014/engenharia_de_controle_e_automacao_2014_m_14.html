@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../quiz.css">
+        
+    </head>
+    <body>
+        <p class="paragraph">
+            O transporte de um fluido entre dois pontos no interior
+            de um tubo ocorre simultaneamente, com perda de
+            energia, devido ao atrito do fluido com a parede e ao
+            escoamento turbulento. Portanto, quanto maior for
+            a rugosidade da parede da tubulação ou mais viscoso
+            for o fluido, maior será a perda de energia. A forma
+            de determinação do fator de atrito foi estabelecida
+            em 1939, por intermédio da equação de Colebrook-
+            White, apresentada a seguir.
+        </p>
+        
+        <p class="centered-text" style="text-align: center">
+            <img id="c4282d3e-7127-4574-bc0d-29109a241eac" class="formula" src="http://latex.codecogs.com/gif.latex?\frac{1}{\sqrt{f}} = -2log_{10} (\frac{k}{3, 7D} + \frac{2, 51}{R_e \sqrt{f}})" alt="\frac{1}{\sqrt{f}} = -2log_{10} (\frac{k}{3, 7D} + \frac{2, 51}{R_e \sqrt{f}})" />
+        </p>
+        
+        <p class="paragraph">
+            em que
+        </p>
+        
+        <pre class="text">
+            <i>f</i> é o fator de atrito de Darcy-Weisbach(adimensional);
+            <i>k</i> é a rugosidade equivalente da parede do tubo (m);
+            <i>D</i> é o diâmetro interno do tubo (m);
+            <img id="142d7e19-d968-46e3-b39c-74e3f2956aa6" class="formula" src="http://latex.codecogs.com/gif.latex?R_e" alt="R_e" /> é o número de Reynolds (adimensional).
+        </pre>
+        <p class="paragraph">
+            A resolução dessa equação requer um processo
+            iterativo, pois a função é implícita em relação ao fator
+            de atrito (presente nos dois membros da equação).
+            Em 1939, a resolução de equações por procedimentos
+            iterativos demandava excesso de tempo, mas,
+            com o desenvolvimento dos conhecimentos de
+            computação, esse problema foi solucionado.
+        </p>
+        <p class="paragraph">
+            As etapas de um algoritmo que soluciona a equação,
+            sem ordenação lógica, assim como seu fluxograma
+            são apresentados a seguir.
+        </p>
+        
+        <pre class="text">
+            A) <img id="1be2cda8-79f3-412a-ab33-eee8357eeb6f" class="formula" src="http://latex.codecogs.com/gif.latex?D=1" alt="D=1" />
+            B) <img id="f9a914f8-9c7c-48cf-8b29-669418f6d2b4" class="formula" src="http://latex.codecogs.com/gif.latex?f_0= 0,03" alt="f_0= 0,03" />
+            C) Início
+            D) Cálculo de <img id="95c3137f-c7aa-4e41-98b7-489391fa5870" class="formula" src="http://latex.codecogs.com/gif.latex?f_1" alt="f_1" /> através da equação de ColebrookWhite
+            E) <img id="b14f9e3c-adbc-4032-a3c8-811e924cdb4c" class="formula" src="http://latex.codecogs.com/gif.latex?|f_0-f_1| &lt;0,00001" alt="|f_0-f_1| &lt;0,00001" />
+            F) Término
+            G) <img id="ebcb648a-6efa-47a4-9ff1-c5aecba5b818" class="formula" src="http://latex.codecogs.com/gif.latex?Re= 10000" alt="Re= 10000" />
+            H) <img id="e6868888-d59f-45af-8fc6-62bb2be1a35e" class="formula" src="http://latex.codecogs.com/gif.latex?k=0,0001" alt="k=0,0001" />
+            1) <img id="1ce39f83-c615-4f2b-a285-ddcb0aea4060" class="formula" src="http://latex.codecogs.com/gif.latex?f_0= f_1" alt="f_0= f_1" />
+            J) Visualização do resultado
+        </pre>
+        
+        <img src="images/engenharia_de_controle_e_automacao_2014_m_14_0.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        <p class="question" style="font-size: 24">
+            Com base nessas informações, verifica-se que a
+            solução da equação é obtida pela seguinte associação
+            das etapas do algoritmo com o fluxograma
+        </p>
+        
+        <ol class="answer-options" type="A">
+            <li class="item">
+                <div class="table"><img src="images/engenharia_de_controle_e_automacao_2014_m_14_1.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></div>
+            </li>
+            <li class="item">
+                <div class="table"><img src="images/engenharia_de_controle_e_automacao_2014_m_14_2.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></div>
+            </li>
+            <li class="item">
+                <div class="table"><img src="images/engenharia_de_controle_e_automacao_2014_m_14_3.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></div>
+            </li>
+            <li class="item">
+                <div class="table"><img src="images/engenharia_de_controle_e_automacao_2014_m_14_4.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></div>
+            </li>
+            <li class="item">
+                <div class="table"><img src="images/engenharia_de_controle_e_automacao_2014_m_14_5.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></div>
+            </li>
+        </ol>
+        
+    </body>
+</html>

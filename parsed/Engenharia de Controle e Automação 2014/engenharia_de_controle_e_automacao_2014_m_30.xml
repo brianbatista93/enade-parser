@@ -1,0 +1,56 @@
+<paragraph>
+    Um engenheiro de controle e automação necessita
+    especificar um transdutor de temperatura para
+    um projeto de controle automático de um forno. É
+    requisito de projeto que o controlador lógico
+    programável (CLP) esteja localizado na sala de
+    comando, a qual está a uma distância de 300 metros
+    do forno.
+</paragraph>
+<paragraph>
+    Nesse contexto, considerando-se que o engenheiro
+    escolheu um transdutor com transmissão no padrão
+    4 mA a 20 mA, avalie as seguintes asserções e a
+    relação proposta entre elas.
+</paragraph>
+
+<porque>
+    <first>
+        I. A transmissão de sinal de transdutores
+        distantes do CLP é mais segura no padrão 4
+        mA a 20 mA, que nos padrões 0 V a 5 V ou
+        0 mA a 20 mA.
+    </first>
+    <pq/>
+    <second>
+        II. No padrão 4 mA a 20 mA é possível identificar
+        perda de sinal nos cabos de transmissão, como,
+        por exemplo, em problemas de rompimento
+        de cabo ou desconexão com o CLP.
+    </second>
+</porque>
+<question>
+    A respeito dessas asserções, assinale a opção correta.
+</question>
+
+<answer_options>
+    <item>
+        As asserções I e II são proposições verdadeiras, e
+        a II é uma justificativa correta da I.
+    </item>
+    <item>
+        As asserções I e II são proposições verdadeiras,
+        mas a II não é uma justificativa correta da I.
+    </item>
+    <item>
+        A asserção I é uma proposição verdadeira, e a II é
+        uma proposição falsa.
+    </item>
+    <item>
+        A asserção I é uma proposição falsa, e a II é uma
+        proposição verdadeira.
+    </item>
+    <item>
+        As asserções I e II são proposições falsas.
+    </item>
+</answer_options>

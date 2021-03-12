@@ -1,0 +1,59 @@
+<paragraph>
+    O estudo da cinemática direta de um manipulador
+    robótico tem como objetivo obter equações para o
+    cálculo da posição e da orientação do efetuador do
+    robô em relação à sua base como função das
+    variáveis das juntas. Para determinar as equações
+    da cinemática direta de manipuladores robóticos
+    de cadeia aberta, usualmente são utilizados os
+    parâmetros de Denavit-Hartenberg. O quadro abaixo
+    traz esses parâmetros para um robô comercial
+    específico.
+</paragraph>
+<paragraph>
+    Parâmetros de Denavit-Hartenberg
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_29_0.png" />
+<paragraph>
+    Com base na situação descrita, avalie as asserções a
+    seguir e a relação proposta entre elas.
+</paragraph>
+
+<porque>
+    <first>
+        I. O robô comercial apresentado possui cinco
+        graus de liberdade, sendo classificado como
+        robô do tipo polar.
+    </first>
+    <pq/>
+    <second>
+        II. Das cinco variáveis do robô, as que
+        correspondem às três primeiras juntas
+        são: uma de rotação e duas de translação,
+        respectivamente.
+    </second>
+</porque>
+<question>
+    A respeito dessas asserções, assinale a opção correta.
+</question>
+<answer_options>
+    <item>
+        As asserções I e II são proposições verdadeiras, e
+        a II é uma justificativa correta da I.
+    </item>
+    <item>
+        As asserções I e II são proposições verdadeiras,
+        mas a II não é uma justificativa correta da I.
+    </item>
+    <item>
+        A asserção I é uma proposição verdadeira, e a II é
+        uma proposição falsa.
+    </item>
+    <item>
+        A asserção I é uma proposição falsa, e a II é uma
+        proposição verdadeira.
+    </item>
+    <item>
+        As asserções I e II são proposições falsas.
+    </item>
+</answer_options>

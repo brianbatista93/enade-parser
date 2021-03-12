@@ -1,0 +1,53 @@
+<paragraph>
+    Sensores ultrassônicos são usados na medição de
+    grandezas como distância e nível. Alguns desses
+    sensores emitem um sinal na frequência de 40 kHz
+    que, ao atingir um objeto, retorna e, quando captado,
+    permite calcular a distância do objeto ao sensor.
+</paragraph>
+<paragraph>
+    Nesse contexto, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O cálculo da distância pode ser obtido
+        usando-se equações da mecânica clássica.
+    </item>
+    <item>
+        Para evitar uma interferência entre o sinal
+        enviado e sinais espúrios advindos de fontes
+        eletromagnéticas, deve-se usar um filtro.
+    </item>
+    <item>
+        No caso específico de um sensor ultrassônico,
+        o cálculo da distância baseia-se na variação da
+        velocidade e, dessa forma, no efeito <i>doppler</i>.
+    </item>
+    <item>
+        Para uma leitura adequada do sinal desse sensor
+        em um sistema de aquisição de dados, deve-se
+        utilizar uma taxa de amostragem de no mínimo
+        80 kHz de forma a evitar o efeito <i>aliasing</i>.
+    </item>
+</question_options>
+<question>
+    É correto apenas o que se afirma em
+</question>
+<answer_options>
+    <item>
+        I e IV.
+    </item>
+    <item>
+        II e III.
+    </item>
+    <item>
+        III e IV.
+    </item>
+    <item>
+        I, I e III.
+    </item>
+    <item>
+        I, II e IV.
+    </item>
+</answer_options>

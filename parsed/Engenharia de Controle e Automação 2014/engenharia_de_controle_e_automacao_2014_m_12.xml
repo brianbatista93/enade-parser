@@ -1,0 +1,39 @@
+<paragraph>
+    Um ambiente termicamente confortável é uma das
+    condições que devem ser consideradas em projetos
+    de edificações. Afim de projetar um ambiente interno
+    com temperatura de 20°C para uma temperatura
+    externa média de 35°C, um engenheiro considerou,
+    no dimensionamento, um fluxo de calor através de
+    uma parede externa de 105 W/m2, conforme ilustra a
+    figura abaixo.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_12_0.png" />
+<paragraph>
+    A tabela a seguir apresenta os valores da condutividade
+    térmica para alguns materiais de construção.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_12_1.png" />
+<source>
+    ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15220-1:
+    Desempenho térmico de edificações - Parte 1: Definições,
+    símbolos e unidades. Rio de Janeiro, 2005, p. 8 (adaptado).
+</source>
+
+<answer_options>
+    <item>
+        Concreto.
+    </item>
+    <item>
+        Pedra natural.
+    </item>
+    <item>
+        Placa de madeira prensada.
+    </item>
+    <item>
+        Placa com espuma rígida de poliuretano.
+    </item>
+    <item>
+        Placa de aglomerado de fibras de madeira.
+    </item>
+</answer_options>

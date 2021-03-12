@@ -1,0 +1,72 @@
+<paragraph>
+    Um engenheiro, preocupado com o uso racional de
+    energia, desenvolveu para a sala de sua residência
+    um sistema microcontrolado para ajuste gradativo
+    da iluminação por meio do acionamento de sete
+    diferentes circuitos de iluminação e da abertura ou
+    fechamento de janelas. O sistema contempla:
+</paragraph>
+
+<list>
+    <item>
+        1. sensores analógicos de luminosidade
+        interna e externa com variação linear
+        nominal do sinal de 0 a 5 V;
+    </item>
+    <item>
+        2. sensor digital de chuva, com nível alto
+        quando está chovendo. O tratamento deste
+        sinal deve ter prioridade sobre qualquer
+        outra atividade do programa;
+    </item>
+    <item>
+        3. sistema de comando para abertura e
+        fechamento da janela, realizado com um motor
+        CC de 6 V com consumo de 30 W, acionado por
+        um sinal PWM com frequência de
+        chaveamento de 1 kHz e resolução de 1% na
+        variação da largura dos pulsos;
+    </item>
+    <item>
+        4. comando digital de cada um dos
+        circuitos de iluminação, possibilitando
+        ajuste total da iluminação artificial do
+        ambiente em diferentes níveis.
+    </item>
+</list>
+<paragraph>
+    Para seleção e programação do microcontrolador,
+    avalie afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O microcontrolador deve possuir no mínimo
+        uma entrada com função de interrupção
+        externa.
+    </item>
+    <item>
+        Um circuito externo ao microcontrolador
+        deve ser utilizado para acionar o motor.
+    </item>
+    <item>
+        O sensor de luz utilizado possui variação
+        nominal de 0 a 5 V, porém, na sua calibração
+        no ambiente real, suponha que o engenheiro
+        observou que a variação limita-se a valores
+        entre 2 V e 3 V. Nesse caso, para realizar a
+        aquisição desta informação com 10 níveis de
+        sensibilidade, é necessário que o conversor
+        A/D tenha resolução mínima de 10 bits.
+    </item>
+</question_options>
+<question>
+    É correto o que se afirma em
+</question>
+<answer_options>
+    <item>I, apenas.</item>
+    <item>III, apenas.</item>
+    <item>I e II, apenas.</item>
+    <item>II e III, apenas.</item>
+    <item>I, II e III.</item>
+</answer_options>

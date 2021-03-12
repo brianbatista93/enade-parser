@@ -1,0 +1,32 @@
+<paragraph>
+    Um engenheiro de controle e automação, responsável por gerenciar a instalação de um sistema de controle
+    de um reservatório de água quente de um hospital, deve assessorar a equipe encarregada de sua montagem.
+    A malha de controle do tanque de aquecimento está representada na figura abaixo.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_35_0.png" />
+<source>
+    Disponível em: <link>http://www.dequi.eel.usp.br/</link>. Acesso em: 16 jul. 2014.
+</source>
+<paragraph>
+    Com base na análise do diagrama de instrumentação e controle, escolha a opção em que as variáveis
+    manipuladas (MV) e as variáveis de processo (PV) estão corretamente relacionadas na forma MV / PV para
+    uma mesma malha de controle.
+</paragraph>
+
+<answer_options>
+    <item>
+        Nível da água / Vazão de entrada; Temperatura da água / Tensão na resistência.
+    </item>
+    <item>
+        Nível da água / Vazão de entrada; Tensão na resistência /Temperatura da água.
+    </item>
+    <item>
+        Temperatura da água / Vazão de entrada; Nível da água / Tensão na resistência.
+    </item>
+    <item>
+        Vazão de entrada / Temperatura da água; Tensão na resistência / Nível da água.
+    </item>
+    <item>
+        Vazão de entrada / Nível da água; Tensão na resistência / Temperatura da água.
+    </item>
+</answer_options>

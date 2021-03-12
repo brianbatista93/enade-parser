@@ -1,0 +1,28 @@
+<paragraph>
+    Um projeto de automação de um sistema consiste em botoeiras de liga e desliga locais com requisito de
+    desligamento seguro, de modo que, em caso de desconexão da botoeira de desliga do CLP, o sistema deverá
+    desligar automaticamente e não permitir novo ligamento local até que a botoeira de desliga seja
+    destravada.
+</paragraph>
+<paragraph>
+    Considerando que BL é a botoeira de liga, BD é a botoeira de desliga e K1 é a carga a ser acionada, o circuito
+    que implementa a lógica de liga/desliga com selo e com o desligamento seguro requisitado é
+</paragraph>
+
+<answer_options>
+    <item>
+        <image src="images/engenharia_de_controle_e_automacao_2014_m_34_0.png" />
+    </item>
+    <item>
+        <image src="images/engenharia_de_controle_e_automacao_2014_m_34_1.png" />
+    </item>
+    <item>
+        <image src="images/engenharia_de_controle_e_automacao_2014_m_34_2.png" />
+    </item>
+    <item>
+        <image src="images/engenharia_de_controle_e_automacao_2014_m_34_3.png" />
+    </item>
+    <item>
+        <image src="images/engenharia_de_controle_e_automacao_2014_m_34_4.png" />
+    </item>
+</answer_options>

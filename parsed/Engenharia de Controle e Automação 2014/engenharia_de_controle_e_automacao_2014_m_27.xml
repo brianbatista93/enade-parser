@@ -1,0 +1,54 @@
+<paragraph>
+    Um processo que envolve uma antena pode ser representado pelo sistema de 3. ordem apresentado na figura I.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_27_0.png" />
+<caption>
+    Figura I
+</caption>
+<paragraph>
+    A figura II apresenta o lugar das raízes desse sistema, em malha aberta, quando se varia o ganho K.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_27_1.png" />
+<caption>
+    Figura II
+</caption>
+<paragraph>
+    Considerando que o ganho K é positivo e pode variar de 0 a infinito, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        Um sistema com 10 < K < 20 é estável.
+    </item>
+    <item>
+        Para K = 60, o sistema é criticamente amortecido.
+    </item>
+    <item>
+        Existe um valor de K que torna o sistema marginalmente estável.
+    </item>
+    <item>
+        O sistema com K = 30 apresenta resposta temporal, para uma entrada em degrau unitário, com
+        oscilações constantes e de mesma amplitude.
+    </item>
+</question_options>
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I e II.
+    </item>
+    <item>
+        I e III.
+    </item>
+    <item>
+        II e IV.
+    </item>
+    <item>
+        I, III e /V.
+    </item>
+    <item>
+        II, III e IV.
+    </item>
+</answer_options>

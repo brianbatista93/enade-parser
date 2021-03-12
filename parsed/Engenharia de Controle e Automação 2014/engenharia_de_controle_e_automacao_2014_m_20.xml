@@ -1,0 +1,47 @@
+<paragraph>
+    Considere o sistema de controle de um processo industrial descrito pelo diagrama de blocos apresentado na
+    figura abaixo:
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_20_0.png" />
+<paragraph>
+    No diagrama, X(s), Y(s), E(s), U(s), P(s) e R(s) representam, respectivamente, os sinais de referência, saída,
+    erro, ação de controle, perturbação na entrada da planta e ruído de medição. G(s) é a função de transferência
+    da planta a ser controlada. Os demais blocos constituem o controlador, que é descrito pelas seguintes funções
+    de transferência:
+</paragraph>
+
+<centered_text>
+    <text>
+        1. <formula id="2a613116-9223-49c9-82e2-2b94ce4921ab">H_1(s) = \frac{1}{\tau_1 s}</formula>
+        2. <formula id="55352af8-b432-4ee3-a75d-f41f6f46b940">H_2 (2) = \frac{\tau_2 s}{1+\alpha \tau_2 s}</formula>
+        3. <formula id="ad85e503-ce2f-4e77-baed-690d52255a21">H_3 (s) = K</formula>
+    </text>
+</centered_text><paragraph>
+    em que τ1, τ2, α e Ksão as constantes não nulas sintonizadas pelo projetista do sistema de controle. Considere
+    que, nos testes, durante o comissionamento do sistema, verificou-se que a aplicação de um sinal de
+    referência x(t) do tipo degrau resulta em uma ação de controle u(t) com um elevado pulso imediatamente
+    após a aplicação do degrau. Esse pulso é inadequado para o processo, pois causa fadiga precoce do atuador.
+</paragraph>
+<question>
+    Para contornar esse problema, é necessário
+</question>
+
+<answer_options>
+    <item>
+        alterar a estrutura do controlador, fazendo com que a ação proporcional atue somente sobre o percurso
+        de retroação.
+    </item>
+    <item>
+        alterar a estrutura do controlador, fazendo com que a ação derivativa atue somente sobre o percurso
+        de retroação.
+    </item>
+    <item>
+        inserir um filtro para atenuar o efeito da perturbação, após a alteração abrupta do valor de referência.
+    </item>
+    <item>
+        inserir um filtro para atenuar o efeito do ruído, após a alteração abrupta do valor de referência.
+    </item>
+    <item>
+        alterar a estrutura do controlador atual para um PID tradicional.
+    </item>
+</answer_options>

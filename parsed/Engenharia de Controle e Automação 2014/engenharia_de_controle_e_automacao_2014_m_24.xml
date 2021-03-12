@@ -1,0 +1,53 @@
+<paragraph>
+    As redes de comunicação são essenciais para o processo de automação industrial. Existem diversos tipos de
+    rede, as quais se diferenciam em alguns aspectos, como topologia de conexão, tipos de dispositivos aos quais se
+    conectam e velocidade de transmissão, entre outros. São exemplos de redes industriais: AS/, HART, DeviceNet,
+    Profibus, Ethernet. Não existe uma rede certa ou errada, mas, sim, uma rede mais apropriada para determinada
+    aplicação. De acordo com o tipo de dispositivo que as redes conectam, elas são classificadas em <i>Sensorbus,
+    DeviceBus, FieldBus e Databus</i>. A figura abaixo apresenta um esquema da faixa de aplicação das redes.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_24_0.png" />
+<caption>
+    Tipo de Mensagem
+</caption>
+<paragraph>
+    Em relação à classificação das redes de comunicação para automação, avalie afirmações a seguir.
+</paragraph>
+<question_options>
+    <item>
+        As redes <i>Sensorbus</i> são de baixo custo, utilizadas para a comunicação de sensores e atuadores
+        discretos, contemplando distâncias pequenas.
+    </item>
+    <item>
+        As redes <i>Devicebus</i> conectam dispositivos como CLPs, controladores, sistemas de medição inteligentes,
+        drivers e outros dispositivos que se comunicam por dados em formato de <i>bytes</i>.
+    </item>
+    <item>
+        As redes <i>Fieldbus</i> conectam dispositivos microprocessados e podem transmitir vários tipos de dados:
+        discretos, analógicos, parâmetros, programas e informações de usuários.
+    </item>
+    <item>
+        As redes <i>Fieldbus</i> são mais apropriadas para aplicações de controle de processos distribuídos porque
+        possuem alta taxa de transmissão de dados.
+    </item>
+</question_options>
+<question>
+    É correto apenas o que se afirma em
+</question>
+<answer_options>
+    <item>
+        II.
+    </item>
+    <item>
+        I e IV.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+    <item>
+        I, III e IV.
+    </item>
+    <item>
+        II, III e IV.
+    </item>
+</answer_options>

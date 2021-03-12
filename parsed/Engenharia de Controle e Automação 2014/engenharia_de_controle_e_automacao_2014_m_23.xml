@@ -1,0 +1,27 @@
+<paragraph>
+    Na modelagem um sistema linear invariante no tempo estável, foi levantada a sua resposta em frequência,
+    obtendo-se os seguintes diagramas de Bode:
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_23_0.png" />
+<image src="images/engenharia_de_controle_e_automacao_2014_m_23_1.png" />
+<question>
+    A função de transferência que melhor representa o sistema é
+</question>
+
+<answer_options>
+    <item>
+        <formula id="198d8ef5-1d76-4db7-97b1-64a7d75790a3">G(s) = \frac{s-0,1}{(s+10)(s+100)}</formula>
+    </item>
+    <item>
+        <formula id="d90b8974-67b7-4402-bf49-6da7fd88a3b0">G(s) = \frac{s-1}{(s+0,1)(s+100)}</formula>
+    </item>
+    <item>
+        <formula id="81c6eaf3-fabb-4e89-88bc-54dfa9d3f3ea">G(s) = \frac{s+0,1}{(s+10)(s+100)}</formula>
+    </item>
+    <item>
+        <formula id="6f0bd512-2e60-47c0-9b2c-eb0a3b3c04c2">G(s) = \frac{s+1}{(s-0,1)(s+100)}</formula>
+    </item>
+    <item>
+        <formula id="daeaa16c-7266-4dfc-a2d0-3a46f495186c">G(s) = \frac{s+1}{(s+0,1)(s+100)}</formula>
+    </item>
+</answer_options>

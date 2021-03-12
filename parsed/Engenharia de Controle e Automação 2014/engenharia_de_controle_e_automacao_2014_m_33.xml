@@ -1,0 +1,46 @@
+<paragraph>
+    Um veículo aéreo não tripulado (VANT), também chamado UAV (do inglês Unmaned Aerial Vehicle), é todo e qualquer tipo de aeronave que não necessita de pilotos embarcados para ser guiada. Esses veículos são controlados por meios eletrônicos e computacio nais, sob a supervisão humana remota ou sem a sua intervenção.
+</paragraph>
+<source>
+    Disponível em:<link>http://pt.wikipedia.org/</link>.Acesso em: 13 ago. 2014(adaptado).
+</source>
+<paragraph>
+    A respeito da navegação autônoma dos VANTs, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        GPS tem como funcionalidade básica
+        determinar coordenadas geográficas.
+    </item>
+    <item>
+        O acelerômetro tem como funcionalidade
+        básica determinar variação na orientação.
+    </item>
+    <item>
+        O giroscópio tem como funcionalidade básica
+        determinar variação no posicionamento.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I, apenas.
+    </item>
+    <item>
+        III, apenas.
+    </item>
+    <item>
+        I e II, apenas.
+    </item>
+    <item>
+        II e III, apenas.
+    </item>
+    <item>
+        I, II, III.
+    </item>
+</answer_options>

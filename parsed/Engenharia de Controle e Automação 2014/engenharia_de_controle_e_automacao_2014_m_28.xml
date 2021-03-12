@@ -1,0 +1,62 @@
+<paragraph>
+    A figura abaixo contém a representação esquemática de uma aplicação para o controle de temperatura de
+    um forno utilizando um controlador lógico programável (CLP). O sensor de temperatura em conjunto com o
+    transdutor fornece um sinal analógico 0-10 V / 20-150°C enviado ao CLP, o qual por sua vez, envia um sinal
+    de 0-20 mA para a válvula, permitindo a variação de sua abertura e a dosagem gradativa da quantidade de
+    combustível enviado ao forno. Assim, pode-se modificar a temperatura do forno conforme a necessidade.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_28_0.png" />
+<caption>
+    Figura 1
+</caption>
+<source>
+    PRUDENTE. <b>Automação industrial</b>: PLC, teoria e aplicações (curso básico). Rio de Janeiro: LTC, 2010 (adaptado).
+</source>
+<paragraph>
+    Em relação ao sistema de automação apresentado, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O uso da unidade A/D de 8 bits no CLP permite aquisição de temperatura com uma resolução de,
+        aproximadamente, 0,508 °C.
+    </item>
+    <item>
+        A unidade D/A no CLP pode ser substituída por um módulo de saída digital a relé especificado para um
+        valor de saída de corrente de até 10 A, valor maior que o sinal de saída enviado para a válvula.
+    </item>
+    <item>
+        Para comunicação entre o CLP e um sistema SCADA (<i>supervisory control and data acquisition</i>), podem
+        ser usadas, entre outras, rede industrial PROF/BUS ou comunicação serial com protocolo MODBUS,
+        sendo a primeira mais onerosa que a segunda.
+    </item>
+    <item>
+        O sistema supervisório pode ser programado diretamente no CLP, sem a necessidade de dispositivos
+        adicionais, reduzindo o custo de implementação do sistema como um todo.
+    </item>
+    <item>
+        A realização dessa automação requer um CLP de grande porte, devido ao sistema operar em malha
+        fechada, o que implica o uso de blocos específicos de programação.
+    </item>
+</question_options>
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I e II.
+    </item>
+    <item>
+        I e III.
+    </item>
+    <item>
+        II e IV.
+    </item>
+    <item>
+        III e V.
+    </item>
+    <item>
+        IV e V.
+    </item>
+</answer_options>

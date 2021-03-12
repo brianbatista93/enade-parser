@@ -1,0 +1,31 @@
+<paragraph>
+    Considere um chuveiro elétrico no qual a temperatura da água pode ser selecionada pelo usuário entre a
+    temperatura ambiente e 50 ²C. A resistência do chuveiro dissipa energia elétrica em forma de calor para
+    aquecer a água, e é alimentada por um conversor CA/CC, de modo que a tensão pode ser alterada, variando,
+    assim, a potência.
+</paragraph>
+<paragraph>
+    Para levantar a característica dinâmica do sistema, um engenheiro aplicou um degrau de 0 V a 40 V no
+    instante 10 segundos, com vazão de água constante, obtendo a resposta de temperatura mostrada na
+    figura a seguir. Pode-se observar que, inicialmente, a água está em temperatura ambiente.
+</paragraph>
+<image src="images/engenharia_de_controle_e_automacao_2014_m_9_0.png" />
+<centered_text>
+    Resposta ao degrau do sistema em malha aberta não controlado.
+</centered_text><paragraph>
+    Posteriormente, o engenheiro decidiu implementar um controle de temperatura em malha fechada
+    utilizando um compensador proporcional-integral: <formula id="d2bbcaee-9f99-40ca-9b41-7fdabde75412">G_c(s) = K_p + K_i/s</formula>.
+</paragraph>
+<question>
+    Com base nos dados apresentados, e considerando que o sistema é linear e de primeira ordem, faça o
+    que se pede nos itens a seguir.
+    <list>
+        <item>
+            a) Obtenha a função de transferência de malha aberta (sem o controlador) que relaciona a tensão
+            de entrada com a temperatura de saída.
+        </item>
+        <item>
+            b) Qual é o efeito da ação integradora do compensador no sistema em malha fechada?
+        </item>
+    </list>
+</question>
