@@ -1,0 +1,50 @@
+<paragraph>
+    O código a seguir mostra um programa escrito na linguagem de programação Java.
+</paragraph>
+<text>
+    public class Java (
+        private static void trocaB(String a, String b ) {
+            String tmp = a;
+            a = b;
+            b = tmp;
+        }
+
+        private static void trocaC(int array[], String a) {
+            for (int x = 0; x < array.length; x++) {
+                array [x] = array[x] * Integer.valueOf(a);
+            }
+        }
+
+        public static void main(Stringl[] args) {
+            int array[] = {1, 2, 3, 4, 5};
+            String a = “2”, b = “5”;
+            trocaB(a, b);
+            trocaCl (array, a);
+            System.out.print(a + " " + b +=
+            for (int x = 0; x < array.length; x++) {
+                System.out.print(array[x] + " "),
+            }
+        }
+    )
+</text>
+<question>
+    Após ser executado o código, o valor impresso na saída padrão do usuário será
+</question>
+
+<answer_options>
+    <item>
+        5 2 5 10 15 20 25.
+    </item>
+    <item>
+        2 5 2 4 6 8 10.
+    </item>
+    <item>
+        5 2 2 4 6 8 10.
+    </item>
+    <item>
+        5 2 1 2 3 4 5.
+    </item>
+    <item>
+        2 5 1 2 3 4 5.
+    </item>
+</answer_options>

@@ -1,0 +1,39 @@
+<paragraph>
+    Expressões regulares constituem formas sucintas
+    de descrever linguagens regulares. Uma de suas
+    aplicações é descrever padrões a serem procurados
+    em um texto. As expressões regulares R1, R2, R3 e
+    R4 a seguir utilizam a seguinte convenção: o fecho de
+    Kleene é denotado por * e a união é denotada pelo
+    símbolo |.
+</paragraph>
+
+<list>
+    <item>R1=a*ba*ba*ba*</item>
+    <item>R2=a*(a|b)a(a|b)*</item>
+    <item>R3=a*ab*a(a|b)</item>
+    <item>R4=(a|b)*</item>
+</list>
+<question>
+    Em relação às linguagens definidas pelas expressões
+    regulares apresentadas, conclui-se que a cadeia <b>abbb</b>
+    está contida apenas nas linguagens definidas por
+</question>
+
+<answer_options>
+    <item>
+        R1 e R4.
+    </item>
+    <item>
+        R2 e R3.
+    </item>
+    <item>
+        R2 e R4.
+    </item>
+    <item>
+        R1 e R3.
+    </item>
+    <item>
+        R2, R3 e R4.
+    </item>
+</answer_options>

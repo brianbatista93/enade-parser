@@ -1,0 +1,80 @@
+<paragraph>
+    Suponha que um banco de investimentos possua um sistema que controla, para cada cliente, os tipos de
+    investimentos que eles mesmos realizam ao longo do tempo. Cada cliente pode ter apenas uma aplicação de
+    cada tipo de investimento oferecido pelo banco.
+</paragraph>
+<paragraph>
+    Considere as tabelas Cliente, Tipolnvestimento e Investimento pertencentes a um modelo relacional do
+    sistema citado (as chaves primárias estão sublinhadas).
+</paragraph>
+<text>
+    Cliente (codCliente, nomeCliente, enderCliente, cidadeCliente, anoIngressoCliente)
+    TipolInvestimento (codInvestimento, descricaoInvestimento, taxaRemuneracao)
+    Investimento (codCliente, codInvestimento, valor, dataDeposito)
+</text>
+<paragraph>
+    A partir do modelo relacional apresentado, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        O comando SQL que lista todos os pares de clientes que residem na mesma cidade é:
+        <text>
+        select cl.NomeCliente, c2.NomeCliente
+        from Cliente cl, Cliente c2
+        where cl.CidadeCliente = c2.CidadeCliente
+        and ci.CodCliente &lt; c2.CodCliente;
+        </text>
+    </item>
+    <item>
+        O comando SQL que retorna, para cada cidade, os clientes mais antigos é:
+        <text>
+        select codCliente, nomeCliente, cidadeCliente, anolIngressoCliente
+        from Cliente
+        where anolIngressoCliente in (select min (anolIngressoCliente)
+        from Cliente
+        group by cidadeCliente);
+        </text>
+    </item>
+    <item>
+        O comando SQL que retorna, para cada cidade (de um cliente), o ano de ingresso mais antigo, porém
+        apenas para as cidades com mais de um cliente, é:
+        <text>
+        select cidadeCliente, min (AnoIngressoCliente)
+        from Cliente
+        group by cidadeCliente
+        having count(*) &rt; 1;
+        </text>
+    </item>
+    <item>
+        O comando SQL que retorna o maior valor de cada investimento de cada cliente é:
+        <text>
+        select codCliente, max (valor)
+        from Cliente c, Investimento 1
+        where c.codCliente = i.codCliente
+        group by codCliente, codinvestimento
+        </text>
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        I.
+    </item>
+    <item>
+        II.
+    </item>
+    <item>
+        I e III.
+    </item>
+    <item>
+        II e IV.
+    </item>
+    <item>
+        III e IV.
+    </item>
+</answer_options>

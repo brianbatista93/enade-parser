@@ -1,0 +1,40 @@
+<paragraph>
+    A DBO (Demanda Bioquímica de Oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+    para oxidar a matéria orgânica por decomposição aeróbia. Quando a amostra é guardada por 5 dias em uma
+    temperatura de incubação de 20°C, ela é referida como <formula id="942ed8c7-e387-4aa9-864f-68ce1f78ffe8">DBO_{5,20}</formula>, que é normalmente utilizada como um dos
+    parâmetros para verificação da qualidade da água.
+    O seguinte quadro classifica um curso d'água em função da sua <formula id="942ed8c7-e387-4aa9-864f-68ce1f78ffe8">DBO_{5,20}</formula>
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_11_0.png" />
+<paragraph>
+    A imagem abaixo mostra um trecho de um rio com 5 seções (X, Y, Z, W e T), em que são coletadas amostras
+    de água para a determinação de <formula id="942ed8c7-e387-4aa9-864f-68ce1f78ffe8">DBO_{5,20}</formula> em laboratório.
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_11_1.png" />
+<paragraph>
+    O quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+</paragraph>
+
+<table>
+    <image src="images/engenharia_de_computacao_2014_m_11_2.png" />
+</table>
+<question>
+    Considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada, no mínimo, como "razoável"?
+</question>
+<answer_options>
+    <item>
+        X.
+    </item>
+    <item>
+        Y.
+    </item>
+    <item>
+        Z.
+    </item>
+    <item>
+        W.
+    </item>
+    <item>
+        T.
+    </item>
+</answer_options>

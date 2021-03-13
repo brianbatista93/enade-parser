@@ -1,0 +1,49 @@
+<paragraph>
+    O protótipo de tela apresentado a seguir foi desenvolvido para atender um requisito de cadastro de
+    classificados de jornal, via <i>smartphone</i>.
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_27_0.png" />
+<paragraph>
+    Com base nesse protótipo de tela, infere-se que o modelo lógico correto para um banco de dados relacional
+    que irá armazenar os dados cadastrados por esse sistema é representado por
+</paragraph>
+<answer_options>
+    <item>
+        <text>
+            Classificado (cod, nome, email, telefone, anuncio, categoria, preco)
+        </text>
+    </item>
+    <item>
+        <text>
+        Cliente (codCcli, nome, email, telefone)
+        Anuncio (codAnu, texto, codCategoria)
+        codCategoria referencia Categoria
+        Categoria (codCategoria, nome)
+        </text>
+    </item>
+    <item>
+        <text>
+        Cliente (codCli, nome, email, telefone)
+        Anuncio (codAnu, texto, codCategoria, aceiteTermos)
+        codCategoria referencia Categoria
+        Categoria (codCategoria, nome)
+        </text>
+    </item>
+    <item>
+        <text>
+        Cliente (codCcli, nome, email, telefone)
+        Anuncio (codAnu, texto, codCliente, aceiteTermos)
+        codCliente referencia Cliente
+        Categoria (codCategoria, nome)
+        </text>
+    </item>
+    <item>
+        <text>
+        Cliente (codCcli, nome, email, telefone)
+        Anuncio (codAnu, texto, codCategoria, codCli, aceiteTermos)
+        codCategoria referencia Categoria
+        codCli referencia Cliente
+        Categoria (codCategoria, nome)
+        </text>
+    </item>
+</answer_options>

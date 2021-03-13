@@ -1,0 +1,46 @@
+<paragraph>
+    Um componente bastante usado em circuitos lógicos
+    é a matriz lógica programável (ou PLA, do inglês
+    <i>Programmable Logic Array</i>). Uma PLA usa como
+    entrada um conjunto de sinais e os complementos
+    desses sinais (que podem ser implementados por um
+    conjunto de inversores). A lógica é implementada a
+    partir de dois estágios: o primeiro é uma matriz de
+    portas AND, que formam o conjunto de termosproduto
+    (também chamados <i>mintermos</i>); o segundo
+    estágio é uma matriz de portas OR, cada uma
+    efetuando uma soma lógica de qualquer quantidade
+    dos mintermos. Cada um dos mintermos pode ser o
+    resultado do produto lógico de qualquer dos sinais
+    de entrada ou de seus complementos.
+</paragraph>
+<paragraph>
+    É comum, em lugar de desenhar todas as portas
+    lógicas de cada um dos estágios, representar apenas
+    a posição das portas lógicas em uma matriz, conforme
+    ilustra a figura a seguir.
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_23_0.png" />
+<question>
+    A partir da figura apresentada, infere-se que as
+    entradas JKL = 000 e JKL = 101 levam a saídas MNO
+    iguais, respectivamente, a
+</question>
+
+<answer_options>
+    <item>
+        000 e 000.
+    </item>
+    <item>
+        000 e 010.
+    </item>
+    <item>
+        100 e 101.
+    </item>
+    <item>
+        101 e 000.
+    </item>
+    <item>
+        101 e 010.
+    </item>
+</answer_options>

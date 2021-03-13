@@ -1,0 +1,27 @@
+<paragraph>
+    Suponha que, para armazenar exatamente 999 999
+    chaves de um índice, um engenheiro de computação
+    tenha escolhido a estrutura de uma árvore B, de
+    grau mínimo 5, com todos os nós completos.
+</paragraph>
+<question>
+    Nessa
+    situação, a profundidade dessa árvore é igual a
+</question>
+<answer_options>
+    <item>
+        4.
+    </item>
+    <item>
+        5.
+    </item>
+    <item>
+        6.
+    </item>
+    <item>
+        7.
+    </item>
+    <item>
+        8.
+    </item>
+</answer_options>

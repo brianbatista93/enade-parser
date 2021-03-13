@@ -1,0 +1,66 @@
+<paragraph>
+    Uma arquitetura clássica de 32 bits de espaço de
+    endereçamento de memória permite até 4 GB de
+    memória principal. Para um bom gerenciamento
+    dessa memória, algumas técnicas podem ser
+    utilizadas: paginação, segmentação e <i>swapping</i>.
+</paragraph>
+<paragraph>
+    Em relação a essas técnicas de gerenciamento de
+    memória, avalie as afirmações a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        Utilizando páginas de 4 KB de tamanho,
+        o endereço virtual de memória utiliza os
+        220 bits mais significativos para o número
+        da página virtual e os demais 212 bits para
+        o deslocamento interno da página.
+    </item>
+    <item>
+        O acesso à memória física, utilizando
+        segmentação, é feito por meio de uma
+        estrutura de <i>hardware</i> específica do
+        processador.
+    </item>
+    <item>
+        Utilizando a paginação ou a segmentação,
+        a memória física não sofrerá fragmentação
+        interna ou externa.
+    </item>
+    <item>
+        É possível utilizar a técnica de <i>swapping</i>
+        para qualquer tamanho de página, mas não
+        a segmentação, pois esta tem espaço de
+        endereçamento variável.
+    </item>
+    <item>
+        O algoritmo de substituição de página,
+        denominado LFU, utiliza o princípio de
+        localidade temporal, enquanto o algoritmo
+        LRU utiliza o princípio de localidade espacial.
+    </item>
+</question_options>
+
+<question>
+    É correto apenas o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        III.
+    </item>
+    <item>
+        I e II.
+    </item>
+    <item>
+        I e V.
+    </item>
+    <item>
+        IV e V.
+    </item>
+    <item>
+        II, III e IV.
+    </item>
+</answer_options>

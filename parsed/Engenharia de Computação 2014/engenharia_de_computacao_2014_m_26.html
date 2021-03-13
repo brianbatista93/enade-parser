@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../quiz.css">
+        
+    </head>
+    <body>
+        <p class="paragraph">
+            Após o treinamento, uma rede neural perceptron com 2 sinais de entrada e um neurônio de saída será capaz
+            de classificar quatro indivíduos (<img id="355c711a-bd28-49be-ade9-c09a0d4053ab" class="formula" src="http://latex.codecogs.com/gif.latex?I_1, I_2, I_3, I_4" alt="I_1, I_2, I_3, I_4" />) em duas classes, conforme o quadro a seguir.
+        </p>
+        <div class="table">
+            <img src="images/engenharia_de_computacao_2014_m_26_0.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        </div>
+        <p class="paragraph">
+            O primeiro passo é codificar as informações em base binária. Os sinais devem ser representados da seguinte forma:
+        </p>
+        <div class="table">
+            <img src="images/engenharia_de_computacao_2014_m_26_1.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        </div>
+        <p class="paragraph">
+            Considerando aprendizado supervisionado (com uso do algoritmo de correção de erros), verifique se cada
+            indivíduo é professor (0) ou dentista (1). Considere uma taxa de aprendizagem igual a 1, pesos iniciais iguais
+            a zero para cada entrada e a seguinte função de ativação: <b>Se x &gt; 0, então f(x) = 1, caso contrário f(x) = 0</b>.
+        </p>
+        <p class="paragraph">
+            O quadro a seguir apresenta a entrada dos dados, a saída calculada pela RNA e a saída esperada.
+        </p>
+        <div class="table">
+            <img src="images/engenharia_de_computacao_2014_m_26_2.png" class="image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
+        </div>
+        <p class="question" style="font-size: 24">
+            Com base nas informações apresentadas, conclui-se que a atualização dos pesos a cada nova entrada, no
+            treinamento dessa rede neural, é igual a
+        </p>
+        
+        <ol class="answer-options" type="A">
+            <li class="item">
+                [2,1], [1,0], [1,0], [1,0], [1,0], [1,0].
+            </li>
+            <li class="item">
+                [2,1], [1,0], [0,0], [0,0], [1,0], [1,0].
+            </li>
+            <li class="item">
+                [2,0], [1,1], [1,1], [1,1], [0,0], [1,0].
+            </li>
+            <li class="item">
+                [1,1], [1,0], [1,0], [0,0], [0,0], [1,0].
+            </li>
+            <li class="item">
+                [1,1], [1,0], [1,0], [0,0], [0,0], [0,0].
+            </li>
+        </ol>
+    </body>
+</html>

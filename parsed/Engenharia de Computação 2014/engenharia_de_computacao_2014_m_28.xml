@@ -1,0 +1,40 @@
+<paragraph>
+    As vibrações em um ônibus em movimento serão analisadas através da medida da aceleração durante
+    períodos de tempo, por meio do sistema de aquisição formado por quatro módulos: um sensor de aceleração,
+    um amplificador, um <i>Sample &amp; Hold</i> e um conversor A/D, conforme esquema a seguir.
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_28_0.png" />
+<paragraph>
+    O sensor é um acelerômetro que converte linearmente leituras entre -1,0 m/s²e +1,0 m/s² em sinal de tensão
+    V, entre -800 mV e +800 mvV. Esse sinal passa por um amplificador operacional com ganho de tensão dado por
+    <formula id="fcdc453f-9a40-4dba-b595-b57564869a60">Av=1+R_f/R_g</formula>, em que <formula id="bf7d8727-af1f-400a-aa4c-15578b54b816">R_f,=R_g =10 k\Omega</formula>. Uma vez amplificado, o sinal V. é submetido a um <i>Sample &amp; Hold</i>, cuja
+    chave de amostragem pode ser controlada por <i>software</i> através de seu ponto de controle “c”. O conversor
+    A/D converte linearmente valores entre -2,00 V e + 2,00 V para valores binários que podem, então, ser lidos
+    por <i>software</i>. Com esse sistema de aquisição, serão feitas coletas de dados de 1000 aquisições a uma taxa de
+    500 aquisições por segundo, ou seja, cada coleta dura dois segundos.
+</paragraph>
+<question>
+    análise desse sistema de aquisição de dados revela que
+</question>
+
+<answer_options>
+    <item>
+        o amplificador tem ganho unitário e alta impedância de entrada, isolando o sensor do resto do circuito.
+    </item>
+    <item>
+        o conversor A/D deverá ser de 12 ou mais <i>bits</i>, para que as leituras obtidas tenham uma resolução de
+        0,001 m/s”.
+    </item>
+    <item>
+        o <i>software</i> que fará o processamento da aquisição necessitará trocar o sinal da leitura feita, já que a
+        montagem do amplificador é inversora.
+    </item>
+    <item>
+        a faixa de passagem do amplificador deve ficar pelo menos entre O e 250 Hz, correspondentes à taxa de
+        Nyquist, já que ocorrerão 500 aquisições por segundo.
+    </item>
+    <item>
+        o <i>Sample &amp; Hold</i> vai ser ligado no início da coleta de dados e desligado ao seu final, com a chave mantida
+        fechada durante todos os 2 segundos de cada coleta.
+    </item>
+</answer_options>

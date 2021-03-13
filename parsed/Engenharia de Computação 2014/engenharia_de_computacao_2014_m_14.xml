@@ -1,0 +1,78 @@
+<paragraph>
+    O transporte de um fluido entre dois pontos no interior
+    de um tubo ocorre simultaneamente, com perda de
+    energia, devido ao atrito do fluido com a parede e ao
+    escoamento turbulento. Portanto, quanto maior for
+    a rugosidade da parede da tubulação ou mais viscoso
+    for o fluido, maior será a perda de energia. A forma
+    de determinação do fator de atrito foi estabelecida
+    em 1939, por intermédio da equação de Colebrook-
+    White, apresentada a seguir.
+</paragraph>
+
+<centered_text>
+    <formula id="c4282d3e-7127-4574-bc0d-29109a241eac">\frac{1}{\sqrt{f}} = -2log_{10} (\frac{k}{3, 7D} + \frac{2, 51}{R_e \sqrt{f}})</formula>
+</centered_text>
+
+<paragraph>
+    em que
+</paragraph>
+
+<text>
+    <i>f</i> é o fator de atrito de Darcy-Weisbach(adimensional);
+    <i>k</i> é a rugosidade equivalente da parede do tubo (m);
+    <i>D</i> é o diâmetro interno do tubo (m);
+    <formula id="142d7e19-d968-46e3-b39c-74e3f2956aa6">R_e</formula> é o número de Reynolds (adimensional).
+</text>
+<paragraph>
+    A resolução dessa equação requer um processo
+    iterativo, pois a função é implícita em relação ao fator
+    de atrito (presente nos dois membros da equação).
+    Em 1939, a resolução de equações por procedimentos
+    iterativos demandava excesso de tempo, mas,
+    com o desenvolvimento dos conhecimentos de
+    computação, esse problema foi solucionado.
+</paragraph>
+<paragraph>
+    As etapas de um algoritmo que soluciona a equação,
+    sem ordenação lógica, assim como seu fluxograma
+    são apresentados a seguir.
+</paragraph>
+
+<text>
+    A) <formula id="1be2cda8-79f3-412a-ab33-eee8357eeb6f">D=1</formula>
+    B) <formula id="f9a914f8-9c7c-48cf-8b29-669418f6d2b4">f_0= 0,03</formula>
+    C) Início
+    D) Cálculo de <formula id="95c3137f-c7aa-4e41-98b7-489391fa5870">f_1</formula> através da equação de ColebrookWhite
+    E) <formula id="b14f9e3c-adbc-4032-a3c8-811e924cdb4c">|f_0-f_1| &lt;0,00001</formula>
+    F) Término
+    G) <formula id="ebcb648a-6efa-47a4-9ff1-c5aecba5b818">Re= 10000</formula>
+    H) <formula id="e6868888-d59f-45af-8fc6-62bb2be1a35e">k=0,0001</formula>
+    1) <formula id="1ce39f83-c615-4f2b-a285-ddcb0aea4060">f_0= f_1</formula>
+    J) Visualização do resultado
+</text>
+
+<image src="images/engenharia_de_computacao_2014_m_14_0.png" />
+<question>
+    Com base nessas informações, verifica-se que a
+    solução da equação é obtida pela seguinte associação
+    das etapas do algoritmo com o fluxograma
+</question>
+
+<answer_options>
+    <item>
+        <table><image src="images/engenharia_de_computacao_2014_m_14_1.png" /></table>
+    </item>
+    <item>
+        <table><image src="images/engenharia_de_computacao_2014_m_14_2.png" /></table>
+    </item>
+    <item>
+        <table><image src="images/engenharia_de_computacao_2014_m_14_3.png" /></table>
+    </item>
+    <item>
+        <table><image src="images/engenharia_de_computacao_2014_m_14_4.png" /></table>
+    </item>
+    <item>
+        <table><image src="images/engenharia_de_computacao_2014_m_14_5.png" /></table>
+    </item>
+</answer_options>

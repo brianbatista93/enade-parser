@@ -1,0 +1,27 @@
+<paragraph>
+    Observe o programa classificador ("sort"), em
+    pseudocódigo, apresentado abaixo.
+</paragraph>
+<image src="images/engenharia_de_computacao_2014_m_15_0.png" />
+<question>
+    Esse programa classifica, em ordem
+</question>
+<answer_options>
+    <item>
+        decrescente, notas de alunos e nomes de alunos
+        de mesma nota.
+    </item>
+    <item>
+        alfabética crescente, nomes e notas de alunos de
+        mesmo nome.
+    </item>
+    <item>
+        decrescente, notas de alunos.
+    </item>
+    <item>
+        alfabética crescente, nomes de alunos.
+    </item>
+    <item>
+        crescente, notas de alunos.
+    </item>
+</answer_options>

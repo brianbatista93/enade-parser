@@ -1,0 +1,67 @@
+<paragraph>
+    Os filtros digitais são parte importante do
+    processamento digital de sinais, dada a versatilidade
+    em sua implementação, que é feita por <i>software</i>.
+    Esses filtros são classificados em resposta infinita
+    ao impulso (IIR, ou recursivos) e resposta finita ao
+    impulso (FIR, ou não recursivos), tendo cada classe
+    vantagens e desvantagens bem definidas. Um
+    exemplo de algoritmo em Portugol para um filtro
+    digital é apresentado a seguir.
+</paragraph>
+<text>
+<b>algoritmo</b>
+    <b>defina</b> <formula id="f50a68cc-848d-4d11-948c-d5f65260bab7">u,x_1,x_2,y</formula> <b>numérico</b>
+    <formula id="c8e5f9b3-4d62-4d20-a3ec-d98123891920">x_1 \leftarrow 0;</formula>
+    <formula id="07226d02-2ee0-487d-bcb1-ea2f9290b545">x_2 \leftarrow 0;</formula>
+    <b>repita</b>
+        <b>leia</b> u;
+        <formula id="52dc712f-5156-4a5d-abf2-28905db74bbb">y \leftarrow 2 * x_1 - x_2;</formula>
+        <formula id="1bd2594c-0763-4ac3-b922-028e89b5b25b">x_2 \leftarrow x_1;</formula>
+        <formula id="d6272fef-9de8-4b59-a1d7-a05fb4a85350">x_1 \leftarrow u;</formula>
+        <b>escreva</b> y'
+    <b>fim-repita</b>
+<b>fim-algoritmo</b>
+</text>
+<paragraph>
+    A partir do algoritmo apresentado, avalie as asserções
+    a seguir e a relação proposta entre elas.
+</paragraph>
+
+<porque>
+    <first>
+        I O filtro digital do algoritmo é do tipo FIR.
+    </first>
+    <pq/>
+    <second>
+        II. O filtro digital do algoritmo não possui termo
+        de transmissão direta.
+    </second>
+</porque>
+
+<question>
+    A respeito das asserções, assinale a afirmação
+    correta.
+</question>
+
+<answer_options>
+    <item>
+        As asserções I e II são proposições verdadeiras, e
+        a II é uma justificativa correta da I.
+    </item>
+    <item>
+        As asserções I e II são proposições verdadeiras,
+        mas a II não é uma justificativa da I.
+    </item>
+    <item>
+        A asserção I é uma proposição verdadeira, e a II é
+        uma proposição falsa.
+    </item>
+    <item>
+        A asserção I é uma proposição falsa, e a II é uma
+        proposição verdadeira.
+    </item>
+    <item>
+        As asserções I e II são proposições falsas.
+    </item>
+</answer_options>

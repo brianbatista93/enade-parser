@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../quiz.css">
+        
+    </head>
+    <body>
+        <p class="paragraph">
+            Os filtros digitais são parte importante do
+            processamento digital de sinais, dada a versatilidade
+            em sua implementação, que é feita por <i>software</i>.
+            Esses filtros são classificados em resposta infinita
+            ao impulso (IIR, ou recursivos) e resposta finita ao
+            impulso (FIR, ou não recursivos), tendo cada classe
+            vantagens e desvantagens bem definidas. Um
+            exemplo de algoritmo em Portugol para um filtro
+            digital é apresentado a seguir.
+        </p>
+        <pre class="text">
+        <b>algoritmo</b>
+            <b>defina</b> <img id="f50a68cc-848d-4d11-948c-d5f65260bab7" class="formula" src="http://latex.codecogs.com/gif.latex?u,x_1,x_2,y" alt="u,x_1,x_2,y" /> <b>numérico</b>
+            <img id="c8e5f9b3-4d62-4d20-a3ec-d98123891920" class="formula" src="http://latex.codecogs.com/gif.latex?x_1 \leftarrow 0;" alt="x_1 \leftarrow 0;" />
+            <img id="07226d02-2ee0-487d-bcb1-ea2f9290b545" class="formula" src="http://latex.codecogs.com/gif.latex?x_2 \leftarrow 0;" alt="x_2 \leftarrow 0;" />
+            <b>repita</b>
+                <b>leia</b> u;
+                <img id="52dc712f-5156-4a5d-abf2-28905db74bbb" class="formula" src="http://latex.codecogs.com/gif.latex?y \leftarrow 2 * x_1 - x_2;" alt="y \leftarrow 2 * x_1 - x_2;" />
+                <img id="1bd2594c-0763-4ac3-b922-028e89b5b25b" class="formula" src="http://latex.codecogs.com/gif.latex?x_2 \leftarrow x_1;" alt="x_2 \leftarrow x_1;" />
+                <img id="d6272fef-9de8-4b59-a1d7-a05fb4a85350" class="formula" src="http://latex.codecogs.com/gif.latex?x_1 \leftarrow u;" alt="x_1 \leftarrow u;" />
+                <b>escreva</b> y'
+            <b>fim-repita</b>
+        <b>fim-algoritmo</b>
+        </pre>
+        <p class="paragraph">
+            A partir do algoritmo apresentado, avalie as asserções
+            a seguir e a relação proposta entre elas.
+        </p>
+        
+        <div class="porque">
+            <p class="first" style="text-align: center">
+                I O filtro digital do algoritmo é do tipo FIR.
+            </p>
+            <p class="pq" style="text-align: center; font-style: bold; font-size: 20">PORQUE</p>
+            <p class="second" style="text-align: center">
+                II. O filtro digital do algoritmo não possui termo
+                de transmissão direta.
+            </p>
+        </div>
+        
+        <p class="question" style="font-size: 24">
+            A respeito das asserções, assinale a afirmação
+            correta.
+        </p>
+        
+        <ol class="answer-options" type="A">
+            <li class="item">
+                As asserções I e II são proposições verdadeiras, e
+                a II é uma justificativa correta da I.
+            </li>
+            <li class="item">
+                As asserções I e II são proposições verdadeiras,
+                mas a II não é uma justificativa da I.
+            </li>
+            <li class="item">
+                A asserção I é uma proposição verdadeira, e a II é
+                uma proposição falsa.
+            </li>
+            <li class="item">
+                A asserção I é uma proposição falsa, e a II é uma
+                proposição verdadeira.
+            </li>
+            <li class="item">
+                As asserções I e II são proposições falsas.
+            </li>
+        </ol>
+    </body>
+</html>

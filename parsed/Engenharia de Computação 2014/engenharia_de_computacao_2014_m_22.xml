@@ -1,0 +1,71 @@
+<paragraph>
+    Dois conhecidos problemas de pesquisa operacional
+    possuem uma ampla gama de aplicações em
+    comunicação, transporte e planejamento: o
+    problema do carteiro chinês (PCC), e o problema
+    do caixeiro viajante (PCV). O primeiro consiste em
+    minimizar o esforço de um carteiro que precisa
+    percorrer todas as ruas de uma cidade. O segundo
+    consiste em minimizar o deslocamento do vendedor
+    que precisa visitar todas as cidades interconectadas
+    de uma dada região, retornando à cidade de origem.
+    Esses problemas têm sido modelados com teoria
+    dos grafos, de onde se destacam dois conceitos
+    relacionados: <i>circuito euleriano e ciclo hamiltoniano.</i>
+</paragraph>
+<paragraph>
+    Uma <b>trilha</b> é uma sequência de arestas adjacentes em
+    que não há repetição de arestas, e seu comprimento
+    é a quantidade de arestas. A trilha é dita fechada se
+    inicia e finaliza no mesmo vértice. Assim, um grafo
+    com <i>m</i> arestas é euleriano se nele existe uma trilha
+    fechada de comprimento <i>m</i> (trilha euleriana). Um
+    ciclo hamiltoniano é uma trilha fechada que passa
+    sem repetir por todos os vértices.
+</paragraph>
+<paragraph>
+    Com base nos conceitos acima, avalie as afirmações
+    a seguir.
+</paragraph>
+
+<question_options>
+    <item>
+        Se o grafo das cidades e suas interconexões
+        for euleriano, então o PCV pode ser resolvido
+        de uma forma tal que o caixeiro não terá que
+        fazer visitas repetidas.
+    </item>
+    <item>
+        Se todas as cidades se conectam com todas
+        as outras, então a solução do PCV é um ciclo
+        hamiltoniano correspondente ao menor
+        deslocamento.
+    </item>
+    <item>
+        Se o grafo for euleriano e possuir um ciclo
+        hamiltoniano, então o PCC e o PCV darão
+        como resultado a mesma trilha.
+    </item>
+</question_options>
+
+<question>
+    É correto o que se afirma em
+</question>
+
+<answer_options>
+    <item>
+        II, apenas.
+    </item>
+    <item>
+        III, apenas.
+    </item>
+    <item>
+        I e II, apenas.
+    </item>
+    <item>
+        I e III, apenas.
+    </item>
+    <item>
+        I, II e III.
+    </item>
+</answer_options>

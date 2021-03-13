@@ -1,0 +1,26 @@
+<paragraph>
+    Um grafo orientado com <i>n</i> vértices pode ser armazenado na seguinte matriz de adjacência: para cada <i>i</i>, <i>j</i>, com
+    <formula id="5cfb6347-eeca-48c4-a709-6240fd1f1986">1 \leq i, j \leq n, M[i][j] = 1</formula>,se a aresta orientada <i>(i, j)</i> pertence ao conjunto de arestas do grafo; caso contrário,
+    <formula id="b89f7852-6395-46b3-97cb-d8ce770c2a66">M[i][j]=0</formula>.
+</paragraph>
+<question>
+    Com base nessas informações, faça o que se pede nos itens a seguir.
+    <list>
+        <item>
+            a) Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e produza
+            a matriz de adjacência do grafo com as arestas reversas. O grafo representado pela matriz resultante
+            deverá conter a aresta <i>(i, j)</i> se, e somente se, a aresta <i>(j, i)</i> pertence ao grafo representado pela matriz de
+            entrada.
+        </item>
+        <item>
+            Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e
+            imprima todos os ciclos orientados de tamanho 3 desse grafo. Para isso, considere que o ciclo orientado
+            (1,2,3) é o mesmo que (2,3,1), porém o ciclo orientado (1,2,3) é diferente do ciclo orientado (3,2,1), de
+            forma que ambos devem ser impressos, caso pertençam ao grafo.
+        </item>
+    </list>
+</question>
+<paragraph>
+    Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos
+    pode ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.
+</paragraph>
